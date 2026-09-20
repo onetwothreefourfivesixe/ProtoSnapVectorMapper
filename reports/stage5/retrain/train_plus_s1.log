@@ -1,0 +1,36 @@
+[plus_s1] training on 444 glyphs: 359 original + 85 promoted {'Assurbanipal': 41, 'Esagil': 44}
+[plus_s1] unet params=7.9M device=cuda train=444 glyphs x4, 111 steps/epoch
+[plus_s1] epoch   2 loss 1.4903 (apex 0.642 aux 1.194 reg 0.1259) | val F1 0.973 err 6.01 exact 0.133 obj 1.046 | 52s
+[plus_s1] epoch   4 loss 1.0502 (apex 0.485 aux 0.741 reg 0.0972) | val F1 0.945 err 4.93 exact 0.267 obj 1.163 | 102s
+[plus_s1] epoch   6 loss 0.9023 (apex 0.416 aux 0.637 reg 0.0840) | val F1 0.990 err 4.36 exact 0.378 obj 1.325 | 153s
+[plus_s1] epoch   8 loss 0.8070 (apex 0.375 aux 0.576 reg 0.0720) | val F1 0.983 err 4.69 exact 0.467 obj 1.402 | 204s
+[plus_s1] epoch  10 loss 0.7258 (apex 0.331 aux 0.530 reg 0.0646) | val F1 0.983 err 3.55 exact 0.622 obj 1.569 | 254s
+[plus_s1] epoch  12 loss 0.6548 (apex 0.289 aux 0.488 reg 0.0607) | val F1 0.972 err 3.48 exact 0.556 obj 1.492 | 305s
+[plus_s1] epoch  14 loss 0.6081 (apex 0.260 aux 0.463 reg 0.0582) | val F1 0.965 err 3.52 exact 0.556 obj 1.485 | 356s
+[plus_s1] epoch  16 loss 0.5461 (apex 0.222 aux 0.429 reg 0.0551) | val F1 0.983 err 3.11 exact 0.622 obj 1.574 | 406s
+[plus_s1] epoch  18 loss 0.4999 (apex 0.195 aux 0.398 reg 0.0531) | val F1 0.981 err 3.33 exact 0.578 obj 1.525 | 457s
+[plus_s1] epoch  20 loss 0.4508 (apex 0.167 aux 0.364 reg 0.0510) | val F1 0.981 err 3.09 exact 0.578 obj 1.527 | 507s
+[plus_s1] epoch  22 loss 0.4179 (apex 0.150 aux 0.336 reg 0.0502) | val F1 0.971 err 3.26 exact 0.533 obj 1.472 | 558s
+[plus_s1] epoch  24 loss 0.3687 (apex 0.123 aux 0.302 reg 0.0477) | val F1 0.983 err 2.97 exact 0.667 obj 1.620 | 608s
+[plus_s1] epoch  26 loss 0.3389 (apex 0.110 aux 0.274 reg 0.0462) | val F1 0.971 err 3.05 exact 0.644 obj 1.585 | 659s
+[plus_s1] epoch  28 loss 0.2975 (apex 0.087 aux 0.242 reg 0.0446) | val F1 0.977 err 3.04 exact 0.600 obj 1.547 | 710s
+[plus_s1] epoch  30 loss 0.2705 (apex 0.075 aux 0.219 reg 0.0429) | val F1 0.975 err 2.97 exact 0.644 obj 1.590 | 761s
+[plus_s1] epoch  32 loss 0.2525 (apex 0.070 aux 0.197 reg 0.0417) | val F1 0.975 err 3.03 exact 0.622 obj 1.567 | 811s
+[plus_s1] epoch  34 loss 0.2299 (apex 0.058 aux 0.180 reg 0.0409) | val F1 0.979 err 3.01 exact 0.644 obj 1.593 | 862s
+[plus_s1] epoch  36 loss 0.2030 (apex 0.048 aux 0.156 reg 0.0386) | val F1 0.981 err 3.00 exact 0.578 obj 1.529 | 912s
+[plus_s1] epoch  38 loss 0.1893 (apex 0.044 aux 0.141 reg 0.0373) | val F1 0.985 err 3.16 exact 0.644 obj 1.597 | 963s
+[plus_s1] epoch  40 loss 0.1680 (apex 0.035 aux 0.121 reg 0.0359) | val F1 0.988 err 3.14 exact 0.667 obj 1.624 | 1014s
+[plus_s1] epoch  42 loss 0.1627 (apex 0.035 aux 0.114 reg 0.0352) | val F1 0.988 err 3.15 exact 0.667 obj 1.624 | 1064s
+[plus_s1] epoch  44 loss 0.1438 (apex 0.027 aux 0.101 reg 0.0334) | val F1 0.973 err 3.05 exact 0.667 obj 1.609 | 1115s
+[plus_s1] epoch  46 loss 0.1339 (apex 0.023 aux 0.090 reg 0.0327) | val F1 0.986 err 3.12 exact 0.622 obj 1.577 | 1165s
+[plus_s1] epoch  48 loss 0.1242 (apex 0.020 aux 0.081 reg 0.0317) | val F1 0.986 err 3.20 exact 0.667 obj 1.621 | 1216s
+[plus_s1] epoch  50 loss 0.1199 (apex 0.020 aux 0.076 reg 0.0311) | val F1 0.981 err 3.05 exact 0.667 obj 1.617 | 1267s
+[plus_s1] epoch  52 loss 0.1138 (apex 0.017 aux 0.071 reg 0.0305) | val F1 0.985 err 3.06 exact 0.689 obj 1.643 | 1317s
+[plus_s1] epoch  54 loss 0.1105 (apex 0.016 aux 0.069 reg 0.0301) | val F1 0.986 err 3.16 exact 0.689 obj 1.644 | 1368s
+[plus_s1] epoch  56 loss 0.1060 (apex 0.016 aux 0.063 reg 0.0295) | val F1 0.986 err 3.16 exact 0.689 obj 1.644 | 1419s
+[plus_s1] epoch  58 loss 0.1059 (apex 0.014 aux 0.064 reg 0.0296) | val F1 0.986 err 3.15 exact 0.667 obj 1.622 | 1469s
+[plus_s1] epoch  60 loss 0.1046 (apex 0.014 aux 0.063 reg 0.0295) | val F1 0.983 err 3.05 exact 0.689 obj 1.641 | 1520s
+[plus_s1] FINAL train P=0.991 R=1.000 F1=0.995 err=0.90 exact=0.900
+[plus_s1] FINAL val   P=0.981 R=0.996 F1=0.988 err=2.90 exact=0.689
+[plus_s1] FINAL test  P=0.965 R=0.997 F1=0.980 err=2.22 exact=0.622
+[plus_s1] best epoch 56 decode {'threshold': 0.4, 'nms_kernel': 5, 'max_wedges': 40, 'snap_radius': 5.0, 'snap_threshold': 0.3, 'min_apex_sep': 3.0} -> checkpoints/retrain/plus_s1/best.pt

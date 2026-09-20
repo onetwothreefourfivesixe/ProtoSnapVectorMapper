@@ -1,0 +1,48 @@
+{
+ "params": {
+  "ink_threshold": 128,
+  "max_hole_area": 24,
+  "head_radius": 4.0,
+  "head_radius_scale": 0.8,
+  "side_max_len": 20.0,
+  "opening_weight": 0.5,
+  "no_tail_penalty": 15.0,
+  "tail_max_dev": 45.0,
+  "missing_prong_penalty": 8.0,
+  "prong_dev_weight": 0.0,
+  "prong_dir_from_centroid": true,
+  "tail_dir_weight": 4.0,
+  "tail_arc": [
+   -40.0,
+   130.0
+  ],
+  "prong_dir_weight": 4.0,
+  "prong_forbidden_arc": [
+   -20.0,
+   120.0
+  ],
+  "capped_prong_penalty": 50.0,
+  "prong_max_dev": 50.0,
+  "prong_max_len": 16.0,
+  "prong_default_len": 6.0,
+  "tip_extension": 0.0,
+  "apex_shift": 1.0,
+  "continue_angle": 35.0,
+  "max_tail_hops": 8,
+  "max_prong_hops": 1,
+  "stop_at_heads": true,
+  "pass_through_heads": true,
+  "merge_angle": 60.0,
+  "nms_apex_dist": 3.0,
+  "nms_angle": 90.0
+ },
+ "tune_split": "train+val",
+ "tune_stats": {
+  "score": 1.241027116618834,
+  "f1": 0.9718743584479572,
+  "precision": 0.9680981595092024,
+  "recall": 0.9756801319043693,
+  "corner_error": 4.520367747268768,
+  "exact": 0.31435643564356436
+ }
+}

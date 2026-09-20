@@ -1,0 +1,41 @@
+{
+ "split": "test",
+ "counts": {
+  "classical": {
+   "head tip off by >10 px": 27,
+   "head tip off by >10 px (rare orientation)": 4,
+   "prong and tail swapped": 6,
+   "tail stopped early (>10 px short)": 12,
+   "tail overshoot or sideways (>10 px)": 16,
+   "tail off by >10 px (rare orientation)": 9,
+   "near miss: FN with a prediction 10-20 px away": 8,
+   "near miss: FP within 10-20 px of a wedge": 10,
+   "missed wedge (FN, nothing nearby)": 1,
+   "spurious wedge (FP, nothing nearby)": 7
+  },
+  "unet_xc": {
+   "head tip off by >10 px": 0,
+   "head tip off by >10 px (rare orientation)": 0,
+   "prong and tail swapped": 12,
+   "tail stopped early (>10 px short)": 13,
+   "tail overshoot or sideways (>10 px)": 9,
+   "tail off by >10 px (rare orientation)": 11,
+   "near miss: FN with a prediction 10-20 px away": 2,
+   "near miss: FP within 10-20 px of a wedge": 3,
+   "missed wedge (FN, nothing nearby)": 0,
+   "spurious wedge (FP, nothing nearby)": 7
+  },
+  "hybrid": {
+   "head tip off by >10 px": 0,
+   "head tip off by >10 px (rare orientation)": 0,
+   "prong and tail swapped": 12,
+   "tail stopped early (>10 px short)": 6,
+   "tail overshoot or sideways (>10 px)": 2,
+   "tail off by >10 px (rare orientation)": 11,
+   "near miss: FN with a prediction 10-20 px away": 2,
+   "near miss: FP within 10-20 px of a wedge": 3,
+   "missed wedge (FN, nothing nearby)": 0,
+   "spurious wedge (FP, nothing nearby)": 7
+  }
+ }
+}

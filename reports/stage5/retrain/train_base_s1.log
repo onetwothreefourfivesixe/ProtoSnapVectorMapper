@@ -1,0 +1,35 @@
+[base_s1] unet params=7.9M device=cuda train=359 glyphs x4, 90 steps/epoch
+[base_s1] epoch   2 loss 1.7946 (apex 0.793 aux 1.450 reg 0.1383) | val F1 0.954 err 5.85 exact 0.067 obj 0.962 | 42s
+[base_s1] epoch   4 loss 1.1537 (apex 0.577 aux 0.736 reg 0.1044) | val F1 0.973 err 4.97 exact 0.400 obj 1.323 | 83s
+[base_s1] epoch   6 loss 1.0304 (apex 0.529 aux 0.635 reg 0.0921) | val F1 0.962 err 4.71 exact 0.156 obj 1.070 | 124s
+[base_s1] epoch   8 loss 0.9120 (apex 0.467 aux 0.569 reg 0.0802) | val F1 0.985 err 4.72 exact 0.400 obj 1.337 | 165s
+[base_s1] epoch  10 loss 0.8426 (apex 0.435 aux 0.523 reg 0.0731) | val F1 0.983 err 4.34 exact 0.556 obj 1.495 | 206s
+[base_s1] epoch  12 loss 0.7719 (apex 0.391 aux 0.494 reg 0.0669) | val F1 0.977 err 3.80 exact 0.533 obj 1.472 | 247s
+[base_s1] epoch  14 loss 0.6954 (apex 0.341 aux 0.455 reg 0.0632) | val F1 0.975 err 3.70 exact 0.556 obj 1.494 | 288s
+[base_s1] epoch  16 loss 0.6392 (apex 0.302 aux 0.431 reg 0.0606) | val F1 0.990 err 3.69 exact 0.667 obj 1.620 | 329s
+[base_s1] epoch  18 loss 0.5984 (apex 0.278 aux 0.407 reg 0.0584) | val F1 0.977 err 3.66 exact 0.578 obj 1.518 | 370s
+[base_s1] epoch  20 loss 0.5694 (apex 0.257 aux 0.393 reg 0.0582) | val F1 0.977 err 3.58 exact 0.533 obj 1.474 | 411s
+[base_s1] epoch  22 loss 0.4865 (apex 0.199 aux 0.360 reg 0.0539) | val F1 0.973 err 3.38 exact 0.622 obj 1.561 | 452s
+[base_s1] epoch  24 loss 0.4559 (apex 0.184 aux 0.330 reg 0.0536) | val F1 0.973 err 3.47 exact 0.556 obj 1.494 | 493s
+[base_s1] epoch  26 loss 0.4134 (apex 0.156 aux 0.310 reg 0.0514) | val F1 0.967 err 3.34 exact 0.533 obj 1.467 | 534s
+[base_s1] epoch  28 loss 0.3578 (apex 0.123 aux 0.276 reg 0.0482) | val F1 0.979 err 3.26 exact 0.600 obj 1.546 | 575s
+[base_s1] epoch  30 loss 0.3388 (apex 0.113 aux 0.261 reg 0.0475) | val F1 0.983 err 3.28 exact 0.600 obj 1.550 | 616s
+[base_s1] epoch  32 loss 0.3077 (apex 0.094 aux 0.244 reg 0.0455) | val F1 0.983 err 3.38 exact 0.622 obj 1.571 | 657s
+[base_s1] epoch  34 loss 0.2803 (apex 0.084 aux 0.218 reg 0.0438) | val F1 0.977 err 3.37 exact 0.556 obj 1.499 | 698s
+[base_s1] epoch  36 loss 0.2469 (apex 0.067 aux 0.192 reg 0.0418) | val F1 0.983 err 3.36 exact 0.667 obj 1.616 | 738s
+[base_s1] epoch  38 loss 0.2243 (apex 0.056 aux 0.175 reg 0.0400) | val F1 0.971 err 3.16 exact 0.600 obj 1.539 | 780s
+[base_s1] epoch  40 loss 0.2054 (apex 0.049 aux 0.159 reg 0.0386) | val F1 0.967 err 3.16 exact 0.511 obj 1.447 | 821s
+[base_s1] epoch  42 loss 0.1974 (apex 0.049 aux 0.147 reg 0.0377) | val F1 0.971 err 3.11 exact 0.644 obj 1.584 | 863s
+[base_s1] epoch  44 loss 0.1783 (apex 0.040 aux 0.131 reg 0.0366) | val F1 0.963 err 3.21 exact 0.622 obj 1.553 | 904s
+[base_s1] epoch  46 loss 0.1579 (apex 0.029 aux 0.117 reg 0.0351) | val F1 0.962 err 3.07 exact 0.556 obj 1.487 | 945s
+[base_s1] epoch  48 loss 0.1468 (apex 0.025 aux 0.109 reg 0.0336) | val F1 0.971 err 3.07 exact 0.600 obj 1.540 | 986s
+[base_s1] epoch  50 loss 0.1411 (apex 0.026 aux 0.099 reg 0.0330) | val F1 0.963 err 3.14 exact 0.578 obj 1.510 | 1027s
+[base_s1] epoch  52 loss 0.1356 (apex 0.023 aux 0.096 reg 0.0325) | val F1 0.959 err 3.07 exact 0.600 obj 1.529 | 1068s
+[base_s1] epoch  54 loss 0.1316 (apex 0.022 aux 0.092 reg 0.0321) | val F1 0.959 err 3.13 exact 0.556 obj 1.484 | 1109s
+[base_s1] epoch  56 loss 0.1235 (apex 0.019 aux 0.083 reg 0.0312) | val F1 0.967 err 3.13 exact 0.622 obj 1.558 | 1150s
+[base_s1] epoch  58 loss 0.1230 (apex 0.019 aux 0.083 reg 0.0315) | val F1 0.961 err 3.13 exact 0.578 obj 1.508 | 1191s
+[base_s1] epoch  60 loss 0.1225 (apex 0.018 aux 0.083 reg 0.0315) | val F1 0.959 err 3.12 exact 0.578 obj 1.506 | 1232s
+[base_s1] FINAL train P=0.975 R=1.000 F1=0.987 err=2.18 exact=0.591
+[base_s1] FINAL val   P=0.985 R=0.996 F1=0.990 err=3.07 exact=0.667
+[base_s1] FINAL test  P=0.955 R=0.987 F1=0.970 err=2.49 exact=0.444
+[base_s1] best epoch 16 decode {'threshold': 0.3, 'nms_kernel': 5, 'max_wedges': 40, 'snap_radius': 8.0, 'snap_threshold': 0.3, 'min_apex_sep': 3.0} -> checkpoints/retrain/base_s1/best.pt

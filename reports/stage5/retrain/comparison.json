@@ -1,0 +1,484 @@
+{
+ "groups": [
+  {
+   "label": "Stage 4 model (old targets, original data)",
+   "runs": [
+    {
+     "checkpoint": "checkpoints/unet_xc/best.pt",
+     "val": {
+      "all": {
+       "precision": 0.9806949806949807,
+       "recall": 0.9921875,
+       "f1": 0.9864077669902913,
+       "corner_error": 2.9785283070727164,
+       "apex": 1.5022375610359189,
+       "heads": 3.0617262827586407,
+       "tail": 4.2884231017376635,
+       "exact": 0.6888888888888889
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 1.0,
+       "f1": 1.0,
+       "corner_error": 2.2337766947012403,
+       "apex": 1.5789531466161513,
+       "heads": 2.421989215880164,
+       "tail": 2.5121752004284823,
+       "exact": 0.8125
+      },
+      "Santakku": {
+       "precision": 0.9722222222222222,
+       "recall": 0.9887005649717514,
+       "f1": 0.9803921568627451,
+       "corner_error": 3.3147304635146964,
+       "apex": 1.4676059538311281,
+       "heads": 3.3505218729494963,
+       "tail": 5.090272154328665,
+       "exact": 0.6206896551724138
+      }
+     },
+     "test": {
+      "all": {
+       "precision": 0.9675324675324676,
+       "recall": 0.9933333333333333,
+       "f1": 0.9802631578947368,
+       "corner_error": 2.1759681707400405,
+       "apex": 1.3944959702995017,
+       "heads": 2.113025939465868,
+       "tail": 3.0833248337289243,
+       "exact": 0.6444444444444445
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 0.9912280701754386,
+       "f1": 0.9955947136563876,
+       "corner_error": 1.8643825933886695,
+       "apex": 1.4380613464216239,
+       "heads": 1.6948562824890088,
+       "tail": 2.629756462155036,
+       "exact": 0.6875
+      },
+      "Santakku": {
+       "precision": 0.9487179487179487,
+       "recall": 0.9946236559139785,
+       "f1": 0.9711286089238845,
+       "corner_error": 2.366288009878986,
+       "apex": 1.3678857675870701,
+       "heads": 2.368448486700382,
+       "tail": 3.36036929852811,
+       "exact": 0.6206896551724138
+      }
+     },
+     "failures_test": {
+      "head tip off by >10 px": 0,
+      "head tip off by >10 px (rare orientation)": 0,
+      "prong and tail swapped": 12,
+      "tail stopped early (>10 px short)": 6,
+      "tail overshoot or sideways (>10 px)": 2,
+      "tail off by >10 px (rare orientation)": 11,
+      "near miss: FN with a prediction 10-20 px away": 2,
+      "near miss: FP within 10-20 px of a wedge": 3,
+      "missed wedge (FN, nothing nearby)": 0,
+      "spurious wedge (FP, nothing nearby)": 7
+     },
+     "proxy": {
+      "Assurbanipal": {
+       "glyphs": 120,
+       "wedges": 1228,
+       "off_ink_rate": 0.03908794788273615,
+       "doubtful_rate": 0.1986970684039088
+      },
+      "Esagil": {
+       "glyphs": 120,
+       "wedges": 835,
+       "off_ink_rate": 0.008383233532934131,
+       "doubtful_rate": 0.14131736526946106
+      }
+     }
+    }
+   ]
+  },
+  {
+   "label": "Fixed targets, original data",
+   "runs": [
+    {
+     "checkpoint": "checkpoints/retrain/base_s0/best.pt",
+     "val": {
+      "all": {
+       "precision": 0.9693486590038314,
+       "recall": 0.98828125,
+       "f1": 0.9787234042553192,
+       "corner_error": 2.461246682989293,
+       "apex": 1.3551247911632407,
+       "heads": 2.506944561969033,
+       "tail": 3.4759728168558675,
+       "exact": 0.6666666666666666
+      },
+      "Assurbanipal": {
+       "precision": 0.9875,
+       "recall": 1.0,
+       "f1": 0.9937106918238994,
+       "corner_error": 1.6814235521451726,
+       "apex": 1.4275103499281878,
+       "heads": 1.6903561929561315,
+       "tail": 1.9174714727402398,
+       "exact": 0.8125
+      },
+      "Santakku": {
+       "precision": 0.9613259668508287,
+       "recall": 0.9830508474576272,
+       "f1": 0.9720670391061453,
+       "corner_error": 2.815304311361049,
+       "apex": 1.322260083448121,
+       "heads": 2.877694453647304,
+       "tail": 4.183568254701468,
+       "exact": 0.5862068965517241
+      }
+     },
+     "test": {
+      "all": {
+       "precision": 0.9577922077922078,
+       "recall": 0.9833333333333333,
+       "f1": 0.9703947368421053,
+       "corner_error": 2.15048742862682,
+       "apex": 1.4556894881817672,
+       "heads": 2.0698665448376885,
+       "tail": 3.006527136650136,
+       "exact": 0.6444444444444445
+      },
+      "Assurbanipal": {
+       "precision": 0.9824561403508771,
+       "recall": 0.9824561403508771,
+       "f1": 0.9824561403508771,
+       "corner_error": 1.8957560034942642,
+       "apex": 1.4930039264681432,
+       "heads": 1.674753550125427,
+       "tail": 2.7405129872580596,
+       "exact": 0.6875
+      },
+      "Santakku": {
+       "precision": 0.9432989690721649,
+       "recall": 0.9838709677419355,
+       "f1": 0.9631578947368421,
+       "corner_error": 2.306388628707947,
+       "apex": 1.4328522363343679,
+       "heads": 2.311684333951203,
+       "tail": 3.1693336105950127,
+       "exact": 0.6206896551724138
+      }
+     },
+     "failures_test": {
+      "head tip off by >10 px": 1,
+      "head tip off by >10 px (rare orientation)": 3,
+      "prong and tail swapped": 8,
+      "tail stopped early (>10 px short)": 8,
+      "tail overshoot or sideways (>10 px)": 3,
+      "tail off by >10 px (rare orientation)": 8,
+      "near miss: FN with a prediction 10-20 px away": 5,
+      "near miss: FP within 10-20 px of a wedge": 6,
+      "missed wedge (FN, nothing nearby)": 0,
+      "spurious wedge (FP, nothing nearby)": 7
+     },
+     "proxy": {
+      "Assurbanipal": {
+       "glyphs": 120,
+       "wedges": 1235,
+       "off_ink_rate": 0.04129554655870445,
+       "doubtful_rate": 0.15465587044534412
+      },
+      "Esagil": {
+       "glyphs": 120,
+       "wedges": 844,
+       "off_ink_rate": 0.009478672985781991,
+       "doubtful_rate": 0.12203791469194313
+      }
+     }
+    },
+    {
+     "checkpoint": "checkpoints/retrain/base_s1/best.pt",
+     "val": {
+      "all": {
+       "precision": 0.9845559845559846,
+       "recall": 0.99609375,
+       "f1": 0.9902912621359223,
+       "corner_error": 3.0234037755545855,
+       "apex": 1.5493471138115589,
+       "heads": 2.9823483642909547,
+       "tail": 4.5795712598248715,
+       "exact": 0.7111111111111111
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 1.0,
+       "f1": 1.0,
+       "corner_error": 2.3365802030670686,
+       "apex": 1.5913309818516979,
+       "heads": 2.3373156627961342,
+       "tail": 3.080358504824309,
+       "exact": 0.875
+      },
+      "Santakku": {
+       "precision": 0.9777777777777777,
+       "recall": 0.9943502824858758,
+       "f1": 0.9859943977591036,
+       "corner_error": 3.331693901841596,
+       "apex": 1.5305020821344515,
+       "heads": 3.2718800882573804,
+       "tail": 5.25251334871717,
+       "exact": 0.6206896551724138
+      }
+     },
+     "test": {
+      "all": {
+       "precision": 0.9548387096774194,
+       "recall": 0.9866666666666667,
+       "f1": 0.9704918032786887,
+       "corner_error": 2.350759718016674,
+       "apex": 1.4352350142771855,
+       "heads": 2.3914773756172423,
+       "tail": 3.184849106555028,
+       "exact": 0.5333333333333333
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 0.9736842105263158,
+       "f1": 0.9866666666666666,
+       "corner_error": 2.0145944039336627,
+       "apex": 1.4348144846014308,
+       "heads": 2.023220512407064,
+       "tail": 2.5771221063190914,
+       "exact": 0.5
+      },
+      "Santakku": {
+       "precision": 0.9296482412060302,
+       "recall": 0.9946236559139785,
+       "f1": 0.9610389610389611,
+       "corner_error": 2.5524589064664815,
+       "apex": 1.4354873320826382,
+       "heads": 2.6124314935433492,
+       "tail": 3.549485306696591,
+       "exact": 0.5517241379310345
+      }
+     },
+     "failures_test": {
+      "head tip off by >10 px": 8,
+      "head tip off by >10 px (rare orientation)": 0,
+      "prong and tail swapped": 11,
+      "tail stopped early (>10 px short)": 7,
+      "tail overshoot or sideways (>10 px)": 2,
+      "tail off by >10 px (rare orientation)": 10,
+      "near miss: FN with a prediction 10-20 px away": 2,
+      "near miss: FP within 10-20 px of a wedge": 7,
+      "missed wedge (FN, nothing nearby)": 2,
+      "spurious wedge (FP, nothing nearby)": 7
+     },
+     "proxy": {
+      "Assurbanipal": {
+       "glyphs": 120,
+       "wedges": 1251,
+       "off_ink_rate": 0.0815347721822542,
+       "doubtful_rate": 0.2246203037569944
+      },
+      "Esagil": {
+       "glyphs": 120,
+       "wedges": 840,
+       "off_ink_rate": 0.03214285714285714,
+       "doubtful_rate": 0.15714285714285714
+      }
+     }
+    }
+   ]
+  },
+  {
+   "label": "Fixed targets, original + your reviewed labels",
+   "runs": [
+    {
+     "checkpoint": "checkpoints/retrain/plus_s0/best.pt",
+     "val": {
+      "all": {
+       "precision": 0.9807692307692307,
+       "recall": 0.99609375,
+       "f1": 0.9883720930232558,
+       "corner_error": 2.7992431501870043,
+       "apex": 1.468979329827828,
+       "heads": 2.7581919155701335,
+       "tail": 4.211609439779923,
+       "exact": 0.6666666666666666
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 1.0,
+       "f1": 1.0,
+       "corner_error": 2.2084771712893554,
+       "apex": 1.559062813956035,
+       "heads": 2.0671257134309178,
+       "tail": 3.1405944443395515,
+       "exact": 0.8125
+      },
+      "Santakku": {
+       "precision": 0.9723756906077348,
+       "recall": 0.9943502824858758,
+       "f1": 0.9832402234636871,
+       "corner_error": 3.0644165157149263,
+       "apex": 1.4285441295657353,
+       "heads": 3.0683864040303495,
+       "tail": 4.692349125233272,
+       "exact": 0.5862068965517241
+      }
+     },
+     "test": {
+      "all": {
+       "precision": 0.9614147909967846,
+       "recall": 0.9966666666666667,
+       "f1": 0.9787234042553191,
+       "corner_error": 2.0854851599245467,
+       "apex": 1.4384696092089935,
+       "heads": 2.0481725624572427,
+       "tail": 2.807125905574709,
+       "exact": 0.6888888888888889
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 0.9912280701754386,
+       "f1": 0.9955947136563876,
+       "corner_error": 1.7643059153148886,
+       "apex": 1.4689840301087507,
+       "heads": 1.5902699772430697,
+       "tail": 2.407699676664664,
+       "exact": 0.75
+      },
+      "Santakku": {
+       "precision": 0.9393939393939394,
+       "recall": 1.0,
+       "f1": 0.96875,
+       "corner_error": 2.2806101848755755,
+       "apex": 1.4199312782322593,
+       "heads": 2.3263606921841324,
+       "tail": 3.0497880769017796,
+       "exact": 0.6551724137931034
+      }
+     },
+     "failures_test": {
+      "head tip off by >10 px": 1,
+      "head tip off by >10 px (rare orientation)": 1,
+      "prong and tail swapped": 10,
+      "tail stopped early (>10 px short)": 6,
+      "tail overshoot or sideways (>10 px)": 2,
+      "tail off by >10 px (rare orientation)": 10,
+      "near miss: FN with a prediction 10-20 px away": 1,
+      "near miss: FP within 10-20 px of a wedge": 6,
+      "missed wedge (FN, nothing nearby)": 0,
+      "spurious wedge (FP, nothing nearby)": 6
+     },
+     "proxy": {
+      "Assurbanipal": {
+       "glyphs": 120,
+       "wedges": 1242,
+       "off_ink_rate": 0.023349436392914653,
+       "doubtful_rate": 0.10064412238325282
+      },
+      "Esagil": {
+       "glyphs": 120,
+       "wedges": 844,
+       "off_ink_rate": 0.011848341232227487,
+       "doubtful_rate": 0.07582938388625593
+      }
+     }
+    },
+    {
+     "checkpoint": "checkpoints/retrain/plus_s1/best.pt",
+     "val": {
+      "all": {
+       "precision": 0.9807692307692307,
+       "recall": 0.99609375,
+       "f1": 0.9883720930232558,
+       "corner_error": 2.8299843094169934,
+       "apex": 1.5323229644941154,
+       "heads": 2.885568481402954,
+       "tail": 4.016477310367952,
+       "exact": 0.7111111111111111
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 1.0,
+       "f1": 1.0,
+       "corner_error": 2.1585283420878834,
+       "apex": 1.61516045739308,
+       "heads": 2.1095954698312114,
+       "tail": 2.7997619712960304,
+       "exact": 0.875
+      },
+      "Santakku": {
+       "precision": 0.9723756906077348,
+       "recall": 0.9943502824858758,
+       "f1": 0.9832402234636871,
+       "corner_error": 3.1313764765704017,
+       "apex": 1.4951402262042393,
+       "heads": 3.2338745490970893,
+       "tail": 4.562616581883189,
+       "exact": 0.6206896551724138
+      }
+     },
+     "test": {
+      "all": {
+       "precision": 0.964516129032258,
+       "recall": 0.9966666666666667,
+       "f1": 0.980327868852459,
+       "corner_error": 2.1654002720420795,
+       "apex": 1.4380396971794454,
+       "heads": 2.074391813768804,
+       "tail": 3.074777763451266,
+       "exact": 0.6222222222222222
+      },
+      "Assurbanipal": {
+       "precision": 1.0,
+       "recall": 0.9912280701754386,
+       "f1": 0.9955947136563876,
+       "corner_error": 1.761921377111899,
+       "apex": 1.5085570465368332,
+       "heads": 1.5431524931612968,
+       "tail": 2.4528234755881697,
+       "exact": 0.75
+      },
+      "Santakku": {
+       "precision": 0.9441624365482234,
+       "recall": 1.0,
+       "f1": 0.9712793733681463,
+       "corner_error": 2.4105245469190177,
+       "apex": 1.395198511817161,
+       "heads": 2.397133981664763,
+       "tail": 3.452631712529383,
+       "exact": 0.5517241379310345
+      }
+     },
+     "failures_test": {
+      "head tip off by >10 px": 1,
+      "head tip off by >10 px (rare orientation)": 0,
+      "prong and tail swapped": 10,
+      "tail stopped early (>10 px short)": 6,
+      "tail overshoot or sideways (>10 px)": 4,
+      "tail off by >10 px (rare orientation)": 10,
+      "near miss: FN with a prediction 10-20 px away": 1,
+      "near miss: FP within 10-20 px of a wedge": 5,
+      "missed wedge (FN, nothing nearby)": 0,
+      "spurious wedge (FP, nothing nearby)": 6
+     },
+     "proxy": {
+      "Assurbanipal": {
+       "glyphs": 120,
+       "wedges": 1238,
+       "off_ink_rate": 0.029079159935379646,
+       "doubtful_rate": 0.1122778675282714
+      },
+      "Esagil": {
+       "glyphs": 120,
+       "wedges": 842,
+       "off_ink_rate": 0.013064133016627079,
+       "doubtful_rate": 0.08194774346793349
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,805 @@
+font,codepoint,name,in_font_per_metadata
+Assurbanipal,0x12003,,True
+Assurbanipal,0x12025,AL TIMES KAD3,True
+Assurbanipal,0x12030,AN PLUS NAGA OPPOSING AN PLUS NAGA,True
+Assurbanipal,0x12031,AN PLUS NAGA SQUARED,True
+Assurbanipal,0x12036,,True
+Assurbanipal,0x12037,ASAL2,True
+Assurbanipal,0x1203b,ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP,True
+Assurbanipal,0x12042,,True
+Assurbanipal,0x12043,,True
+Assurbanipal,0x12045,,True
+Assurbanipal,0x1204a,BI TIMES A,True
+Assurbanipal,0x1204f,,True
+Assurbanipal,0x1205c,,True
+Assurbanipal,0x12078,CUNEIFORM SIGN DIN KASKAL U GUNU DISH,True
+Assurbanipal,0x1207f,,True
+Assurbanipal,0x1208b,E TIMES PAP,True
+Assurbanipal,0x1208c,E OVER E NUN OVER NUN,True
+Assurbanipal,0x1208f,E2 TIMES GAR,True
+Assurbanipal,0x12090,E2 TIMES MI,True
+Assurbanipal,0x12091,E2 TIMES SAL,True
+Assurbanipal,0x12092,E2 TIMES SCHE(standard),True
+Assurbanipal,0x12093,,True
+Assurbanipal,0x1209a,EN TIMES ME,True
+Assurbanipal,0x1209b,EN CROSSING EN,True
+Assurbanipal,0x1209c,,True
+Assurbanipal,0x1209d,EN SQUARED,True
+Assurbanipal,0x120a8,,True
+Assurbanipal,0x120aa,,True
+Assurbanipal,0x120b9,,True
+Assurbanipal,0x120bb,,True
+Assurbanipal,0x120c0,,True
+Assurbanipal,0x120c1,,True
+Assurbanipal,0x120c7,,True
+Assurbanipal,0x120cf,,True
+Assurbanipal,0x120d2,,True
+Assurbanipal,0x120da,,True
+Assurbanipal,0x120dd,,True
+Assurbanipal,0x120ec,,True
+Assurbanipal,0x120ed,,True
+Assurbanipal,0x120ef,,True
+Assurbanipal,0x120f3,GAL GAD OVER GAD GAR OVER GAR,True
+Assurbanipal,0x120fa,GAN2 CROSSING GAN2,True
+Assurbanipal,0x12101,GI TIMES E,True
+Assurbanipal,0x12102,,True
+Assurbanipal,0x12106,GI4 CROSSING GI4,True
+Assurbanipal,0x1210d,GIR3 TIMES IGI,True
+Assurbanipal,0x1210f,GIR3 TIMES PA,True
+Assurbanipal,0x12114,,True
+Assurbanipal,0x1211a,,True
+Assurbanipal,0x1211c,,True
+Assurbanipal,0x12128,GURUSH,True
+Assurbanipal,0x12139,,True
+Assurbanipal,0x1213a,,True
+Assurbanipal,0x1213b,,True
+Assurbanipal,0x1213c,,True
+Assurbanipal,0x12144,,True
+Assurbanipal,0x12149,IGI OVER IGI SHIR OVER SHIR UD OVER UD,True
+Assurbanipal,0x12151,,True
+Assurbanipal,0x12152,IM SQUARED,True
+Assurbanipal,0x12159,,True
+Assurbanipal,0x1215f,,True
+Assurbanipal,0x12163,,True
+Assurbanipal,0x12167,,True
+Assurbanipal,0x12169,,True
+Assurbanipal,0x1216f,KA TIMES KAK,True
+Assurbanipal,0x12171,,True
+Assurbanipal,0x12173,,True
+Assurbanipal,0x12175,KA TIMES ME PLUS DU,True
+Assurbanipal,0x12176,KA TIMES ME PLUS GI,True
+Assurbanipal,0x12177,KA TIMES ME PLUS TE,True
+Assurbanipal,0x12179,,True
+Assurbanipal,0x12185,,True
+Assurbanipal,0x12186,,True
+Assurbanipal,0x1218a,,True
+Assurbanipal,0x1218c,,True
+Assurbanipal,0x1218e,,True
+Assurbanipal,0x12194,,True
+Assurbanipal,0x12196,,True
+Assurbanipal,0x12199,KAL CROSSING KAL,True
+Assurbanipal,0x121ab,KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2,True
+Assurbanipal,0x121ae,,True
+Assurbanipal,0x121b1,KUL GUNU,True
+Assurbanipal,0x121b4,KUR OPPOSING KUR,True
+Assurbanipal,0x121b6,,True
+Assurbanipal,0x121cd,,True
+Assurbanipal,0x121ce,,True
+Assurbanipal,0x121d4,LAGAB TIMES LAGAB,True
+Assurbanipal,0x121dd,LAGAB TIMES SHITA PLUS GISH PLUS ERIN2,True
+Assurbanipal,0x121e2,,True
+Assurbanipal,0x121f1,,True
+Assurbanipal,0x121f6,,True
+Assurbanipal,0x12200,LU2 TIMES ESH2,True
+Assurbanipal,0x12201,LU2 TIMES ESH2 TENU,True
+Assurbanipal,0x12206,LU2 TIMES KAD3,True
+Assurbanipal,0x12207,,True
+Assurbanipal,0x12209,,True
+Assurbanipal,0x1220b,LU2 TIMES ME PLUS EN,True
+Assurbanipal,0x1220d,,True
+Assurbanipal,0x1220e,,True
+Assurbanipal,0x12212,LU2 CROSSING LU2,True
+Assurbanipal,0x12214,LU2 SQUARED,True
+Assurbanipal,0x12218,LUGAL OVER LUGAL,True
+Assurbanipal,0x12221,,True
+Assurbanipal,0x12233,,True
+Assurbanipal,0x12234,,True
+Assurbanipal,0x12235,,True
+Assurbanipal,0x12237,MUSH OVER MUSH TIMES A PLUS NA,True
+Assurbanipal,0x12238,MUSH CROSSING MUSH,True
+Assurbanipal,0x1223c,,True
+Assurbanipal,0x12245,,True
+Assurbanipal,0x1224d,NI TIMES E,True
+Assurbanipal,0x12257,NINDA2 TIMES ME PLUS GAN2 TENU,True
+Assurbanipal,0x1225f,,True
+Assurbanipal,0x1226c,NUN CROSSING NUN LAGAR OVER LAGAR,True
+Assurbanipal,0x12277,,True
+Assurbanipal,0x12280,PI TIMES A,True
+Assurbanipal,0x12281,PI TIMES AB,True
+Assurbanipal,0x12282,PI TIMES BI,True
+Assurbanipal,0x12283,PI TIMES BU,True
+Assurbanipal,0x12284,PI TIMES E,True
+Assurbanipal,0x12285,PI TIMES I,True
+Assurbanipal,0x12286,PI TIMES IB,True
+Assurbanipal,0x12287,PI TIMES U,True
+Assurbanipal,0x12288,,True
+Assurbanipal,0x12289,PI TIMES U2,True
+Assurbanipal,0x1228e,PIRIG OPPOSING PIRIG,True
+Assurbanipal,0x12298,,True
+Assurbanipal,0x1229b,,True
+Assurbanipal,0x122a1,,True
+Assurbanipal,0x122a7,SAG OVER SAG,True
+Assurbanipal,0x122ab,,True
+Assurbanipal,0x122b8,,True
+Assurbanipal,0x122d5,,True
+Assurbanipal,0x122d8,,True
+Assurbanipal,0x122e3,,True
+Assurbanipal,0x122f4,,True
+Assurbanipal,0x122f5,TAG TIMES GUD,True
+Assurbanipal,0x122f6,,True
+Assurbanipal,0x122f7,TAG TIMES SHU,True
+Assurbanipal,0x122f8,TAG TIMES TUG2,True
+Assurbanipal,0x122f9,TAG TIMES UD,True
+Assurbanipal,0x12302,,True
+Assurbanipal,0x1230e,U OVER U PA OVER PA GAR OVER GAR,True
+Assurbanipal,0x1230f,U OVER U SUR OVER SUR,True
+Assurbanipal,0x12315,,True
+Assurbanipal,0x12323,UMUM,True
+Assurbanipal,0x12325,UMUM TIMES PA,True
+Assurbanipal,0x12327,,True
+Assurbanipal,0x12329,UR CROSSING UR,True
+Assurbanipal,0x1232d,,True
+Assurbanipal,0x12333,,True
+Assurbanipal,0x12339,,True
+Assurbanipal,0x1233b,,True
+Assurbanipal,0x1233d,,True
+Assurbanipal,0x12343,,True
+Assurbanipal,0x12344,,True
+Assurbanipal,0x12345,,True
+Assurbanipal,0x12346,,True
+Assurbanipal,0x12348,,True
+Assurbanipal,0x1234a,,True
+Assurbanipal,0x12350,URUDA TIMES U,True
+Assurbanipal,0x12354,,True
+Assurbanipal,0x12356,,True
+Assurbanipal,0x12357,USH2,True
+Assurbanipal,0x12358,,True
+Assurbanipal,0x12359,UTUKI,True
+Assurbanipal,0x12361,,True
+Assurbanipal,0x12367,ZIB KABA TENU,True
+Assurbanipal,0x12369,ZIZ2,True
+Assurbanipal,0x1236b,ZU5,True
+Assurbanipal,0x1236c,ZU5 TIMES A,True
+Assurbanipal,0x1236f,,True
+Assurbanipal,0x1237e,,True
+Assurbanipal,0x12381,,True
+Assurbanipal,0x12382,,True
+Assurbanipal,0x12385,,True
+Assurbanipal,0x12398,UM TIMES ME,True
+Santakku,0x12001,A TIMES A,False
+Santakku,0x12002,A TIMES BAD,False
+Santakku,0x12003,,False
+Santakku,0x12004,A TIMES HA,False
+Santakku,0x12005,A TIMES IGI,False
+Santakku,0x12006,A TIMES LAGAR GUNU,False
+Santakku,0x12007,A TIMES MUSH,False
+Santakku,0x12008,A TIMES SAG,False
+Santakku,0x1200b,AB TIMES ASH2,False
+Santakku,0x1200c,AB TIMES DUN3 GUNU,False
+Santakku,0x1200d,AB TIMES GAL,False
+Santakku,0x1200e,AB TIMES GAN2 TENU,False
+Santakku,0x12010,AB TIMES IGI GUNU,False
+Santakku,0x12011,AB TIMES IMIN,False
+Santakku,0x12012,AB TIMES LAGAB,False
+Santakku,0x12013,AB TIMES SHESH,False
+Santakku,0x12017,AB2 TIMES BALAG,False
+Santakku,0x12018,AB2 TIMES GAN2 TENU,False
+Santakku,0x12019,AB2 TIMES ME PLUS EN,False
+Santakku,0x1201a,AB2 TIMES SHA3,False
+Santakku,0x1201b,AB2 TIMES TAK4,False
+Santakku,0x1201e,AK TIMES ERIN2,False
+Santakku,0x1201f,AK TIMES SHITA PLUS GISH,False
+Santakku,0x12021,AL TIMES AL,False
+Santakku,0x12022,AL TIMES DIM2,False
+Santakku,0x12023,AL TIMES GISH,False
+Santakku,0x12024,AL TIMES HA,False
+Santakku,0x12025,AL TIMES KAD3,False
+Santakku,0x12026,AL TIMES KI,False
+Santakku,0x12027,AL TIMES SHE,False
+Santakku,0x12028,AL TIMES USH,False
+Santakku,0x1202e,AN OVER AN,False
+Santakku,0x12030,AN PLUS NAGA OPPOSING AN PLUS NAGA,False
+Santakku,0x12031,AN PLUS NAGA SQUARED,False
+Santakku,0x12035,ARAD TIMES KUR,False
+Santakku,0x12036,,False
+Santakku,0x12037,ASAL2,False
+Santakku,0x1203a,ASH KABA TENU,False
+Santakku,0x1203b,ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP,False
+Santakku,0x1203c,CUNEIFORM SIGN ASH OVER ASH OVER ASH & TAB,False
+Santakku,0x1203d,ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH,False
+Santakku,0x12042,,False
+Santakku,0x12043,,False
+Santakku,0x12045,,False
+Santakku,0x1204a,BI TIMES A,False
+Santakku,0x1204b,BI TIMES GAR,False
+Santakku,0x1204c,BI TIMES IGI GUNU,False
+Santakku,0x1204e,BU OVER BU AB,False
+Santakku,0x1204f,,False
+Santakku,0x12050,BU CROSSING BU,False
+Santakku,0x12051,BULUG OVER BULUG,False
+Santakku,0x12052,,False
+Santakku,0x12054,BUR2,False
+Santakku,0x12057,DAG KISIM5 TIMES A PLUS MASH,False
+Santakku,0x12058,DAG KISIM5 TIMES AMAR,False
+Santakku,0x12059,DAG KISIM5 TIMES BALAG,False
+Santakku,0x1205a,DAG KISIM5 TIMES BI,False
+Santakku,0x1205b,DAG KISIM5 TIMES GA,False
+Santakku,0x1205c,,False
+Santakku,0x1205d,DAG KISIM5 TIMES GI,False
+Santakku,0x1205e,DAG KISIM5 TIMES GIR2,False
+Santakku,0x1205f,DAG KISIM5 TIMES GUD,False
+Santakku,0x12060,DAG KISIM5 TIMES HA,False
+Santakku,0x12061,DAG KISIM5 TIMES IR,False
+Santakku,0x12062,DAG KISIM5 TIMES IR PLUS LU,False
+Santakku,0x12063,DAG KISIM5 TIMES KAK,False
+Santakku,0x12064,DAG KISIM5 TIMES LA,False
+Santakku,0x12065,DAG KISIM5 TIMES LU,False
+Santakku,0x12066,DAG KISIM5 TIMES LU PLUS MASH2,False
+Santakku,0x12067,DAG KISIM5 TIMES LUM,False
+Santakku,0x12068,DAG KISIM5 TIMES NE,False
+Santakku,0x12069,DAG KISIM5 TIMES PAP PLUS PAP,False
+Santakku,0x1206a,DAG KISIM5 TIMES SI,False
+Santakku,0x1206b,DAG KISIM5 TIMES TAK4,False
+Santakku,0x1206c,DAG KISIM5 TIMES U2 PLUS GIR2,False
+Santakku,0x1206d,DAG KISIM5 TIMES USH,False
+Santakku,0x12071,DARA4,False
+Santakku,0x12078,CUNEIFORM SIGN DIN KASKAL U GUNU DISH,False
+Santakku,0x1207f,,False
+Santakku,0x12080,DUB2,False
+Santakku,0x12082,DUGUD,False
+Santakku,0x12083,DUH,False
+Santakku,0x12085,DUN3,False
+Santakku,0x1208b,E TIMES PAP,False
+Santakku,0x1208c,E OVER E NUN OVER NUN,False
+Santakku,0x1208e,,False
+Santakku,0x1208f,E2 TIMES GAR,False
+Santakku,0x12090,E2 TIMES MI,False
+Santakku,0x12091,E2 TIMES SAL,False
+Santakku,0x12092,E2 TIMES SCHE(standard),False
+Santakku,0x12093,,False
+Santakku,0x12098,EN TIMES GAN2,False
+Santakku,0x1209a,EN TIMES ME,False
+Santakku,0x1209b,EN CROSSING EN,False
+Santakku,0x1209c,,False
+Santakku,0x1209d,EN SQUARED,False
+Santakku,0x120a2,EZEN TIMES A,False
+Santakku,0x120a3,EZEN TIMES A PLUS LAL,False
+Santakku,0x120a4,EZEN TIMES A PLUS LAL TIMES LAL,False
+Santakku,0x120a5,,False
+Santakku,0x120a7,,False
+Santakku,0x120a8,,False
+Santakku,0x120a9,EZEN TIMES HA,False
+Santakku,0x120aa,,False
+Santakku,0x120ab,EZEN TIMES IGI GUNU,False
+Santakku,0x120ac,EZEN TIMES KASKAL,False
+Santakku,0x120ad,EZEN TIMES KASKAL SQUARED,False
+Santakku,0x120ae,EZEN TIMES KU3,False
+Santakku,0x120af,EZEN TIMES LA,False
+Santakku,0x120b0,EZEN TIMES LAL TIMES LAL,False
+Santakku,0x120b1,EZEN TIMES LI,False
+Santakku,0x120b2,EZEN TIMES LU,False
+Santakku,0x120b3,EZEN TIMES U2,False
+Santakku,0x120b4,EZEN TIMES UD,False
+Santakku,0x120b6,GA GUNU,False
+Santakku,0x120b8,GA2 TIMES A PLUS DA PLUS HA,False
+Santakku,0x120b9,,False
+Santakku,0x120ba,GA2 TIMES A PLUS IGI,False
+Santakku,0x120bb,,False
+Santakku,0x120bd,GÁ×A,False
+Santakku,0x120be,E2 TIMES A PLUS HA PLUS DA(sic!),False
+Santakku,0x120bf,GA2 TIMES BAD,False
+Santakku,0x120c0,,False
+Santakku,0x120c1,,False
+Santakku,0x120c2,GA2 TIMES BUR PLUS RA,False
+Santakku,0x120c3,GA2 TIMES DA,False
+Santakku,0x120c4,GA2 TIMES DI,False
+Santakku,0x120c5,GA2 TIMES DIM TIMES SHE,False
+Santakku,0x120c6,GA2 TIMES DUB,False
+Santakku,0x120c7,,False
+Santakku,0x120c8,GA2 TIMES EL PLUS LA,False
+Santakku,0x120c9,GA2 TIMES EN,False
+Santakku,0x120ca,GA2 TIMES EN TIMES GAN2 TENU,False
+Santakku,0x120cb,GA2 TIMES GAN2 TENU,False
+Santakku,0x120cc,GA2 TIMES GAR,False
+Santakku,0x120cd,GA2 TIMES GI,False
+Santakku,0x120ce,GA2 TIMES GI4,False
+Santakku,0x120cf,,False
+Santakku,0x120d0,GA2 TIMES GIR2 PLUS SU,False
+Santakku,0x120d1,GA2 TIMES HA PLUS LU PLUS ESH2,False
+Santakku,0x120d2,,False
+Santakku,0x120d3,GA2 TIMES HAL PLUS LA,False
+Santakku,0x120d4,GA2 TIMES HI PLUS LI,False
+Santakku,0x120d5,GA2 TIMES HUB2,False
+Santakku,0x120d6,GA2 TIMES IGI GUNU,False
+Santakku,0x120d7,GA2 TIMES ISH PLUS HU PLUS ASH,False
+Santakku,0x120d8,GA2 TIMES KAK,False
+Santakku,0x120d9,GA2 TIMES KASKAL,False
+Santakku,0x120da,,False
+Santakku,0x120db,GA2 TIMES KID PLUS LAL,False
+Santakku,0x120dc,GA2 TIMES KU3 PLUS AN,False
+Santakku,0x120dd,,False
+Santakku,0x120de,GA2 TIMES ME PLUS EN,False
+Santakku,0x120df,GA2 TIMES MI(standard),False
+Santakku,0x120e0,GA2 TIMES NUN,False
+Santakku,0x120e3,GA2 TIMES SAL,False
+Santakku,0x120e4,GA2 TIMES SAR,False
+Santakku,0x120e5,GA2 TIMES SHE,False
+Santakku,0x120e6,GA2 TIMES SHE PLUS TUR,False
+Santakku,0x120e7,GA2 TIMES SHID,False
+Santakku,0x120e8,GA2 TIMES SUM,False
+Santakku,0x120e9,GA2 TIMES TAK4,False
+Santakku,0x120ea,GA2 TIMES U,False
+Santakku,0x120eb,GA2 TIMES UD,False
+Santakku,0x120ec,,False
+Santakku,0x120ed,,False
+Santakku,0x120ef,,False
+Santakku,0x120f1,GAD OVER GAD GAR OVER GAR,False
+Santakku,0x120f3,GAL GAD OVER GAD GAR OVER GAR,False
+Santakku,0x120f4,GALAM,False
+Santakku,0x120f8,GAN2 TENU,False
+Santakku,0x120f9,GAN2 OVER GAN2,False
+Santakku,0x120fa,GAN2 CROSSING GAN2,False
+Santakku,0x120fd,GASHAN,False
+Santakku,0x120ff,GESHTIN TIMES KUR,False
+Santakku,0x12101,GI TIMES E,False
+Santakku,0x12102,,False
+Santakku,0x12105,GI4 OVER GI4,False
+Santakku,0x12106,GI4 CROSSING GI4,False
+Santakku,0x12107,GIDIM,False
+Santakku,0x1210b,GIR3 TIMES A PLUS IGI,False
+Santakku,0x1210c,GIR3 TIMES GAN2 TENU,False
+Santakku,0x1210d,GIR3 TIMES IGI,False
+Santakku,0x1210e,GIR3 TIMES LU PLUS IGI,False
+Santakku,0x1210f,GIR3 TIMES PA,False
+Santakku,0x12110,GISAL,False
+Santakku,0x12113,GISH TIMES BAD,False
+Santakku,0x12114,,False
+Santakku,0x12115,GISH TENU,False
+Santakku,0x12117,GU CROSSING GU,False
+Santakku,0x1211a,,False
+Santakku,0x1211b,GU2 TIMES NUN,False
+Santakku,0x1211c,,False
+Santakku,0x1211d,GU2 GUNU & KAK,False
+Santakku,0x1211f,GUD TIMES A PLUS KUR,False
+Santakku,0x12121,GUD OVER GUD LUGAL,False
+Santakku,0x12126,GUR7,False
+Santakku,0x12127,GURUN,False
+Santakku,0x12128,GURUSH,False
+Santakku,0x1212a,HA TENU,False
+Santakku,0x1212e,HI TIMES ASH,False
+Santakku,0x12131,HI TIMES DISH,False
+Santakku,0x12133,HI TIMES KIN,False
+Santakku,0x12135,HI TIMES SHE,False
+Santakku,0x12136,HI TIMES U,False
+Santakku,0x12139,,False
+Santakku,0x1213a,,False
+Santakku,0x1213b,,False
+Santakku,0x1213c,,False
+Santakku,0x12142,IDIM,False
+Santakku,0x12143,IDIM OVER IDIM BUR,False
+Santakku,0x12144,,False
+Santakku,0x12149,IGI OVER IGI SHIR OVER SHIR UD OVER UD,False
+Santakku,0x1214c,IL TIMES GAN2 TENU,False
+Santakku,0x1214f,IM TIMES TAK4,False
+Santakku,0x12150,IM CROSSING IM,False
+Santakku,0x12151,,False
+Santakku,0x12152,IM SQUARED,False
+Santakku,0x12153,IMIN,False
+Santakku,0x12158,KA TIMES A,False
+Santakku,0x12159,,False
+Santakku,0x1215a,KA TIMES AD PLUS KU3,False
+Santakku,0x1215b,KA TIMES ASH2,False
+Santakku,0x1215c,KA TIMES BAD,False
+Santakku,0x1215d,KA TIMES BALAG,False
+Santakku,0x1215e,KA TIMES BAR,False
+Santakku,0x1215f,,False
+Santakku,0x12160,KA TIMES ERIN2,False
+Santakku,0x12161,KA TIMES ESH2,False
+Santakku,0x12162,KA TIMES GA,False
+Santakku,0x12163,,False
+Santakku,0x12166,KA TIMES GAR PLUS SHA3 PLUS A,False
+Santakku,0x12167,,False
+Santakku,0x12168,KA TIMES GIR2,False
+Santakku,0x12169,,False
+Santakku,0x1216a,KA TIMES GISH CROSSING GISH,False
+Santakku,0x1216b,KA TIMES GU,False
+Santakku,0x1216c,KA TIMES GUR7,False
+Santakku,0x1216d,KA TIMES IGI,False
+Santakku,0x1216e,KA TIMES IM,False
+Santakku,0x1216f,KA TIMES KAK,False
+Santakku,0x12170,KA TIMES KI,False
+Santakku,0x12171,,False
+Santakku,0x12172,KA TIMES LI,False
+Santakku,0x12173,,False
+Santakku,0x12174,KA TIMES ME,False
+Santakku,0x12175,KA TIMES ME PLUS DU,False
+Santakku,0x12176,KA TIMES ME PLUS GI,False
+Santakku,0x12177,KA TIMES ME PLUS TE,False
+Santakku,0x12178,KA TIMES MI,False
+Santakku,0x12179,,False
+Santakku,0x1217a,KA TIMES NE,False
+Santakku,0x1217b,KA TIMES NUN,False
+Santakku,0x1217c,KA TIMES PI,False
+Santakku,0x1217d,KA TIMES RU,False
+Santakku,0x1217e,KA TIMES SA,False
+Santakku,0x1217f,KA TIMES SAR,False
+Santakku,0x12180,KA TIMES SHA,False
+Santakku,0x12181,KA TIMES SHE,False
+Santakku,0x12182,KA TIMES SHID,False
+Santakku,0x12183,KA TIMES SHU,False
+Santakku,0x12184,KA TIMES SIG,False
+Santakku,0x12185,,False
+Santakku,0x12186,,False
+Santakku,0x12187,KA TIMES U,False
+Santakku,0x12188,KA TIMES U2,False
+Santakku,0x12189,KA TIMES UD,False
+Santakku,0x1218a,,False
+Santakku,0x1218b,KA TIMES USH,False
+Santakku,0x1218c,,False
+Santakku,0x1218e,,False
+Santakku,0x12190,KAD2,False
+Santakku,0x12191,KAD3,False
+Santakku,0x12193,KAD5,False
+Santakku,0x12194,,False
+Santakku,0x12196,,False
+Santakku,0x12198,KAL TIMES BAD,False
+Santakku,0x12199,KAL CROSSING KAL,False
+Santakku,0x1219a,KAM2 (wrong!),False
+Santakku,0x1219b,KAM4,False
+Santakku,0x1219d,KASKAL LAGAB TIMES U OVER LAGAB TIMES U,False
+Santakku,0x1219e,KASKAL OVER KASKAL LAGAB TIMES U OVER LAGAB TIMES U,False
+Santakku,0x121a1,KI TIMES BAD,False
+Santakku,0x121a2,KI TIMES U,False
+Santakku,0x121a3,KI TIMES UD,False
+Santakku,0x121a8,KISIM5,False
+Santakku,0x121a9,KISIM5 OVER KISIM5,False
+Santakku,0x121ab,KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2,False
+Santakku,0x121ae,,False
+Santakku,0x121b1,KUL GUNU,False
+Santakku,0x121b4,KUR OPPOSING KUR,False
+Santakku,0x121b6,,False
+Santakku,0x121ba,LAGAB TIMES A PLUS DA PLUS HA,False
+Santakku,0x121bb,LAGAB TIMES A PLUS GAR,False
+Santakku,0x121bc,LAGAB TIMES A PLUS LAL,False
+Santakku,0x121bd,LAGAB TIMES AL,False
+Santakku,0x121be,LAGAB TIMES AN,False
+Santakku,0x121bf,LAGAB TIMES ASH ZIDA TENU,False
+Santakku,0x121c1,LAGAB TIMES BI,False
+Santakku,0x121c2,LAGAB TIMES DAR,False
+Santakku,0x121c3,LAGAB TIMES EN,False
+Santakku,0x121c4,LAGAB TIMES GA,False
+Santakku,0x121c5,LAGAB TIMES GAR,False
+Santakku,0x121c6,LAGAB TIMES GUD,False
+Santakku,0x121c8,LAGAB TIMES HA,False
+Santakku,0x121ca,LAGAB TIMES HI TIMES NUN,False
+Santakku,0x121cb,LAGAB TIMES IGI GUNU,False
+Santakku,0x121cc,LAGAB TIMES IM,False
+Santakku,0x121cd,,False
+Santakku,0x121ce,,False
+Santakku,0x121cf,LAGAB TIMES KI,False
+Santakku,0x121d0,LAGAB TIMES KIN,False
+Santakku,0x121d1,LAGAB TIMES KU3,False
+Santakku,0x121d3,LAGAB TIMES KUL PLUS HI PLUS A,False
+Santakku,0x121d4,LAGAB TIMES LAGAB,False
+Santakku,0x121d5,LAGAB TIMES LISH,False
+Santakku,0x121d6,LAGAB TIMES LU,False
+Santakku,0x121d7,LAGAB TIMES LUL,False
+Santakku,0x121d8,LAGAB TIMES ME,False
+Santakku,0x121d9,LAGAB TIMES ME PLUS EN,False
+Santakku,0x121da,LAGAB TIMES MUSH,False
+Santakku,0x121db,LAGAB TIMES NE,False
+Santakku,0x121dc,LAGAB TIMES SHE PLUS SUM,False
+Santakku,0x121dd,LAGAB TIMES SHITA PLUS GISH PLUS ERIN2,False
+Santakku,0x121de,LAGAB TIMES SHITA PLUS GISH TENU,False
+Santakku,0x121df,LAGAB TIMES SHU2,False
+Santakku,0x121e0,LAGAB TIMES SHU2 PLUS SHU2,False
+Santakku,0x121e2,,False
+Santakku,0x121e3,LAGAB TIMES TAK4,False
+Santakku,0x121e4,LAGAB TIMES TE PLUS A PLUS SU PLUS NA,False
+Santakku,0x121e6,LAGAB TIMES U PLUS A,False
+Santakku,0x121e7,LAGAB TIMES U PLUS U PLUS U,False
+Santakku,0x121e8,LAGAB TIMES U2 PLUS ASH,False
+Santakku,0x121e9,LAGAB TIMES UD,False
+Santakku,0x121ea,LAGAB TIMES USH,False
+Santakku,0x121eb,LAGAB SQUARED,False
+Santakku,0x121ed,LAGAR TIMES SHE,False
+Santakku,0x121ee,LAGAR TIMES SHE PLUS SUM,False
+Santakku,0x121f0,LAGAR GUNU OVER LAGAR GUNU SHE,False
+Santakku,0x121f1,,False
+Santakku,0x121f5,LAM TIMES KUR,False
+Santakku,0x121f6,,False
+Santakku,0x121f8,LIL,False
+Santakku,0x121f9,LIMMU2,False
+Santakku,0x121fc,LU TIMES BAD,False
+Santakku,0x121fe,LU2 TIMES AL,False
+Santakku,0x121ff,LU2 TIMES BAD,False
+Santakku,0x12200,LU2 TIMES ESH2,False
+Santakku,0x12201,LU2 TIMES ESH2 TENU,False
+Santakku,0x12202,LU2 TIMES GAN2 TENU,False
+Santakku,0x12203,LU2 TIMES HI TIMES BAD,False
+Santakku,0x12204,LU2 TIMES IM,False
+Santakku,0x12205,LU2 TIMES KAD2,False
+Santakku,0x12206,LU2 TIMES KAD3,False
+Santakku,0x12207,,False
+Santakku,0x12208,LU2 TIMES KI,False
+Santakku,0x12209,,False
+Santakku,0x1220a,LU2 TIMES LAGAB,False
+Santakku,0x1220b,LU2 TIMES ME PLUS EN,False
+Santakku,0x1220c,LU2 TIMES NE,False
+Santakku,0x1220d,,False
+Santakku,0x1220e,,False
+Santakku,0x1220f,LU2 TIMES SIK2 PLUS BU,False
+Santakku,0x12210,LU2 TIMES TUG2,False
+Santakku,0x12211,LU2 TENU,False
+Santakku,0x12212,LU2 CROSSING LU2,False
+Santakku,0x12213,LU2 OPPOSING LU2,False
+Santakku,0x12214,LU2 SQUARED,False
+Santakku,0x12215,LU2 SHESHIG,False
+Santakku,0x12216,LU3,False
+Santakku,0x12218,LUGAL OVER LUGAL,False
+Santakku,0x12219,LUGAL OPPOSING LUGAL,False
+Santakku,0x1221a,,False
+Santakku,0x1221e,LUM OVER LUM & SHU2,False
+Santakku,0x1221f,LUM OVER LUM GAR OVER GAR,False
+Santakku,0x12221,,False
+Santakku,0x12222,MA GUNU,False
+Santakku,0x1222f,MUG GUNU,False
+Santakku,0x12230,MUNSUB,False
+Santakku,0x12231,MURGU2,False
+Santakku,0x12233,,False
+Santakku,0x12234,,False
+Santakku,0x12235,,False
+Santakku,0x12236,MUSH OVER MUSH,False
+Santakku,0x12237,MUSH OVER MUSH TIMES A PLUS NA,False
+Santakku,0x12238,MUSH CROSSING MUSH,False
+Santakku,0x1223a,MUSH3 TIMES A,False
+Santakku,0x1223b,MUSH3 TIMES A PLUS DI,False
+Santakku,0x1223c,,False
+Santakku,0x12241,NAGA INVERTED,False
+Santakku,0x12242,NAGA TIMES SHU TENU,False
+Santakku,0x12243,NAGA OPPOSING NAGA,False
+Santakku,0x12245,,False
+Santakku,0x12247,NAM2,False
+Santakku,0x12249,NE TIMES A,False
+Santakku,0x1224a,NE TIMES UD,False
+Santakku,0x1224d,NI TIMES E,False
+Santakku,0x1224e,NI2,False
+Santakku,0x12251,NIM TIMES GAR PLUS GAN2 TENU,False
+Santakku,0x12252,NINDA2,False
+Santakku,0x12254,NINDA2 TIMES ASH,False
+Santakku,0x12255,NINDA2 TIMES ASH PLUS ASH,False
+Santakku,0x12256,NINDA2 TIMES GUD,False
+Santakku,0x12257,NINDA2 TIMES ME PLUS GAN2 TENU,False
+Santakku,0x12259,NINDA2 TIMES NUN,False
+Santakku,0x1225a,NINDA2 TIMES SHE,False
+Santakku,0x1225b,NINDA2 TIMES SHE PLUS A AN,False
+Santakku,0x1225c,NINDA2 TIMES SHE PLUS ASH,False
+Santakku,0x1225d,NINDA2 TIMES SHE PLUS ASH PLUS ASH,False
+Santakku,0x1225e,NINDA2 TIMES U2 PLUS ASH,False
+Santakku,0x1225f,,False
+Santakku,0x12260,NISAG (read NISAG2),False
+Santakku,0x12262,NU11,False
+Santakku,0x12264,NUN LAGAR TIMES GAR,False
+Santakku,0x12265,NUN LAGAR TIMES USH,False
+Santakku,0x12266,NUN LAGAR TIMES SAL,False
+Santakku,0x12267,NUN LAGAR TIMES SAL OVER NUN LAGAR TIMES SAL,False
+Santakku,0x12268,,False
+Santakku,0x12269,NUN TENU,False
+Santakku,0x1226b,NUN CROSSING NUN,False
+Santakku,0x1226c,NUN CROSSING NUN LAGAR OVER LAGAR,False
+Santakku,0x1226e,NUNUZ AB2 TIMES ASHGAB,False
+Santakku,0x1226f,NUNUZ AB2 TIMES BI,False
+Santakku,0x12270,NUNUZ AB2 TIMES DUG,False
+Santakku,0x12271,NUNUZ AB2 TIMES GUD,False
+Santakku,0x12272,NUNUZ AB2 TIMES IGI GUNU,False
+Santakku,0x12273,NUNUZ AB2 TIMES KAD3,False
+Santakku,0x12274,NUNUZ AB2 TIMES LA,False
+Santakku,0x12275,NUNUZ AB2 TIMES NE,False
+Santakku,0x12276,NUNUZ AB2 TIMES SILA3,False
+Santakku,0x12277,,False
+Santakku,0x12278,NUNUZ KISIM5 TIMES BI,False
+Santakku,0x12279,NUNUZ KISIM5 TIMES BI U,False
+Santakku,0x12280,PI TIMES A,False
+Santakku,0x12281,PI TIMES AB,False
+Santakku,0x12282,PI TIMES BI,False
+Santakku,0x12283,PI TIMES BU,False
+Santakku,0x12284,PI TIMES E,False
+Santakku,0x12285,PI TIMES I,False
+Santakku,0x12286,PI TIMES IB,False
+Santakku,0x12287,PI TIMES U,False
+Santakku,0x12288,,False
+Santakku,0x12289,PI TIMES U2,False
+Santakku,0x1228a,PIRIG,False
+Santakku,0x1228b,PIRIG TIMES KAL,False
+Santakku,0x1228e,PIRIG OPPOSING PIRIG,False
+Santakku,0x12290,RAB,False
+Santakku,0x12294,SAG NUTILLU,False
+Santakku,0x12296,SAG TIMES A,False
+Santakku,0x12297,SAG TIMES DU,False
+Santakku,0x12298,,False
+Santakku,0x12299,SAG TIMES HA,False
+Santakku,0x1229a,SAG TIMES KAK,False
+Santakku,0x1229b,,False
+Santakku,0x1229c,SAG TIMES LUM,False
+Santakku,0x1229d,SAG TIMES MI,False
+Santakku,0x1229e,SAG TIMES NUN,False
+Santakku,0x1229f,SAG TIMES SAL,False
+Santakku,0x122a0,SAG TIMES SHID,False
+Santakku,0x122a1,,False
+Santakku,0x122a2,SAG TIMES U2,False
+Santakku,0x122a3,SAG TIMES UB,False
+Santakku,0x122a4,SAG TIMES UM,False
+Santakku,0x122a5,SAG TIMES UR,False
+Santakku,0x122a6,SAG TIMES USH,False
+Santakku,0x122a7,SAG OVER SAG,False
+Santakku,0x122aa,SAL LAGAB TIMES ASH2,False
+Santakku,0x122ab,,False
+Santakku,0x122af,SHA3 TIMES A,False
+Santakku,0x122b0,SHA3 TIMES BAD,False
+Santakku,0x122b1,SHA3 TIMES GISH,False
+Santakku,0x122b2,SHA3 TIMES NE,False
+Santakku,0x122b3,SHA3 TIMES SHU2,False
+Santakku,0x122b4,SHA3 TIMES TUR,False
+Santakku,0x122b5,SHA3 TIMES U,False
+Santakku,0x122b6,SHA3 TIMES U PLUS A,False
+Santakku,0x122b8,,False
+Santakku,0x122bc,SHE OVER SHE GAD OVER GAD GAR OVER GAR,False
+Santakku,0x122bd,SHE OVER SHE TAB OVER TAB GAR OVER GAR,False
+Santakku,0x122be,SHEG9,False
+Santakku,0x122c1,SHESH2 & SUHUR,False
+Santakku,0x122c2,SHESHLAM,False
+Santakku,0x122c4,SHID TIMES A,False
+Santakku,0x122c5,SHID TIMES IM,False
+Santakku,0x122c7,SHIM TIMES A,False
+Santakku,0x122c8,SHIM TIMES BAL,False
+Santakku,0x122c9,SHIM TIMES BULUG,False
+Santakku,0x122ca,SHIM TIMES DIN,False
+Santakku,0x122cc,SHIM TIMES IGI,False
+Santakku,0x122cd,SHIM TIMES IGI GUNU,False
+Santakku,0x122ce,SHIM TIMES KUSHU2,False
+Santakku,0x122cf,SHIM TIMES LUL,False
+Santakku,0x122d0,SHIM TIMES MUG,False
+Santakku,0x122d1,SHIM TIMES SAL,False
+Santakku,0x122d4,SHIR TENU,False
+Santakku,0x122d5,,False
+Santakku,0x122d8,,False
+Santakku,0x122df,SIG4 OVER SIG4 SHU2,False
+Santakku,0x122e3,,False
+Santakku,0x122e5,SUD2,False
+Santakku,0x122e6,SUHUR,False
+Santakku,0x122e8,SUMASH,False
+Santakku,0x122ea,SUR9,False
+Santakku,0x122ec,TA ASTERISK,False
+Santakku,0x122ee,TA TIMES MI,False
+Santakku,0x122ef,TA GUNU,False
+Santakku,0x122f1,TAB OVER TAB NI OVER NI DISH OVER DISH,False
+Santakku,0x122f2,TAB SQUARED,False
+Santakku,0x122f4,,False
+Santakku,0x122f5,TAG TIMES GUD,False
+Santakku,0x122f6,,False
+Santakku,0x122f7,TAG TIMES SHU,False
+Santakku,0x122f8,TAG TIMES TUG2,False
+Santakku,0x122f9,TAG TIMES UD,False
+Santakku,0x122fd,TE GUNU,False
+Santakku,0x122ff,,False
+Santakku,0x12300,TIL,False
+Santakku,0x12302,,False
+Santakku,0x12303,TIR OVER TIR,False
+Santakku,0x12304,TIR OVER TIR GAD OVER GAD GAR OVER GAR,False
+Santakku,0x1230a,TUR OVER TUR ZA OVER ZA,False
+Santakku,0x1230e,U OVER U PA OVER PA GAR OVER GAR,False
+Santakku,0x1230f,U OVER U SUR OVER SUR,False
+Santakku,0x12310,U OVER U U REVERSED OVER U REVERSED,False
+Santakku,0x12315,,False
+Santakku,0x12316,UD TIMES MI,False
+Santakku,0x12317,UD TIMES U PLUS U PLUS U,False
+Santakku,0x12319,UD GUNU,False
+Santakku,0x1231b,UD SHESHIG TIMES BAD,False
+Santakku,0x1231c,UDUG,False
+Santakku,0x1231e,,False
+Santakku,0x1231f,UM TIMES ME PLUS DA,False
+Santakku,0x12320,,False
+Santakku,0x12321,UM TIMES U,False
+Santakku,0x12323,UMUM,False
+Santakku,0x12325,UMUM TIMES PA,False
+Santakku,0x12327,,False
+Santakku,0x12329,UR CROSSING UR,False
+Santakku,0x1232a,UR SHESHIG,False
+Santakku,0x1232c,UR2 TIMES A PLUS HA,False
+Santakku,0x1232d,,False
+Santakku,0x1232e,UR2 TIMES AL,False
+Santakku,0x1232f,UR2 TIMES HA,False
+Santakku,0x12330,UR2 TIMES NUN,False
+Santakku,0x12331,UR2 TIMES U2,False
+Santakku,0x12332,UR2 TIMES U2 PLUS ASH,False
+Santakku,0x12333,,False
+Santakku,0x12336,URI3,False
+Santakku,0x12338,URU TIMES A,False
+Santakku,0x12339,,False
+Santakku,0x1233b,,False
+Santakku,0x1233c,URU TIMES GA,False
+Santakku,0x1233d,,False
+Santakku,0x1233e,URU TIMES GAN2 TENU,False
+Santakku,0x1233f,URU TIMES GAR,False
+Santakku,0x12340,URU TIMES GU,False
+Santakku,0x12341,URU TIMES HA,False
+Santakku,0x12343,,False
+Santakku,0x12344,,False
+Santakku,0x12345,,False
+Santakku,0x12346,,False
+Santakku,0x12348,,False
+Santakku,0x12349,,False
+Santakku,0x1234a,,False
+Santakku,0x1234b,URU TIMES TU,False
+Santakku,0x1234c,URU TIMES U PLUS GUD,False
+Santakku,0x1234d,URU TIMES UD,False
+Santakku,0x12350,URUDA TIMES U,False
+Santakku,0x12352,USH TIMES A,False
+Santakku,0x12353,USH TIMES KU,False
+Santakku,0x12354,,False
+Santakku,0x12355,USH TIMES TAK4,False
+Santakku,0x12356,,False
+Santakku,0x12357,USH2,False
+Santakku,0x12358,,False
+Santakku,0x12359,UTUKI,False
+Santakku,0x1235b,UZ3 TIMES KASKAL,False
+Santakku,0x1235e,ZA TENU,False
+Santakku,0x1235f,ZA SQUARED TIMES KUR,False
+Santakku,0x12361,,False
+Santakku,0x12365,ZI3,False
+Santakku,0x12366,ZIB,False
+Santakku,0x12367,ZIB KABA TENU,False
+Santakku,0x12368,ZIG,False
+Santakku,0x12369,ZIZ2,False
+Santakku,0x1236b,ZU5,False
+Santakku,0x1236c,ZU5 TIMES A,False
+Santakku,0x1236d,ZUBUR,False
+Santakku,0x1236f,,False
+Santakku,0x12370,,False
+Santakku,0x12371,AB2 TIMES A,False
+Santakku,0x12372,,False
+Santakku,0x12373,,False
+Santakku,0x12374,,False
+Santakku,0x12375,DISH PLUS SHU,False
+Santakku,0x12376,,False
+Santakku,0x12377,,False
+Santakku,0x12378,,False
+Santakku,0x12379,,False
+Santakku,0x1237a,,False
+Santakku,0x1237b,GE22,False
+Santakku,0x1237d,SIGN HUSH,False
+Santakku,0x1237e,,False
+Santakku,0x1237f,,False
+Santakku,0x12380,KA TIMES GISH,False
+Santakku,0x12381,,False
+Santakku,0x12382,,False
+Santakku,0x12383,,False
+Santakku,0x12384,KA TIMES PA,False
+Santakku,0x12385,,False
+Santakku,0x12386,KA TIMES TU,False
+Santakku,0x12387,KA TIMES UR2,False
+Santakku,0x12388,LAGAB TIMES GI,False
+Santakku,0x12389,,False
+Santakku,0x1238a,,False
+Santakku,0x1238b,,False
+Santakku,0x1238d,,False
+Santakku,0x12390,,False
+Santakku,0x12391,NINDA2 TIMES BAL,False
+Santakku,0x12392,NINDA2 TIMES GI,False
+Santakku,0x12393,,False
+Santakku,0x12394,,False
+Santakku,0x12395,,False
+Santakku,0x12396,,False
+Santakku,0x12397,SIGN TI2,False
+Santakku,0x12398,UM TIMES ME,False
+Santakku,0x12399,U U,False

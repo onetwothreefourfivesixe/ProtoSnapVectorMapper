@@ -1,0 +1,49 @@
+font,codepoint,name,confidence,n_wedges,doubtful_wedges,accept,notes
+Esagil,0x1214d,IL2,0.0002,13,7,y,corrected in editor
+Esagil,0x12274,NUNUZ AB2 TIMES LA,0.0003,17,7,y,most wedges work but intersection of wedges perpendicuarly left one tail much shorter than the rest; corrected in editor
+Esagil,0x120de,GA2 TIMES ME PLUS EN,0.0012,12,6,y,same issue where one of the longer tails fail to extend accross the font; corrected in editor
+Esagil,0x12104,GI4,0.0001,12,6,y,two of the wedge tails are matched to the ends of other tails rather than following their tails in the font; corrected in editor
+Esagil,0x121f8,LIL,0.0025,12,6,y,corrected in editor
+Esagil,0x1226e,NUNUZ AB2 TIMES ASHGAB,0.0035,17,6,y,corrected in editor
+Esagil,0x12029,ALAN,0.0042,20,5,y,corrected in editor
+Esagil,0x12054,BUR2,0.0007,10,5,y,corrected in editor
+Esagil,0x120ab,EZEN TIMES IGI GUNU,0.0001,16,5,y,corrected in editor
+Esagil,0x122d2,SHINIG,0.0044,14,5,y,
+Esagil,0x1205e,DAG KISIM5 TIMES GIR2,0.0046,15,4,y,corrected in editor
+Esagil,0x12066,DAG KISIM5 TIMES LU PLUS MASH2,0.0049,24,4,y,corrected in editor
+Esagil,0x1206f,DAR,0.0003,8,4,y,corrected in editor
+Esagil,0x120b5,GA,0.0028,6,4,y,
+Esagil,0x12126,GUR7,0.0,11,4,y,corrected in editor
+Esagil,0x12127,GURUN,0.0037,7,4,y,
+Esagil,0x1212f,HI TIMES ASH2,0.0004,8,4,y,corrected in editor
+Esagil,0x121a7,KISH,0.0008,8,4,y,corrected in editor
+Esagil,0x12246,NAM & ERIN2,0.0013,10,4,y,
+Esagil,0x12250,NIM TIMES GAN2 TENU,0.0031,10,4,y,corrected in editor
+Esagil,0x122c7,SHIM TIMES A,0.0005,12,4,y,
+Esagil,0x122eb,TA,0.0024,7,4,y,
+Esagil,0x1231d,UM,0.0001,6,4,y,
+Esagil,0x1205b,DAG KISIM5 TIMES GA,0.0001,15,3,y,corrected in editor
+Esagil,0x12070,DARA3,0.0001,15,3,y,corrected in editor
+Esagil,0x1207e,DUB,0.0001,8,3,y,corrected in editor
+Esagil,0x1210a,GIR3,0.0012,6,3,y,corrected in editor
+Esagil,0x12112,GISH CROSSING GISH,0.0008,6,3,y,corrected in editor
+Esagil,0x1212b,HA GUNU,0.0001,9,3,y,
+Esagil,0x12138,HUB2,0.0003,7,3,y,
+Esagil,0x1213d,HUB2 TIMES UD,0.0,10,3,y,corrected in editor
+Esagil,0x12145,IG,0.0014,6,3,y,
+Esagil,0x1214e,IM,0.0014,7,3,y,
+Esagil,0x1218d,KA2,0.0005,8,3,y,
+Esagil,0x1218f,KAB,0.0003,7,3,y,
+Esagil,0x12198,KAL TIMES BAD,0.0002,8,3,y,corrected in editor
+Esagil,0x121c0,LAGAB TIMES BAD,0.0001,6,3,y,
+Esagil,0x12244,NAGAR & ZA TENU,0.0004,6,3,y,
+Esagil,0x1228a,PIRIG,0.0012,6,3,y,
+Esagil,0x1228d,PIRIG TIMES ZA,0.0001,8,3,y,corrected in editor
+Esagil,0x12291,RI,0.0002,5,3,y,
+Esagil,0x122af,SHA3 TIMES A,0.0007,10,3,y,corrected in editor
+Esagil,0x122cb,SHIM TIMES GAR,0.0001,12,3,y,
+Esagil,0x122d4,SHIR TENU,0.0004,7,3,y,
+Esagil,0x122e6,SUHUR,0.0019,13,3,y,corrected in editor
+Esagil,0x122ed,TA TIMES HI,0.0049,10,3,y,
+Esagil,0x12314,UD KUSHU2,0.0005,10,3,y,
+Esagil,0x12324,UMUM TIMES KASKAL,0.0004,14,3,y,corrected in editor

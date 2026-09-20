@@ -1,0 +1,1814 @@
+font,codepoint,name,source,n_wedges,confidence,doubtful_wedges,mean_wedge_confidence,rare_orientation_wedges,off_ink_tails,clamped_wedges,scale,in_font_per_metadata
+Assurbanipal,0x1216c,KA TIMES GUR7,model,28,0.0001,13,0.3094,0,5,0,1.0,True
+Assurbanipal,0x122df,SIG4 OVER SIG4 SHU2,model,20,0.0002,13,0.1713,3,2,0,1.0,True
+Assurbanipal,0x1221f,LUM OVER LUM GAR OVER GAR,model,21,0.0002,11,0.2992,0,2,0,1.0,True
+Assurbanipal,0x1220f,LU2 TIMES SIK2 PLUS BU,model,25,0.0004,10,0.3972,0,2,0,1.0,True
+Assurbanipal,0x120d1,GA2 TIMES HA PLUS LU PLUS ESH2,model,23,0.0004,9,0.3905,0,2,0,1.0,True
+Assurbanipal,0x1226e,NUNUZ AB2 TIMES ASHGAB,model,18,0.0001,9,0.3781,1,0,0,1.0,True
+Assurbanipal,0x12275,NUNUZ AB2 TIMES NE,model,21,0.0007,9,0.4074,0,2,0,1.0,True
+Assurbanipal,0x122bc,SHE OVER SHE GAD OVER GAD GAR OVER GAR,model,22,0.0027,9,0.3665,0,0,0,1.0,True
+Assurbanipal,0x12304,TIR OVER TIR GAD OVER GAD GAR OVER GAR,model,40,0.0027,9,0.4743,0,1,0,1.0,True
+Assurbanipal,0x1215d,KA TIMES BALAG,model,19,0.0005,8,0.3609,0,3,0,1.0,True
+Assurbanipal,0x1221e,LUM OVER LUM & SHU2,model,12,0.0001,8,0.1828,0,1,0,1.0,True
+Assurbanipal,0x1226f,NUNUZ AB2 TIMES BI,model,15,0.0002,8,0.2909,2,1,0,1.0,True
+Assurbanipal,0x12013,AB TIMES SHESH,model,18,0.0,7,0.3697,1,3,0,1.0,True
+Assurbanipal,0x120ca,GA2 TIMES EN TIMES GAN2 TENU,model,17,0.0017,7,0.3867,1,2,0,1.0,True
+Assurbanipal,0x12117,GU CROSSING GU,model,11,0.0003,7,0.2431,0,1,0,1.0,True
+Assurbanipal,0x1219e,KASKAL OVER KASKAL LAGAB TIMES U OVER LAGAB TIMES U,model,18,0.0,7,0.3214,0,0,0,1.0,True
+Assurbanipal,0x121dc,LAGAB TIMES SHE PLUS SUM,model,15,0.0031,7,0.3794,0,2,0,1.0,True
+Assurbanipal,0x12230,MUNSUB,model,27,0.0023,7,0.4854,0,1,0,1.0,True
+Assurbanipal,0x12236,MUSH OVER MUSH,model,18,0.0006,7,0.4198,0,0,0,1.0,True
+Assurbanipal,0x12272,NUNUZ AB2 TIMES IGI GUNU,model,19,0.0005,7,0.3802,1,1,0,1.0,True
+Assurbanipal,0x1235b,UZ3 TIMES KASKAL,model,12,0.0005,7,0.2985,0,0,0,1.0,True
+Esagil,0x1214d,IL2,model,13,0.0002,7,0.3012,1,1,3,0.15625,True
+Esagil,0x12274,NUNUZ AB2 TIMES LA,model,17,0.0003,7,0.3967,0,0,0,0.15598,True
+Assurbanipal,0x12062,DAG KISIM5 TIMES IR PLUS LU,model,22,0.0013,6,0.4539,2,2,0,1.0,True
+Assurbanipal,0x1206b,DAG KISIM5 TIMES TAK4,model,21,0.0002,6,0.4705,1,0,0,1.0,True
+Assurbanipal,0x120c2,GA2 TIMES BUR PLUS RA,model,19,0.002,6,0.4644,1,4,0,1.0,True
+Assurbanipal,0x12133,HI TIMES KIN,model,12,0.0031,6,0.3644,0,2,0,1.0,True
+Assurbanipal,0x121ba,LAGAB TIMES A PLUS DA PLUS HA,model,18,0.0,6,0.4603,0,0,0,1.0,True
+Assurbanipal,0x121f0,LAGAR GUNU OVER LAGAR GUNU SHE,model,18,0.0005,6,0.452,0,1,0,1.0,True
+Assurbanipal,0x12211,LU2 TENU,model,11,0.0,6,0.2857,0,3,0,1.0,True
+Assurbanipal,0x12273,NUNUZ AB2 TIMES KAD3,model,18,0.0,6,0.3777,1,0,0,1.0,True
+Assurbanipal,0x12279,NUNUZ KISIM5 TIMES BI U,model,17,0.0,6,0.3586,2,1,0,1.0,True
+Assurbanipal,0x122ea,SUR9,model,15,0.001,6,0.4128,1,1,0,1.0,True
+Assurbanipal,0x1231f,UM TIMES ME PLUS DA,model,15,0.0,6,0.3745,1,2,2,1.0,True
+Assurbanipal,0x12373,,model,17,0.0021,6,0.451,1,0,0,1.0,True
+Esagil,0x120de,GA2 TIMES ME PLUS EN,model,12,0.0012,6,0.3286,0,0,0,0.15559,True
+Esagil,0x12104,GI4,model,12,0.0001,6,0.3536,0,2,1,0.15672,True
+Esagil,0x121f8,LIL,model,12,0.0025,6,0.3493,0,1,0,0.15691,True
+Esagil,0x1226e,NUNUZ AB2 TIMES ASHGAB,model,17,0.0035,6,0.4508,0,1,1,0.15662,True
+Assurbanipal,0x12046,BALAG,model,14,0.0,5,0.3622,2,0,0,1.0,True
+Assurbanipal,0x1204c,BI TIMES IGI GUNU,model,10,0.0007,5,0.2959,1,0,0,1.0,True
+Assurbanipal,0x12059,DAG KISIM5 TIMES BALAG,model,19,0.0005,5,0.4975,0,3,0,1.0,True
+Assurbanipal,0x1205a,DAG KISIM5 TIMES BI,model,16,0.0008,5,0.4038,3,1,0,1.0,True
+Assurbanipal,0x12095,EGIR,model,13,0.0003,5,0.3955,3,0,0,1.0,True
+Assurbanipal,0x120b1,EZEN TIMES LI,model,19,0.0001,5,0.4973,2,3,0,1.0,True
+Assurbanipal,0x120c3,GA2 TIMES DA,model,11,0.0004,5,0.405,0,0,0,1.0,True
+Assurbanipal,0x120d0,GA2 TIMES GIR2 PLUS SU,model,17,0.0002,5,0.471,0,2,0,1.0,True
+Assurbanipal,0x120d7,GA2 TIMES ISH PLUS HU PLUS ASH,model,15,0.0001,5,0.4629,0,1,0,1.0,True
+Assurbanipal,0x12126,GUR7,model,21,0.0001,5,0.5413,0,0,0,1.0,True
+Assurbanipal,0x12172,KA TIMES LI,model,16,0.0004,5,0.4433,1,2,0,1.0,True
+Assurbanipal,0x1219d,KASKAL LAGAB TIMES U OVER LAGAB TIMES U,model,14,0.0,5,0.3381,0,0,0,1.0,True
+Assurbanipal,0x121e0,LAGAB TIMES SHU2 PLUS SHU2,model,8,0.0004,5,0.242,0,1,0,1.0,True
+Assurbanipal,0x12219,LUGAL OPPOSING LUGAL,model,19,0.0,5,0.4553,0,0,3,1.0,True
+Assurbanipal,0x12241,NAGA INVERTED,model,6,0.001,5,0.1436,1,0,0,1.0,True
+Assurbanipal,0x12243,NAGA OPPOSING NAGA,model,15,0.0004,5,0.4441,1,0,0,1.0,True
+Assurbanipal,0x12270,NUNUZ AB2 TIMES DUG,model,18,0.0022,5,0.4672,0,1,0,1.0,True
+Assurbanipal,0x12278,NUNUZ KISIM5 TIMES BI,model,15,0.0048,5,0.3494,2,0,0,1.0,True
+Assurbanipal,0x122aa,SAL LAGAB TIMES ASH2,model,12,0.0004,5,0.3952,1,3,0,1.0,True
+Assurbanipal,0x122c1,SHESH2 & SUHUR,model,18,0.002,5,0.4614,1,1,0,1.0,True
+Assurbanipal,0x122c7,SHIM TIMES A,model,12,0.0,5,0.3788,1,1,0,1.0,True
+Assurbanipal,0x122c8,SHIM TIMES BAL,model,16,0.0,5,0.4119,1,0,0,1.0,True
+Assurbanipal,0x122c9,SHIM TIMES BULUG,model,16,0.0,5,0.4258,1,0,1,1.0,True
+Assurbanipal,0x122ce,SHIM TIMES KUSHU2,model,15,0.0,5,0.3991,2,0,0,1.0,True
+Assurbanipal,0x122d1,SHIM TIMES SAL,model,13,0.0,5,0.3349,1,1,0,1.0,True
+Assurbanipal,0x122de,SIG4,model,11,0.0,5,0.3376,1,0,0,1.0,True
+Assurbanipal,0x1235f,ZA SQUARED TIMES KUR,model,10,0.0001,5,0.3531,0,2,0,1.0,True
+Assurbanipal,0x12383,,model,15,0.0,5,0.4327,0,2,0,1.0,True
+Assurbanipal,0x1238b,,model,15,0.0009,5,0.4346,0,1,0,1.0,True
+Esagil,0x12029,ALAN,model,20,0.0042,5,0.4961,0,0,1,0.15625,True
+Esagil,0x12054,BUR2,model,10,0.0007,5,0.3552,0,1,0,0.15655,True
+Esagil,0x120ab,EZEN TIMES IGI GUNU,model,16,0.0001,5,0.4279,0,1,0,0.15627,True
+Esagil,0x122d2,SHINIG,model,14,0.0044,5,0.4123,0,0,0,0.15638,True
+Assurbanipal,0x12017,AB2 TIMES BALAG,model,11,0.0011,4,0.3697,0,2,0,1.0,True
+Assurbanipal,0x12058,DAG KISIM5 TIMES AMAR,model,14,0.0044,4,0.4177,2,0,0,1.0,True
+Assurbanipal,0x1205d,DAG KISIM5 TIMES GI,model,18,0.001,4,0.5705,1,0,0,1.0,True
+Assurbanipal,0x1205e,DAG KISIM5 TIMES GIR2,model,17,0.0001,4,0.5831,3,0,0,1.0,True
+Assurbanipal,0x12069,DAG KISIM5 TIMES PAP PLUS PAP,model,15,0.0,4,0.4497,2,1,0,1.0,True
+Assurbanipal,0x120be,E2 TIMES A PLUS HA PLUS DA(sic!),model,14,0.0008,4,0.4878,0,0,0,1.0,True
+Assurbanipal,0x120d6,GA2 TIMES IGI GUNU,model,12,0.0008,4,0.5073,0,1,0,1.0,True
+Assurbanipal,0x12124,GUM TIMES SHE,model,9,0.0,4,0.3632,0,1,0,1.0,True
+Assurbanipal,0x1213e,HUL2,model,9,0.0001,4,0.3808,1,1,0,1.0,True
+Assurbanipal,0x12161,KA TIMES ESH2,model,13,0.0001,4,0.4287,0,1,0,1.0,True
+Assurbanipal,0x1216a,KA TIMES GISH CROSSING GISH,model,13,0.0001,4,0.4294,2,2,0,1.0,True
+Assurbanipal,0x121a3,KI TIMES UD,model,10,0.0003,4,0.4185,0,0,0,1.0,True
+Assurbanipal,0x121a9,KISIM5 OVER KISIM5,model,8,0.0008,4,0.2868,2,0,0,1.0,True
+Assurbanipal,0x121d9,LAGAB TIMES ME PLUS EN,model,11,0.0,4,0.4493,1,0,0,1.0,True
+Assurbanipal,0x121df,LAGAB TIMES SHU2,model,6,0.0001,4,0.2375,1,3,0,1.0,True
+Assurbanipal,0x121fe,LU2 TIMES AL,model,16,0.0009,4,0.5181,0,0,0,1.0,True
+Assurbanipal,0x1220a,LU2 TIMES LAGAB,model,14,0.0011,4,0.4894,0,0,0,1.0,True
+Assurbanipal,0x12210,LU2 TIMES TUG2,model,16,0.0005,4,0.4986,0,2,0,1.0,True
+Assurbanipal,0x1224b,NE SHESHIG,model,11,0.004,4,0.4205,2,0,0,1.0,True
+Assurbanipal,0x12251,NIM TIMES GAR PLUS GAN2 TENU,model,14,0.0044,4,0.4625,0,1,0,1.0,True
+Assurbanipal,0x12271,NUNUZ AB2 TIMES GUD,model,16,0.0016,4,0.4334,0,0,0,1.0,True
+Assurbanipal,0x122a4,SAG TIMES UM,model,14,0.0005,4,0.5034,0,0,0,1.0,True
+Assurbanipal,0x122be,SHEG9,model,15,0.0006,4,0.5437,0,1,0,1.0,True
+Assurbanipal,0x122cf,SHIM TIMES LUL,model,16,0.0001,4,0.4651,1,1,0,1.0,True
+Assurbanipal,0x1230a,TUR OVER TUR ZA OVER ZA,model,19,0.0036,4,0.4639,0,0,0,1.0,True
+Assurbanipal,0x1234e,URU TIMES URUDA,model,11,0.0001,4,0.4064,0,3,0,1.0,True
+Assurbanipal,0x1235a,UZ3,model,9,0.0027,4,0.3624,0,0,0,1.0,True
+Assurbanipal,0x12394,,model,15,0.0012,4,0.4918,0,2,0,1.0,True
+Esagil,0x1205e,DAG KISIM5 TIMES GIR2,model,15,0.0046,4,0.4736,0,0,1,0.15658,True
+Esagil,0x12066,DAG KISIM5 TIMES LU PLUS MASH2,model,24,0.0049,4,0.5218,0,0,0,0.15514,True
+Esagil,0x1206f,DAR,model,8,0.0003,4,0.3248,0,1,1,0.15682,True
+Esagil,0x120b5,GA,model,6,0.0028,4,0.1966,2,0,0,0.15686,True
+Esagil,0x12126,GUR7,model,11,0.0,4,0.4521,1,1,0,0.15606,True
+Esagil,0x12127,GURUN,model,7,0.0037,4,0.2645,1,0,0,0.15517,True
+Esagil,0x1212f,HI TIMES ASH2,model,8,0.0004,4,0.3575,0,1,1,0.15674,True
+Esagil,0x121a7,KISH,model,8,0.0008,4,0.3082,0,0,1,0.15598,True
+Esagil,0x12246,NAM & ERIN2,model,10,0.0013,4,0.3797,0,0,3,0.15579,True
+Esagil,0x12250,NIM TIMES GAN2 TENU,model,10,0.0031,4,0.4536,0,1,0,0.15655,True
+Esagil,0x122c7,SHIM TIMES A,model,12,0.0005,4,0.4102,1,0,0,0.15603,True
+Esagil,0x122eb,TA,model,7,0.0024,4,0.2566,2,0,1,0.15568,True
+Esagil,0x1231d,UM,model,6,0.0001,4,0.2214,0,1,0,0.15609,True
+Assurbanipal,0x12011,AB TIMES IMIN,model,13,0.0006,3,0.5205,0,0,0,1.0,True
+Assurbanipal,0x12028,AL TIMES USH,model,12,0.0,3,0.5085,0,0,0,1.0,True
+Assurbanipal,0x1203d,ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH,model,7,0.0002,3,0.3829,0,0,0,1.0,True
+Assurbanipal,0x1206c,DAG KISIM5 TIMES U2 PLUS GIR2,model,23,0.0009,3,0.5618,0,0,0,1.0,True
+Assurbanipal,0x12096,EL,model,8,0.0001,3,0.4443,1,1,0,1.0,True
+Assurbanipal,0x1209e,EREN,model,18,0.0041,3,0.55,0,0,0,1.0,True
+Assurbanipal,0x120b3,EZEN TIMES U2,model,16,0.0,3,0.5449,0,1,0,1.0,True
+Assurbanipal,0x120de,GA2 TIMES ME PLUS EN,model,12,0.0003,3,0.4991,2,1,0,1.0,True
+Assurbanipal,0x120e4,GA2 TIMES SAR,model,14,0.0014,3,0.5112,0,1,0,1.0,True
+Assurbanipal,0x120f9,GAN2 OVER GAN2,model,12,0.0,3,0.534,0,0,0,1.0,True
+Assurbanipal,0x12104,GI4,model,10,0.0015,3,0.4746,0,1,0,1.0,True
+Assurbanipal,0x12107,GIDIM,model,12,0.0002,3,0.4636,1,0,0,1.0,True
+Assurbanipal,0x12112,GISH CROSSING GISH,model,6,0.0027,3,0.2792,2,0,0,1.0,True
+Assurbanipal,0x1214c,IL TIMES GAN2 TENU,model,15,0.002,3,0.4984,1,0,0,1.0,True
+Assurbanipal,0x121b5,KUSHU2,model,6,0.0001,3,0.2922,2,1,0,1.0,True
+Assurbanipal,0x121c1,LAGAB TIMES BI,model,8,0.0039,3,0.3558,2,1,0,1.0,True
+Assurbanipal,0x121c8,LAGAB TIMES HA,model,9,0.0001,3,0.5425,0,0,0,1.0,True
+Assurbanipal,0x121cb,LAGAB TIMES IGI GUNU,model,9,0.0001,3,0.5031,0,0,0,1.0,True
+Assurbanipal,0x121cc,LAGAB TIMES IM,model,11,0.0021,3,0.439,0,0,0,1.0,True
+Assurbanipal,0x121e4,LAGAB TIMES TE PLUS A PLUS SU PLUS NA,model,19,0.0,3,0.5618,0,0,0,1.0,True
+Assurbanipal,0x12204,LU2 TIMES IM,model,17,0.0014,3,0.5778,0,0,0,1.0,True
+Assurbanipal,0x12205,LU2 TIMES KAD2,model,14,0.0,3,0.5006,0,1,0,1.0,True
+Assurbanipal,0x1222d,MU OVER MU,model,10,0.0006,3,0.4201,0,0,0,1.0,True
+Assurbanipal,0x1223a,MUSH3 TIMES A,model,9,0.0003,3,0.4437,0,1,0,1.0,True
+Assurbanipal,0x1223f,NA2,model,11,0.004,3,0.4284,0,1,0,1.0,True
+Assurbanipal,0x12240,NAGA,model,12,0.0014,3,0.4635,0,0,0,1.0,True
+Assurbanipal,0x1224a,NE TIMES UD,model,12,0.0025,3,0.5195,0,0,0,1.0,True
+Assurbanipal,0x12253,NINDA2 TIMES AN,model,8,0.0016,3,0.4464,0,0,0,1.0,True
+Assurbanipal,0x1226a,NUN OVER NUN,model,10,0.004,3,0.4908,0,0,0,1.0,True
+Assurbanipal,0x12274,NUNUZ AB2 TIMES LA,model,17,0.001,3,0.5162,1,0,0,1.0,True
+Assurbanipal,0x1229c,SAG TIMES LUM,model,14,0.0002,3,0.5087,0,0,0,1.0,True
+Assurbanipal,0x1229f,SAG TIMES SAL,model,11,0.0021,3,0.4794,0,0,0,1.0,True
+Assurbanipal,0x122c6,SHIM,model,9,0.0042,3,0.3581,1,0,0,1.0,True
+Assurbanipal,0x122cc,SHIM TIMES IGI,model,12,0.0,3,0.4534,1,0,0,1.0,True
+Assurbanipal,0x122cd,SHIM TIMES IGI GUNU,model,16,0.0,3,0.4662,2,0,0,1.0,True
+Assurbanipal,0x122d2,SHINIG,model,15,0.0015,3,0.5513,0,0,0,1.0,True
+Assurbanipal,0x122e8,SUMASH,model,10,0.0039,3,0.5235,0,0,0,1.0,True
+Assurbanipal,0x12322,UMBIN,model,20,0.0014,3,0.5236,0,0,2,1.0,True
+Assurbanipal,0x1232a,UR SHESHIG,model,10,0.0008,3,0.4489,1,1,0,1.0,True
+Assurbanipal,0x1232e,UR2 TIMES AL,model,13,0.0001,3,0.5577,0,1,0,1.0,True
+Assurbanipal,0x12335,URI,model,14,0.0006,3,0.5802,0,0,0,1.0,True
+Esagil,0x1205b,DAG KISIM5 TIMES GA,model,15,0.0001,3,0.4977,0,1,1,0.15658,True
+Esagil,0x12070,DARA3,model,15,0.0001,3,0.4608,0,1,0,0.15657,True
+Esagil,0x1207e,DUB,model,8,0.0001,3,0.4676,0,0,0,0.15686,True
+Esagil,0x1210a,GIR3,model,6,0.0012,3,0.3579,0,0,1,0.15606,True
+Esagil,0x12112,GISH CROSSING GISH,model,6,0.0008,3,0.2991,0,0,0,0.15639,True
+Esagil,0x1212b,HA GUNU,model,9,0.0001,3,0.4576,0,0,3,0.15629,True
+Esagil,0x12138,HUB2,model,7,0.0003,3,0.3072,1,0,2,0.15658,True
+Esagil,0x1213d,HUB2 TIMES UD,model,10,0.0,3,0.3889,1,0,1,0.15676,True
+Esagil,0x12145,IG,model,6,0.0014,3,0.3222,0,0,2,0.15579,True
+Esagil,0x1214e,IM,model,7,0.0014,3,0.3571,0,0,0,0.15586,True
+Esagil,0x1218d,KA2,model,8,0.0005,3,0.372,0,0,2,0.15686,True
+Esagil,0x1218f,KAB,model,7,0.0003,3,0.3072,1,0,2,0.15658,True
+Esagil,0x12198,KAL TIMES BAD,model,8,0.0002,3,0.4614,1,0,0,0.1562,True
+Esagil,0x121c0,LAGAB TIMES BAD,model,6,0.0001,3,0.3511,1,0,0,0.15647,True
+Esagil,0x12244,NAGAR & ZA TENU,model,6,0.0004,3,0.368,1,0,1,0.15556,True
+Esagil,0x1228a,PIRIG,model,6,0.0012,3,0.3579,0,0,1,0.15606,True
+Esagil,0x1228d,PIRIG TIMES ZA,model,8,0.0001,3,0.3706,0,0,1,0.15677,True
+Esagil,0x12291,RI,model,5,0.0002,3,0.2337,0,0,3,0.15581,True
+Esagil,0x122af,SHA3 TIMES A,model,10,0.0007,3,0.44,0,0,0,0.15551,True
+Esagil,0x122cb,SHIM TIMES GAR,model,12,0.0001,3,0.4752,1,0,0,0.15635,True
+Esagil,0x122d4,SHIR TENU,model,7,0.0004,3,0.3283,0,0,1,0.15562,True
+Esagil,0x122e6,SUHUR,model,13,0.0019,3,0.4606,0,0,1,0.1565,True
+Esagil,0x122ed,TA TIMES HI,model,10,0.0049,3,0.4675,0,0,0,0.15576,True
+Esagil,0x12314,UD KUSHU2,model,10,0.0005,3,0.4,1,0,2,0.15675,True
+Esagil,0x12324,UMUM TIMES KASKAL,model,14,0.0004,3,0.4896,0,1,1,0.15651,True
+Esagil,0x1234e,URU TIMES URUDA,model,11,0.0021,3,0.4726,0,0,0,0.15604,True
+Esagil,0x1234f,URUDA,model,7,0.0002,3,0.3101,0,0,2,0.15609,True
+Esagil,0x12351,USH,model,6,0.0013,3,0.2838,1,0,0,0.15589,True
+Esagil,0x12352,USH TIMES A,model,10,0.0024,3,0.4862,1,1,1,0.15642,True
+Esagil,0x12364,ZI OVER ZI & A,model,12,0.0018,3,0.4726,0,0,2,0.15602,True
+Esagil,0x1237d,SIGN HUSH,model,9,0.0014,3,0.4336,0,0,1,0.15586,True
+Esagil,0x1238c,MESH,model,5,0.0002,3,0.1807,0,0,1,0.15673,True
+Assurbanipal,0x12010,AB TIMES IGI GUNU,model,14,0.004,2,0.5577,0,0,0,1.0,True
+Assurbanipal,0x12015,AB GUNU,model,9,0.0013,2,0.4516,0,0,0,1.0,True
+Assurbanipal,0x12018,AB2 TIMES GAN2 TENU,model,9,0.0003,2,0.4459,0,0,0,1.0,True
+Assurbanipal,0x12023,AL TIMES GISH,model,9,0.0015,2,0.5242,1,1,0,1.0,True
+Assurbanipal,0x12054,BUR2,model,9,0.0017,2,0.5808,0,0,0,1.0,True
+Assurbanipal,0x12070,DARA3,model,12,0.0015,2,0.5215,0,0,0,1.0,True
+Assurbanipal,0x12071,DARA4,model,13,0.0001,2,0.5188,0,1,0,1.0,True
+Assurbanipal,0x1207b,DU OVER DU,model,9,0.0003,2,0.4707,1,0,0,1.0,True
+Assurbanipal,0x120ab,EZEN TIMES IGI GUNU,model,15,0.0019,2,0.6012,0,1,0,1.0,True
+Assurbanipal,0x120ba,GA2 TIMES A PLUS IGI,model,11,0.0003,2,0.5732,0,0,0,1.0,True
+Assurbanipal,0x120cd,GA2 TIMES GI,model,12,0.001,2,0.588,0,0,0,1.0,True
+Assurbanipal,0x120d3,GA2 TIMES HAL PLUS LA,model,12,0.0017,2,0.5956,0,0,0,1.0,True
+Assurbanipal,0x120ff,GESHTIN TIMES KUR,model,9,0.0026,2,0.457,0,0,0,1.0,True
+Assurbanipal,0x12105,GI4 OVER GI4,model,20,0.003,2,0.5708,0,1,0,1.0,True
+Assurbanipal,0x1210c,GIR3 TIMES GAN2 TENU,model,9,0.0003,2,0.4459,0,0,0,1.0,True
+Assurbanipal,0x1214d,IL2,model,15,0.0029,2,0.5844,0,0,0,1.0,True
+Assurbanipal,0x12198,KAL TIMES BAD,model,8,0.0005,2,0.4769,1,0,0,1.0,True
+Assurbanipal,0x121a1,KI TIMES BAD,model,9,0.0017,2,0.4879,0,0,0,1.0,True
+Assurbanipal,0x121b2,KUN,model,11,0.001,2,0.5964,0,0,0,1.0,True
+Assurbanipal,0x121b9,LAGAB TIMES A,model,7,0.0039,2,0.4761,0,0,0,1.0,True
+Assurbanipal,0x121bc,LAGAB TIMES A PLUS LAL,model,9,0.0001,2,0.452,0,0,0,1.0,True
+Assurbanipal,0x121c5,LAGAB TIMES GAR,model,8,0.003,2,0.5018,0,0,0,1.0,True
+Assurbanipal,0x121e1,LAGAB TIMES SUM,model,11,0.0003,2,0.5323,0,0,0,1.0,True
+Assurbanipal,0x121e6,LAGAB TIMES U PLUS A,model,8,0.0043,2,0.5151,1,2,0,1.0,True
+Assurbanipal,0x121e9,LAGAB TIMES UD,model,7,0.003,2,0.482,0,2,0,1.0,True
+Assurbanipal,0x121fc,LU TIMES BAD,model,9,0.0,2,0.5395,1,0,0,1.0,True
+Assurbanipal,0x12213,LU2 OPPOSING LU2,model,12,0.0026,2,0.575,0,0,0,1.0,True
+Assurbanipal,0x12216,LU3,model,9,0.0002,2,0.4762,0,1,0,1.0,True
+Assurbanipal,0x1221d,LUM,model,7,0.0,2,0.4781,1,0,0,1.0,True
+Assurbanipal,0x12231,MURGU2,model,7,0.0,2,0.4781,1,0,0,1.0,True
+Assurbanipal,0x12242,NAGA TIMES SHU TENU,model,17,0.0027,2,0.5708,0,0,0,1.0,True
+Assurbanipal,0x1225e,NINDA2 TIMES U2 PLUS ASH,model,13,0.0001,2,0.5946,0,1,0,1.0,True
+Assurbanipal,0x12266,NUN LAGAR TIMES SAL,model,13,0.0002,2,0.5457,0,0,0,1.0,True
+Assurbanipal,0x12294,SAG NUTILLU,model,6,0.0021,2,0.3924,0,0,0,1.0,True
+Assurbanipal,0x12297,SAG TIMES DU,model,12,0.003,2,0.5409,0,0,0,1.0,True
+Assurbanipal,0x1229e,SAG TIMES NUN,model,12,0.0,2,0.5679,0,0,0,1.0,True
+Assurbanipal,0x122a0,SAG TIMES SHID,model,13,0.0029,2,0.6022,0,0,0,1.0,True
+Assurbanipal,0x122a6,SAG TIMES USH,model,13,0.0003,2,0.548,0,0,0,1.0,True
+Assurbanipal,0x122b0,SHA3 TIMES BAD,model,7,0.0003,2,0.4737,1,0,0,1.0,True
+Assurbanipal,0x122b2,SHA3 TIMES NE,model,14,0.003,2,0.5977,0,0,0,1.0,True
+Assurbanipal,0x122b3,SHA3 TIMES SHU2,model,7,0.0002,2,0.484,0,0,0,1.0,True
+Assurbanipal,0x122b7,SHA6 (bad!),model,17,0.0019,2,0.5922,0,1,0,1.0,True
+Assurbanipal,0x122c5,SHID TIMES IM,model,13,0.0008,2,0.5485,0,0,0,1.0,True
+Assurbanipal,0x122ca,SHIM TIMES DIN,model,13,0.0001,2,0.4977,1,0,0,1.0,True
+Assurbanipal,0x122d0,SHIM TIMES MUG,model,13,0.0,2,0.4967,1,0,0,1.0,True
+Assurbanipal,0x122d4,SHIR TENU,model,5,0.0002,2,0.4143,0,0,0,1.0,True
+Assurbanipal,0x122ec,TA ASTERISK,model,6,0.002,2,0.4002,1,0,0,1.0,True
+Assurbanipal,0x122ee,TA TIMES MI,model,12,0.0032,2,0.547,0,0,0,1.0,True
+Assurbanipal,0x12320,,model,12,0.0026,2,0.5131,0,0,0,1.0,True
+Assurbanipal,0x12330,UR2 TIMES NUN,model,12,0.0041,2,0.6327,0,1,0,1.0,True
+Assurbanipal,0x12334,UR4,model,6,0.0008,2,0.4367,0,0,0,1.0,True
+Assurbanipal,0x12336,URI3,model,12,0.0008,2,0.5731,2,0,0,1.0,True
+Assurbanipal,0x12340,URU TIMES GU,model,11,0.0001,2,0.5545,0,1,0,1.0,True
+Assurbanipal,0x12341,URU TIMES HA,model,10,0.0036,2,0.5621,0,1,0,1.0,True
+Assurbanipal,0x12353,USH TIMES KU,model,11,0.0029,2,0.5165,0,0,0,1.0,True
+Assurbanipal,0x12376,,model,12,0.0027,2,0.5281,0,1,0,1.0,True
+Assurbanipal,0x12377,,model,14,0.0049,2,0.5586,0,0,0,1.0,True
+Assurbanipal,0x1238f,,model,8,0.0,2,0.4347,1,1,0,1.0,True
+Assurbanipal,0x12390,,model,8,0.0,2,0.4347,1,1,0,1.0,True
+Assurbanipal,0x12393,,model,5,0.0035,2,0.3103,0,0,0,1.0,True
+Esagil,0x1200f,AB TIMES HA,model,11,0.0006,2,0.4671,0,0,0,0.15686,True
+Esagil,0x1201d,AK,model,6,0.0007,2,0.3791,0,0,0,0.15614,True
+Esagil,0x12033,APIN,model,6,0.0013,2,0.4401,0,0,1,0.1558,True
+Esagil,0x12034,ARAD,model,5,0.0003,2,0.3675,0,0,1,0.15586,True
+Esagil,0x12046,BALAG,model,12,0.0001,2,0.4956,2,0,0,0.15622,True
+Esagil,0x1206e,DAM,model,10,0.0002,2,0.5097,0,0,0,0.15591,True
+Esagil,0x12072,DI,model,6,0.0024,2,0.3888,0,0,1,0.1569,True
+Esagil,0x1207d,DU SHESHIG,model,9,0.0012,2,0.4895,1,0,0,0.15578,True
+Esagil,0x12085,DUN3,model,7,0.0037,2,0.4961,0,0,0,0.1561,True
+Esagil,0x12086,DUN3 GUNU,model,7,0.0037,2,0.4961,0,0,0,0.1561,True
+Esagil,0x12096,EL,model,9,0.0005,2,0.5241,0,0,2,0.15647,True
+Esagil,0x12098,EN TIMES GAN2,model,12,0.0023,2,0.5409,0,0,0,0.15677,True
+Esagil,0x120ac,EZEN TIMES KASKAL,model,14,0.0004,2,0.4481,0,0,0,0.15627,True
+Esagil,0x120ee,GABA,model,8,0.0027,2,0.3984,1,0,0,0.15658,True
+Esagil,0x120f8,GAN2 TENU,model,6,0.0001,2,0.5012,0,0,1,0.15708,True
+Esagil,0x120fc,GAR3,model,10,0.0001,2,0.5406,0,0,2,0.15644,True
+Esagil,0x12125,GUR,model,4,0.0002,2,0.259,0,0,2,0.15559,True
+Esagil,0x12130,HI TIMES BAD,model,5,0.0009,2,0.3015,0,0,0,0.1566,True
+Esagil,0x12137,HU,model,3,0.0002,2,0.2864,0,0,1,0.15584,True
+Esagil,0x1214a,IGI GUNU,model,7,0.0,2,0.4622,1,0,0,0.15605,True
+Esagil,0x12156,ISH,model,5,0.0013,2,0.4541,0,0,1,0.15667,True
+Esagil,0x12161,KA TIMES ESH2,model,13,0.0,2,0.5195,0,1,0,0.156,True
+Esagil,0x12225,MAR,model,5,0.0002,2,0.348,0,0,1,0.15582,True
+Esagil,0x12232,MUSH,model,7,0.0001,2,0.4065,1,0,1,0.15641,True
+Esagil,0x12239,MUSH3,model,5,0.0005,2,0.3078,0,0,2,0.15683,True
+Esagil,0x1223b,MUSH3 TIMES A PLUS DI,model,14,0.0001,2,0.5232,0,0,0,0.15645,True
+Esagil,0x12263,NUN,model,5,0.0008,2,0.4664,0,0,1,0.15683,True
+Esagil,0x122a9,SAL,model,4,0.0003,2,0.3628,1,0,0,0.15541,True
+Esagil,0x122ae,SHA3,model,6,0.0041,2,0.4307,0,0,1,0.15654,True
+Esagil,0x122d9,SHU2,model,2,0.0013,2,0.006,1,0,0,0.15764,True
+Esagil,0x122fe,TI TENU,model,5,0.0003,2,0.2851,2,0,0,0.15645,True
+Esagil,0x1230d,U U U,model,3,0.0031,2,0.2103,0,0,0,0.15666,True
+Esagil,0x1232b,UR2,model,7,0.0004,2,0.4724,0,0,1,0.15654,True
+Esagil,0x12337,URU,model,5,0.004,2,0.3892,0,1,0,0.15691,True
+Esagil,0x1233a,URU TIMES BAR,model,7,0.0012,2,0.4021,0,0,2,0.15674,True
+Esagil,0x12340,URU TIMES GU,model,11,0.0,2,0.5078,0,0,0,0.15661,True
+Esagil,0x1234d,URU TIMES UD,model,8,0.0014,2,0.4642,0,0,2,0.15638,True
+Esagil,0x1235d,ZA,model,4,0.0028,2,0.4613,0,0,1,0.15488,True
+Esagil,0x12362,ZE2,model,8,0.0003,2,0.4911,0,1,1,0.15614,True
+Esagil,0x12363,ZI,model,7,0.0026,2,0.357,0,0,1,0.15695,True
+Esagil,0x12366,ZIB,model,4,0.0,2,0.3917,0,1,0,0.15738,True
+Esagil,0x12409,,model,4,0.0028,2,0.4613,0,0,1,0.15488,
+Assurbanipal,0x12002,A TIMES BAD,model,5,0.0047,1,0.5362,1,0,0,1.0,True
+Assurbanipal,0x12019,AB2 TIMES ME PLUS EN,model,9,0.0022,1,0.5105,0,0,0,1.0,True
+Assurbanipal,0x1201b,AB2 TIMES TAK4,model,13,0.0009,1,0.5278,0,0,0,1.0,True
+Assurbanipal,0x1204b,BI TIMES GAR,model,7,0.0016,1,0.5327,1,0,0,1.0,True
+Assurbanipal,0x1204e,BU OVER BU AB,model,15,0.0001,1,0.5784,0,0,0,1.0,True
+Assurbanipal,0x12057,DAG KISIM5 TIMES A PLUS MASH,model,14,0.004,1,0.5778,0,0,0,1.0,True
+Assurbanipal,0x12063,DAG KISIM5 TIMES KAK,model,14,0.0004,1,0.56,1,0,0,1.0,True
+Assurbanipal,0x1206a,DAG KISIM5 TIMES SI,model,14,0.0,1,0.554,0,0,0,1.0,True
+Assurbanipal,0x12081,DUG,model,6,0.0028,1,0.587,0,0,0,1.0,True
+Assurbanipal,0x120a4,EZEN TIMES A PLUS LAL TIMES LAL,model,14,0.0025,1,0.5844,0,0,0,1.0,True
+Assurbanipal,0x120b0,EZEN TIMES LAL TIMES LAL,model,12,0.0021,1,0.5803,0,0,0,1.0,True
+Assurbanipal,0x120c6,GA2 TIMES DUB,model,13,0.0,1,0.6192,0,1,0,1.0,True
+Assurbanipal,0x120db,GA2 TIMES KID PLUS LAL,model,12,0.0008,1,0.6707,0,0,0,1.0,True
+Assurbanipal,0x120f4,GALAM,model,4,0.0006,1,0.4038,0,0,0,1.0,True
+Assurbanipal,0x120fe,GESHTIN,model,6,0.0007,1,0.4995,1,0,0,1.0,True
+Assurbanipal,0x1210b,GIR3 TIMES A PLUS IGI,model,10,0.0024,1,0.601,1,0,0,1.0,True
+Assurbanipal,0x12115,GISH TENU,model,2,0.0032,1,0.3382,0,0,0,1.0,True
+Assurbanipal,0x12192,KAD4,model,9,0.0016,1,0.6431,1,0,0,1.0,True
+Assurbanipal,0x121af,KU7,model,4,0.0025,1,0.4419,1,0,0,1.0,True
+Assurbanipal,0x121e7,LAGAB TIMES U PLUS U PLUS U,model,7,0.0017,1,0.5608,0,1,0,1.0,True
+Assurbanipal,0x121f5,LAM TIMES KUR,model,9,0.0024,1,0.5454,1,0,0,1.0,True
+Assurbanipal,0x12249,NE TIMES A,model,12,0.0024,1,0.57,0,0,0,1.0,True
+Assurbanipal,0x1225c,NINDA2 TIMES SHE PLUS ASH,model,10,0.0039,1,0.4557,0,0,0,1.0,True
+Assurbanipal,0x1229a,SAG TIMES KAK,model,10,0.0014,1,0.6058,0,0,0,1.0,True
+Assurbanipal,0x122a3,SAG TIMES UB,model,14,0.0005,1,0.6103,0,0,0,1.0,True
+Assurbanipal,0x122b1,SHA3 TIMES GISH,model,8,0.0005,1,0.6286,0,0,0,1.0,True
+Assurbanipal,0x122b4,SHA3 TIMES TUR,model,11,0.0025,1,0.6172,0,0,0,1.0,True
+Assurbanipal,0x122b5,SHA3 TIMES U,model,6,0.0025,1,0.5435,0,0,0,1.0,True
+Assurbanipal,0x122dc,SI GUNU,model,8,0.0009,1,0.5042,0,0,0,1.0,True
+Assurbanipal,0x122ef,TA GUNU,model,8,0.0006,1,0.5576,0,0,0,1.0,True
+Assurbanipal,0x12308,TUM,model,8,0.0036,1,0.5743,1,0,0,1.0,True
+Assurbanipal,0x1231e,,model,11,0.0009,1,0.6052,0,0,0,1.0,True
+Assurbanipal,0x1232f,UR2 TIMES HA,model,12,0.0009,1,0.648,0,0,0,1.0,True
+Assurbanipal,0x1236d,ZUBUR,model,3,0.0036,1,0.5189,0,0,0,1.0,True
+Assurbanipal,0x1237b,GE22,model,1,0.0009,1,0.0009,1,0,0,1.0,True
+Esagil,0x12000,A,model,3,0.0002,1,0.4485,0,0,1,0.15663,True
+Esagil,0x12009,A2,model,9,0.001,1,0.5699,0,1,1,0.15643,True
+Esagil,0x1200a,AB,model,5,0.0003,1,0.5004,0,0,1,0.15657,True
+Esagil,0x12014,AB TIMES U PLUS U PLUS U,model,9,0.0003,1,0.4968,0,0,0,0.15669,True
+Esagil,0x12016,AB2,model,3,0.0038,1,0.4597,0,0,1,0.15584,True
+Esagil,0x1201c,AD,model,7,0.0004,1,0.5392,0,1,0,0.15616,True
+Esagil,0x1202d,AN,model,3,0.0008,1,0.4456,0,0,1,0.15542,True
+Esagil,0x1203f,ASHGAB,model,6,0.001,1,0.5703,0,0,1,0.15667,True
+Esagil,0x12047,BAR,model,2,0.0003,1,0.31,0,0,1,0.15632,True
+Esagil,0x12076,DIM2,model,6,0.0016,1,0.5841,0,0,0,0.15686,True
+Esagil,0x12082,DUGUD,model,6,0.0035,1,0.4963,0,0,0,0.15608,True
+Esagil,0x120a1,EZEN TIMES AN,model,11,0.0036,1,0.5368,0,0,0,0.15658,True
+Esagil,0x120f0,GAD & TAK4 & GISH,model,3,0.0003,1,0.4417,0,0,1,0.15567,True
+Esagil,0x120fe,GESHTIN,model,6,0.0042,1,0.5025,1,0,0,0.15618,True
+Esagil,0x12107,GIDIM,model,11,0.0019,1,0.6038,0,0,0,0.15634,True
+Esagil,0x12115,GISH TENU,model,2,0.0001,1,0.3492,0,0,0,0.15584,True
+Esagil,0x12116,GU,model,6,0.0003,1,0.6058,0,0,0,0.15581,True
+Esagil,0x1211e,GUD,model,5,0.0001,1,0.466,0,0,1,0.15651,True
+Esagil,0x12120,GUD TIMES KUR,model,7,0.0001,1,0.4823,0,0,1,0.15643,True
+Esagil,0x1212d,HI,model,4,0.002,1,0.3935,0,0,0,0.15636,True
+Esagil,0x12140,I A,model,8,0.001,1,0.5568,0,0,1,0.15586,True
+Esagil,0x12146,IGI,model,3,0.0002,1,0.3536,0,0,1,0.15683,True
+Esagil,0x12147,IGI & DIB,model,9,0.0005,1,0.5241,0,0,0,0.15656,True
+Esagil,0x12148,IGI RI,model,8,0.0005,1,0.5423,0,0,0,0.15583,True
+Esagil,0x1219f,KESH2,model,11,0.0046,1,0.5412,0,0,0,0.15625,True
+Esagil,0x121ac,KU3,model,5,0.0003,1,0.4465,0,0,1,0.15695,True
+Esagil,0x121ad,KU4,model,9,0.0019,1,0.559,0,1,0,0.15561,True
+Esagil,0x121b0,KUL,model,4,0.0002,1,0.4228,1,0,0,0.15618,True
+Esagil,0x121b2,KUN,model,11,0.001,1,0.5644,0,0,1,0.15617,True
+Esagil,0x121e7,LAGAB TIMES U PLUS U PLUS U,model,7,0.0041,1,0.5342,0,1,0,0.15641,True
+Esagil,0x121f3,LAL TIMES LAL,model,4,0.001,1,0.4774,0,0,1,0.1558,True
+Esagil,0x121f4,LAM,model,6,0.0003,1,0.526,0,0,1,0.15629,True
+Esagil,0x121f5,LAM TIMES KUR,model,9,0.0032,1,0.5353,0,0,0,0.1564,True
+Esagil,0x121fc,LU TIMES BAD,model,8,0.0,1,0.5388,1,0,0,0.15686,True
+Esagil,0x1221c,LUL,model,9,0.0001,1,0.5996,0,0,1,0.1553,True
+Esagil,0x12223,MA2 & MUG,model,5,0.0003,1,0.4542,0,0,1,0.15643,True
+Esagil,0x12226,MASH,model,2,0.0004,1,0.3024,0,0,1,0.15576,True
+Esagil,0x12227,MASH2,model,7,0.0019,1,0.5176,0,0,1,0.15613,True
+Esagil,0x12229,MES,model,8,0.0004,1,0.5621,0,0,0,0.15686,True
+Esagil,0x1222b,MIN,model,2,0.0026,1,0.3725,0,0,0,0.15625,True
+Esagil,0x1224f,NIM,model,5,0.0007,1,0.4888,0,0,1,0.15681,True
+Esagil,0x12261,NU,model,2,0.0006,1,0.2933,1,0,0,0.15691,True
+Esagil,0x1227f,PI,model,4,0.0003,1,0.4886,0,0,1,0.15556,True
+Esagil,0x122b9,SHAR2,model,4,0.002,1,0.3935,0,0,0,0.15636,True
+Esagil,0x122c1,SHESH2 & SUHUR,model,10,0.0012,1,0.543,0,0,0,0.15663,True
+Esagil,0x122d3,SHIR,model,7,0.0012,1,0.4917,0,0,0,0.15614,True
+Esagil,0x122e1,SILA3,model,3,0.0018,1,0.4249,0,0,0,0.15636,True
+Esagil,0x122e2,SU OVER SU,model,6,0.0008,1,0.5587,0,0,1,0.1564,True
+Esagil,0x122e4,SUD,model,9,0.001,1,0.5452,0,0,1,0.15601,True
+Esagil,0x122e7,SUM,model,7,0.0002,1,0.5923,0,0,1,0.15528,True
+Esagil,0x122fd,TE GUNU,model,9,0.0019,1,0.559,0,1,0,0.15561,True
+Esagil,0x12305,TU,model,9,0.0023,1,0.5101,0,0,1,0.15633,True
+Esagil,0x12334,UR4,model,5,0.0039,1,0.5761,0,0,1,0.15539,True
+Esagil,0x12335,URI,model,10,0.0023,1,0.5212,1,0,0,0.15525,True
+Esagil,0x12347,URU TIMES MIN,model,7,0.003,1,0.5708,0,0,0,0.15641,True
+Esagil,0x1235e,ZA TENU,model,4,0.0018,1,0.4304,0,0,0,0.15522,True
+Esagil,0x12416,,model,2,0.0026,1,0.3725,0,0,0,0.15625,
+Esagil,0x1244c,,model,4,0.0018,1,0.4304,0,0,0,0.15522,
+Esagil,0x1244f,,model,2,0.0003,1,0.31,0,0,1,0.15632,
+Esagil,0x12450,,model,3,0.0003,1,0.3652,0,0,1,0.15525,
+Esagil,0x1245a,,model,3,0.0016,1,0.4576,0,0,0,0.15711,
+Esagil,0x1245c,,model,5,0.0032,1,0.5188,0,0,0,0.15532,
+Assurbanipal,0x122bd,SHE OVER SHE TAB OVER TAB GAR OVER GAR,model,20,0.006,9,0.3695,0,1,0,1.0,True
+Assurbanipal,0x12066,DAG KISIM5 TIMES LU PLUS MASH2,model,24,0.0059,8,0.421,1,3,0,1.0,True
+Assurbanipal,0x120d4,GA2 TIMES HI PLUS LI,model,19,0.0057,8,0.4493,0,1,0,1.0,True
+Assurbanipal,0x1208e,,model,18,0.014,7,0.4161,0,1,0,1.0,True
+Assurbanipal,0x120b8,GA2 TIMES A PLUS DA PLUS HA,model,18,0.014,7,0.4161,0,1,0,1.0,True
+Assurbanipal,0x120c8,GA2 TIMES EL PLUS LA,model,18,0.0082,7,0.4438,0,1,0,1.0,True
+Assurbanipal,0x121d3,LAGAB TIMES KUL PLUS HI PLUS A,model,16,0.0118,7,0.3529,2,2,0,1.0,True
+Assurbanipal,0x12303,TIR OVER TIR,model,25,0.0054,7,0.4401,0,0,0,1.0,True
+Assurbanipal,0x12067,DAG KISIM5 TIMES LUM,model,17,0.0063,6,0.3875,2,2,0,1.0,True
+Assurbanipal,0x12022,AL TIMES DIM2,model,13,0.008,5,0.41,0,0,0,1.0,True
+Assurbanipal,0x1215a,KA TIMES AD PLUS KU3,model,18,0.0075,5,0.4858,0,0,0,1.0,True
+Assurbanipal,0x12276,NUNUZ AB2 TIMES SILA3,model,15,0.0054,5,0.4311,1,0,0,1.0,True
+Assurbanipal,0x12387,KA TIMES UR2,model,14,0.014,5,0.438,0,2,0,1.0,True
+Assurbanipal,0x1238a,,model,18,0.0058,5,0.5131,0,1,0,1.0,True
+Assurbanipal,0x12068,DAG KISIM5 TIMES NE,model,19,0.0146,4,0.5657,1,1,0,1.0,True
+Assurbanipal,0x120e1,GA2 TIMES NUN OVER NUN,model,15,0.008,4,0.536,0,2,0,1.0,True
+Assurbanipal,0x120e3,GA2 TIMES SAL,model,9,0.0125,4,0.4377,0,0,0,1.0,True
+Assurbanipal,0x120e6,GA2 TIMES SHE PLUS TUR,model,15,0.0062,4,0.4669,0,0,0,1.0,True
+Assurbanipal,0x121ca,LAGAB TIMES HI TIMES NUN,model,13,0.0067,4,0.4652,0,0,0,1.0,True
+Assurbanipal,0x12203,LU2 TIMES HI TIMES BAD,model,16,0.0061,4,0.4487,0,0,0,1.0,True
+Assurbanipal,0x12267,NUN LAGAR TIMES SAL OVER NUN LAGAR TIMES SAL,model,25,0.0058,4,0.5281,0,1,0,1.0,True
+Assurbanipal,0x12268,,model,14,0.0121,4,0.4835,0,0,0,1.0,True
+Assurbanipal,0x12355,USH TIMES TAK4,model,16,0.0053,4,0.4994,1,0,0,1.0,True
+Assurbanipal,0x1237c,,model,16,0.0079,4,0.5216,0,0,0,1.0,True
+Esagil,0x1219c,KASKAL,model,4,0.0087,4,0.1104,0,0,0,0.15551,True
+Assurbanipal,0x12014,AB TIMES U PLUS U PLUS U,model,9,0.0095,3,0.388,0,0,0,1.0,True
+Assurbanipal,0x12026,AL TIMES KI,model,13,0.0071,3,0.5034,0,0,0,1.0,True
+Assurbanipal,0x12061,DAG KISIM5 TIMES IR,model,16,0.005,3,0.5119,2,0,0,1.0,True
+Assurbanipal,0x1206d,DAG KISIM5 TIMES USH,model,16,0.0059,3,0.5354,1,0,0,1.0,True
+Assurbanipal,0x12080,DUB2,model,13,0.007,3,0.4313,1,1,0,1.0,True
+Assurbanipal,0x1214f,IM TIMES TAK4,model,17,0.0061,3,0.499,0,0,0,1.0,True
+Assurbanipal,0x1218b,KA TIMES USH,model,12,0.015,3,0.4567,1,2,0,1.0,True
+Assurbanipal,0x121d0,LAGAB TIMES KIN,model,13,0.007,3,0.4993,0,1,0,1.0,True
+Assurbanipal,0x121d2,LAGAB TIMES KUL,model,8,0.0091,3,0.4186,0,1,0,1.0,True
+Assurbanipal,0x121ee,LAGAR TIMES SHE PLUS SUM,model,15,0.0097,3,0.5486,0,1,0,1.0,True
+Assurbanipal,0x12202,LU2 TIMES GAN2 TENU,model,16,0.0056,3,0.5247,0,0,0,1.0,True
+Assurbanipal,0x12232,MUSH,model,9,0.0108,3,0.4355,0,0,0,1.0,True
+Assurbanipal,0x1223d,MUSH3 GUNU,model,10,0.0076,3,0.4783,0,2,0,1.0,True
+Assurbanipal,0x12250,NIM TIMES GAN2 TENU,model,11,0.0113,3,0.5196,0,0,0,1.0,True
+Assurbanipal,0x122e4,SUD,model,8,0.0088,3,0.4591,0,0,0,1.0,True
+Assurbanipal,0x122e6,SUHUR,model,13,0.0106,3,0.4805,0,2,0,1.0,True
+Assurbanipal,0x1235e,ZA TENU,model,4,0.0118,3,0.1863,0,0,0,1.0,True
+Assurbanipal,0x12372,,model,9,0.0083,3,0.4603,2,0,0,1.0,True
+Assurbanipal,0x12389,,model,14,0.0081,3,0.4783,1,0,0,1.0,True
+Assurbanipal,0x12391,NINDA2 TIMES BAL,model,11,0.0098,3,0.5026,0,0,0,1.0,True
+Esagil,0x12075,DIM TIMES SHE,model,8,0.007,3,0.4115,0,0,0,0.15653,True
+Esagil,0x12094,EDIN,model,11,0.0067,3,0.4513,0,0,0,0.15631,True
+Esagil,0x120e3,GA2 TIMES SAL,model,9,0.0083,3,0.4585,0,0,0,0.15677,True
+Esagil,0x12248,NE,model,9,0.0112,3,0.4436,0,1,0,0.15618,True
+Esagil,0x1230c,U GUD,model,5,0.0121,3,0.3398,1,0,0,0.15603,True
+Assurbanipal,0x120ad,EZEN TIMES KASKAL SQUARED,model,5,0.0073,2,0.2977,0,1,0,1.0,True
+Assurbanipal,0x120b2,EZEN TIMES LU,model,15,0.0054,2,0.6042,0,0,0,1.0,True
+Assurbanipal,0x120bf,GA2 TIMES BAD,model,7,0.0065,2,0.4761,1,0,0,1.0,True
+Assurbanipal,0x1217f,KA TIMES SAR,model,16,0.0117,2,0.5247,0,1,0,1.0,True
+Assurbanipal,0x12188,KA TIMES U2,model,14,0.0094,2,0.517,0,1,0,1.0,True
+Assurbanipal,0x12189,KA TIMES UD,model,10,0.0092,2,0.5341,0,1,0,1.0,True
+Assurbanipal,0x121c0,LAGAB TIMES BAD,model,6,0.0083,2,0.4384,1,0,0,1.0,True
+Assurbanipal,0x121c7,LAGAB TIMES GUD PLUS GUD,model,15,0.0086,2,0.5403,0,0,0,1.0,True
+Assurbanipal,0x121d8,LAGAB TIMES ME,model,6,0.0137,2,0.4472,1,1,0,1.0,True
+Assurbanipal,0x121e3,LAGAB TIMES TAK4,model,14,0.0069,2,0.6071,0,0,0,1.0,True
+Assurbanipal,0x12224,MAH,model,9,0.0093,2,0.4992,0,0,0,1.0,True
+Assurbanipal,0x1223b,MUSH3 TIMES A PLUS DI,model,14,0.0065,2,0.5465,0,1,0,1.0,True
+Assurbanipal,0x12264,NUN LAGAR TIMES GAR,model,13,0.008,2,0.5706,0,0,0,1.0,True
+Assurbanipal,0x12299,SAG TIMES HA,model,12,0.0081,2,0.5369,0,0,0,1.0,True
+Assurbanipal,0x12314,UD KUSHU2,model,8,0.0066,2,0.4694,1,0,0,1.0,True
+Assurbanipal,0x12331,UR2 TIMES U2,model,14,0.0067,2,0.6337,0,1,0,1.0,True
+Assurbanipal,0x12378,,model,12,0.0094,2,0.5614,0,0,0,1.0,True
+Assurbanipal,0x1237d,SIGN HUSH,model,9,0.0071,2,0.4976,0,0,0,1.0,True
+Esagil,0x1201a,AB2 TIMES SHA3,model,9,0.0098,2,0.4353,0,0,0,0.15596,True
+Esagil,0x12044,BAL,model,6,0.0103,2,0.4803,0,0,1,0.15616,True
+Esagil,0x12048,BARA2,model,10,0.0106,2,0.5392,1,1,0,0.15686,True
+Esagil,0x12077,DIN,model,3,0.0077,2,0.1712,0,0,0,0.15528,True
+Esagil,0x12081,DUG,model,8,0.005,2,0.5113,2,0,0,0.1562,True
+Esagil,0x12083,DUH,model,4,0.007,2,0.2277,0,0,0,0.15669,True
+Esagil,0x120e1,GA2 TIMES NUN OVER NUN,model,15,0.0087,2,0.5907,0,0,0,0.15656,True
+Esagil,0x120f4,GALAM,model,6,0.0124,2,0.426,0,0,0,0.15661,True
+Esagil,0x12100,GI,model,8,0.0052,2,0.5483,0,0,1,0.15656,True
+Esagil,0x1210b,GIR3 TIMES A PLUS IGI,model,12,0.0054,2,0.5712,0,0,0,0.15656,True
+Esagil,0x1211b,GU2 TIMES NUN,model,13,0.0119,2,0.5616,0,0,0,0.15615,True
+Esagil,0x12158,KA TIMES A,model,10,0.0115,2,0.4636,0,0,0,0.156,True
+Esagil,0x1215c,KA TIMES BAD,model,9,0.0111,2,0.4205,1,1,0,0.156,True
+Esagil,0x12164,KA TIMES GAN2 TENU,model,13,0.0083,2,0.5041,0,0,0,0.156,True
+Esagil,0x121c7,LAGAB TIMES GUD PLUS GUD,model,14,0.0119,2,0.5824,0,1,0,0.15668,True
+Esagil,0x121d2,LAGAB TIMES KUL,model,7,0.0093,2,0.4785,0,0,0,0.15576,True
+Esagil,0x1226d,NUNUZ,model,8,0.0068,2,0.4355,0,0,0,0.15625,True
+Esagil,0x1228c,PIRIG TIMES UD,model,8,0.0084,2,0.4741,0,0,0,0.15615,True
+Esagil,0x12317,UD TIMES U PLUS U PLUS U,model,6,0.0088,2,0.3593,0,0,1,0.15665,True
+Esagil,0x1231a,UD SHESHIG,model,6,0.0088,2,0.3593,0,0,1,0.15665,True
+Esagil,0x12322,UMBIN,model,17,0.0137,2,0.5337,0,0,1,0.12896,True
+Assurbanipal,0x12004,A TIMES HA,model,8,0.014,1,0.5922,0,0,0,1.0,True
+Assurbanipal,0x12064,DAG KISIM5 TIMES LA,model,15,0.0053,1,0.5929,0,0,0,1.0,True
+Assurbanipal,0x1207e,DUB,model,8,0.0059,1,0.5725,0,0,0,1.0,True
+Assurbanipal,0x12097,EN,model,5,0.0085,1,0.4999,0,0,0,1.0,True
+Assurbanipal,0x12099,EN TIMES GAN2 TENU,model,12,0.0148,1,0.6571,0,0,0,1.0,True
+Assurbanipal,0x120ac,EZEN TIMES KASKAL,model,13,0.0076,1,0.5405,0,0,0,1.0,True
+Assurbanipal,0x120bd,GÁ×A,model,6,0.0062,1,0.587,0,0,0,1.0,True
+Assurbanipal,0x120c9,GA2 TIMES EN,model,10,0.0065,1,0.6327,0,0,0,1.0,True
+Assurbanipal,0x120d5,GA2 TIMES HUB2,model,11,0.0062,1,0.6304,0,0,0,1.0,True
+Assurbanipal,0x120df,GA2 TIMES MI(standard),model,10,0.0072,1,0.6197,0,0,0,1.0,True
+Assurbanipal,0x12100,GI,model,7,0.0072,1,0.5547,0,0,0,1.0,True
+Assurbanipal,0x12103,GI CROSSING GI,model,14,0.0106,1,0.577,0,0,0,1.0,True
+Assurbanipal,0x1210e,GIR3 TIMES LU PLUS IGI,model,15,0.0109,1,0.6441,0,0,0,1.0,True
+Assurbanipal,0x12113,GISH TIMES BAD,model,5,0.0091,1,0.4674,1,0,0,1.0,True
+Assurbanipal,0x12119,GU2 TIMES KAK,model,11,0.0061,1,0.6177,0,0,0,1.0,True
+Assurbanipal,0x1211d,GU2 GUNU & KAK,model,11,0.0126,1,0.5466,0,0,0,1.0,True
+Assurbanipal,0x1211f,GUD TIMES A PLUS KUR,model,8,0.0102,1,0.5319,0,0,0,1.0,True
+Assurbanipal,0x12132,HI TIMES GAD,model,7,0.0107,1,0.5147,0,0,0,1.0,True
+Assurbanipal,0x1213d,HUB2 TIMES UD,model,9,0.0069,1,0.5653,0,0,0,1.0,True
+Assurbanipal,0x1214a,IGI GUNU,model,7,0.0106,1,0.4729,1,0,0,1.0,True
+Assurbanipal,0x121ff,LU2 TIMES BAD,model,12,0.0059,1,0.5762,1,0,0,1.0,True
+Assurbanipal,0x12239,MUSH3,model,6,0.0054,1,0.4555,0,0,0,1.0,True
+Assurbanipal,0x1226b,NUN CROSSING NUN,model,10,0.0076,1,0.528,0,0,0,1.0,True
+Assurbanipal,0x1227d,PAP & E,model,2,0.0057,1,0.334,0,0,0,1.0,True
+Assurbanipal,0x122a2,SAG TIMES U2,model,14,0.0148,1,0.6412,0,0,0,1.0,True
+Assurbanipal,0x122a5,SAG TIMES UR,model,12,0.014,1,0.6181,0,0,0,1.0,True
+Assurbanipal,0x122b6,SHA3 TIMES U PLUS A,model,9,0.0093,1,0.6139,0,0,0,1.0,True
+Assurbanipal,0x122dd,SIG,model,4,0.0099,1,0.4557,0,0,0,1.0,True
+Assurbanipal,0x122fa,TAK4,model,10,0.0076,1,0.528,0,0,0,1.0,True
+Assurbanipal,0x12321,UM TIMES U,model,8,0.0073,1,0.5112,0,0,0,1.0,True
+Assurbanipal,0x1232b,UR2,model,7,0.0092,1,0.4584,0,0,0,1.0,True
+Assurbanipal,0x1232c,UR2 TIMES A PLUS HA,model,15,0.0053,1,0.6721,0,0,0,1.0,True
+Assurbanipal,0x1235c,UZU,model,7,0.0063,1,0.5114,0,0,0,1.0,True
+Assurbanipal,0x12366,ZIB,model,3,0.0127,1,0.5375,0,0,0,1.0,True
+Assurbanipal,0x12379,,model,14,0.0061,1,0.6316,0,0,0,1.0,True
+Assurbanipal,0x12397,SIGN TI2,model,4,0.0083,1,0.4606,0,0,0,1.0,True
+Esagil,0x12001,A TIMES A,model,6,0.0097,1,0.5865,0,0,0,0.15658,True
+Esagil,0x12020,AL,model,7,0.0086,1,0.5834,0,0,0,0.15584,True
+Esagil,0x1202b,AMAR,model,4,0.005,1,0.4221,1,0,0,0.15564,True
+Esagil,0x12032,ANSHE,model,9,0.009,1,0.4386,0,0,0,0.15636,True
+Esagil,0x1207a,DU,model,5,0.0073,1,0.4834,1,0,0,0.15669,True
+Esagil,0x1222a,MI,model,5,0.0122,1,0.532,0,0,0,0.15636,True
+Esagil,0x1222c,MU,model,5,0.0109,1,0.5592,0,0,0,0.15608,True
+Esagil,0x12260,NISAG (read NISAG2),model,11,0.0054,1,0.5239,0,0,1,0.15684,True
+Esagil,0x1227d,PAP & E,model,2,0.0118,1,0.3125,0,1,1,0.15525,True
+Esagil,0x122ad,SHA,model,8,0.0051,1,0.5914,0,0,0,0.15591,True
+Esagil,0x122de,SIG4,model,10,0.0094,1,0.4665,0,0,0,0.15616,True
+Esagil,0x12307,TUK,model,4,0.0099,1,0.4493,0,0,0,0.15695,True
+Esagil,0x12311,U2,model,5,0.009,1,0.561,0,0,0,0.15673,True
+Esagil,0x12318,UD TIMES U PLUS U PLUS U GUNU,model,11,0.0054,1,0.5239,0,0,1,0.15684,True
+Esagil,0x1236a,ZU,model,5,0.0126,1,0.5434,0,0,0,0.15631,True
+Esagil,0x1238f,,model,10,0.0097,1,0.5769,0,0,0,0.15611,True
+Assurbanipal,0x12260,NISAG (read NISAG2),model,11,0.0164,5,0.4395,0,0,0,1.0,True
+Esagil,0x12088,DUN4,model,15,0.0201,5,0.5123,0,0,0,0.15586,True
+Assurbanipal,0x1200e,AB TIMES GAN2 TENU,model,12,0.0222,3,0.501,0,0,0,1.0,True
+Assurbanipal,0x12060,DAG KISIM5 TIMES HA,model,16,0.0193,3,0.5756,1,0,0,1.0,True
+Assurbanipal,0x12110,GISAL,model,7,0.0152,3,0.3784,0,0,0,1.0,True
+Assurbanipal,0x1216b,KA TIMES GU,model,13,0.0188,3,0.5259,0,1,0,1.0,True
+Assurbanipal,0x1226d,NUNUZ,model,8,0.0189,3,0.4079,0,0,0,1.0,True
+Assurbanipal,0x122cb,SHIM TIMES GAR,model,13,0.0177,3,0.479,1,1,0,1.0,True
+Esagil,0x1202c,AMAR TIMES SHE,model,8,0.0174,3,0.2855,0,0,0,0.15588,True
+Esagil,0x1223d,MUSH3 GUNU,model,9,0.016,3,0.4126,0,0,0,0.15599,True
+Esagil,0x12292,RU,model,5,0.0176,3,0.2859,0,1,0,0.15717,True
+Esagil,0x122c0,SHESH,model,7,0.0234,3,0.3239,0,1,0,0.15587,True
+Assurbanipal,0x12012,AB TIMES LAGAB,model,9,0.0202,2,0.4908,0,0,0,1.0,True
+Assurbanipal,0x1201e,AK TIMES ERIN2,model,11,0.0249,2,0.5754,0,0,0,1.0,True
+Assurbanipal,0x12027,AL TIMES SHE,model,10,0.0161,2,0.5318,0,0,0,1.0,True
+Assurbanipal,0x12076,DIM2,model,7,0.0163,2,0.4723,0,1,0,1.0,True
+Assurbanipal,0x12121,GUD OVER GUD LUGAL,model,22,0.0186,2,0.5913,0,0,0,1.0,True
+Assurbanipal,0x12136,HI TIMES U,model,5,0.0178,2,0.3919,0,1,0,1.0,True
+Esagil,0x121a5,KIN,model,8,0.0233,2,0.4465,0,1,1,0.15663,True
+Esagil,0x1235a,UZ3,model,9,0.0211,2,0.4713,0,0,2,0.15625,True
+Esagil,0x1235c,UZU,model,8,0.0162,2,0.4953,1,0,0,0.15629,True
+Assurbanipal,0x1205b,DAG KISIM5 TIMES GA,model,18,0.0158,1,0.6192,0,0,0,1.0,True
+Assurbanipal,0x120fd,GASHAN,model,5,0.0245,1,0.4608,1,0,0,1.0,True
+Assurbanipal,0x1211b,GU2 TIMES NUN,model,12,0.0203,1,0.5647,0,0,0,1.0,True
+Assurbanipal,0x121b0,KUL,model,4,0.0203,1,0.3899,0,0,0,1.0,True
+Assurbanipal,0x1229d,SAG TIMES MI,model,12,0.0176,1,0.6018,0,0,0,1.0,True
+Assurbanipal,0x122ed,TA TIMES HI,model,7,0.0247,1,0.5124,0,0,0,1.0,True
+Assurbanipal,0x1231c,UDUG,model,11,0.0219,1,0.5668,0,0,0,1.0,True
+Assurbanipal,0x12332,UR2 TIMES U2 PLUS ASH,model,15,0.0166,1,0.6529,0,0,0,1.0,True
+Assurbanipal,0x12352,USH TIMES A,model,8,0.0178,1,0.5816,1,0,0,1.0,True
+Assurbanipal,0x12396,,model,14,0.0159,1,0.5702,0,0,0,1.0,True
+Esagil,0x12084,DUN,model,9,0.019,1,0.4928,0,0,0,0.15586,True
+Esagil,0x12135,HI TIMES SHE,model,8,0.0205,1,0.4656,0,0,0,0.15543,True
+Esagil,0x1245b,,model,4,0.016,1,0.5409,0,0,1,0.1567,
+Assurbanipal,0x120c5,GA2 TIMES DIM TIMES SHE,model,12,0.0267,5,0.4065,0,0,0,1.0,True
+Assurbanipal,0x12364,ZI OVER ZI & A,model,14,0.0308,4,0.4419,0,0,0,1.0,True
+Assurbanipal,0x12029,ALAN,model,21,0.0316,3,0.5281,0,1,0,1.0,True
+Assurbanipal,0x120b6,GA GUNU,model,10,0.0259,3,0.4415,0,0,0,1.0,True
+Esagil,0x12183,KA TIMES SHU,model,12,0.0298,3,0.4944,0,2,0,0.156,True
+Assurbanipal,0x1201f,AK TIMES SHITA PLUS GISH,model,14,0.0344,2,0.6159,0,0,0,1.0,True
+Assurbanipal,0x12035,ARAD TIMES KUR,model,8,0.0317,2,0.4746,0,0,0,1.0,True
+Assurbanipal,0x1203f,ASHGAB,model,6,0.0256,2,0.5269,0,0,0,1.0,True
+Assurbanipal,0x120d9,GA2 TIMES KASKAL,model,8,0.0335,2,0.5469,0,0,0,1.0,True
+Assurbanipal,0x120e9,GA2 TIMES TAK4,model,15,0.0278,2,0.6045,0,0,0,1.0,True
+Assurbanipal,0x12184,KA TIMES SIG,model,11,0.0287,2,0.4474,0,1,0,1.0,True
+Assurbanipal,0x121d7,LAGAB TIMES LUL,model,11,0.0287,2,0.535,0,1,0,1.0,True
+Assurbanipal,0x12269,NUN TENU,model,5,0.0316,2,0.4382,0,0,0,1.0,True
+Assurbanipal,0x122af,SHA3 TIMES A,model,8,0.0336,2,0.488,0,0,0,1.0,True
+Esagil,0x12217,LUGAL & GAN,model,6,0.0335,2,0.4191,0,0,0,0.15582,True
+Esagil,0x12224,MAH,model,8,0.0276,2,0.4704,0,0,0,0.15658,True
+Esagil,0x12258,NINDA2 TIMES NE,model,14,0.0335,2,0.5209,0,0,0,0.15584,True
+Esagil,0x1227b,PAD,model,4,0.0307,2,0.3657,0,0,0,0.15574,True
+Esagil,0x12394,,model,14,0.0289,2,0.6088,0,0,0,0.15645,True
+Assurbanipal,0x12135,HI TIMES SHE,model,10,0.0282,1,0.5454,0,0,0,1.0,True
+Assurbanipal,0x12191,KAD3,model,8,0.0275,1,0.5192,0,0,0,1.0,True
+Assurbanipal,0x12246,NAM & ERIN2,model,8,0.0278,1,0.5281,0,0,0,1.0,True
+Assurbanipal,0x12252,NINDA2,model,5,0.0268,1,0.4347,0,0,0,1.0,True
+Assurbanipal,0x1227e,PESH2,model,10,0.0264,1,0.5555,0,0,0,1.0,True
+Assurbanipal,0x12295,SAG,model,7,0.0275,1,0.6066,0,0,0,1.0,True
+Assurbanipal,0x122c4,SHID TIMES A,model,9,0.0268,1,0.5731,0,0,0,1.0,True
+Assurbanipal,0x12301,TIR,model,14,0.0259,1,0.5691,0,0,0,1.0,True
+Esagil,0x12129,HA,model,6,0.0282,1,0.539,0,0,1,0.15728,True
+Esagil,0x122fa,TAK4,model,7,0.0294,1,0.5377,0,0,0,0.15635,True
+Esagil,0x12368,ZIG,model,8,0.0293,1,0.5038,0,0,0,0.15584,True
+Assurbanipal,0x12065,DAG KISIM5 TIMES LU,model,16,0.0381,3,0.5137,1,2,0,1.0,True
+Assurbanipal,0x121f8,LIL,model,11,0.0413,3,0.4206,1,1,0,1.0,True
+Assurbanipal,0x12324,UMUM TIMES KASKAL,model,14,0.0404,3,0.4268,0,1,0,1.0,True
+Assurbanipal,0x12150,IM CROSSING IM,model,14,0.0386,2,0.502,0,0,0,1.0,True
+Esagil,0x120fb,GAR,model,3,0.0426,2,0.2574,0,0,0,0.15789,True
+Esagil,0x12240,NAGA,model,9,0.0372,2,0.5568,0,0,0,0.15646,True
+Assurbanipal,0x12118,GU2 & UN,model,8,0.0399,1,0.5515,0,0,0,1.0,True
+Assurbanipal,0x1212a,HA TENU,model,5,0.0383,1,0.4497,0,0,0,1.0,True
+Assurbanipal,0x12160,KA TIMES ERIN2,model,11,0.0424,1,0.6019,0,0,0,1.0,True
+Assurbanipal,0x121de,LAGAB TIMES SHITA PLUS GISH TENU,model,12,0.0432,1,0.5837,0,0,0,1.0,True
+Assurbanipal,0x12223,MA2 & MUG,model,5,0.0359,1,0.542,0,0,0,1.0,True
+Esagil,0x12040,BA,model,4,0.0362,1,0.5178,0,0,1,0.15574,True
+Esagil,0x12108,GIR2,model,4,0.0389,1,0.4012,0,0,0,0.15673,True
+Esagil,0x121ef,LAGAR GUNU,model,6,0.0415,1,0.5698,0,0,0,0.15665,True
+Esagil,0x12301,TIR,model,9,0.0375,1,0.4876,0,0,0,0.15644,True
+Assurbanipal,0x1217d,KA TIMES RU,model,13,0.05,4,0.4998,1,2,0,1.0,True
+Assurbanipal,0x12386,KA TIMES TU,model,15,0.05,4,0.5282,0,2,0,1.0,True
+Assurbanipal,0x12007,A TIMES MUSH,model,12,0.0457,3,0.5417,0,0,0,1.0,True
+Assurbanipal,0x1200c,AB TIMES DUN3 GUNU,model,14,0.0475,3,0.5137,0,2,0,1.0,True
+Assurbanipal,0x12166,KA TIMES GAR PLUS SHA3 PLUS A,model,19,0.05,3,0.5216,0,1,0,1.0,True
+Assurbanipal,0x12174,KA TIMES ME,model,9,0.05,3,0.4554,0,1,0,1.0,True
+Assurbanipal,0x121c3,LAGAB TIMES EN,model,9,0.047,3,0.4921,0,0,0,1.0,True
+Assurbanipal,0x121db,LAGAB TIMES NE,model,13,0.05,3,0.5622,0,1,0,1.0,True
+Assurbanipal,0x121ea,LAGAB TIMES USH,model,9,0.05,3,0.5034,1,2,0,1.0,True
+Esagil,0x12172,KA TIMES LI,model,16,0.05,3,0.4895,0,1,0,0.156,True
+Esagil,0x121e1,LAGAB TIMES SUM,model,11,0.05,3,0.4643,0,1,0,0.15615,True
+Assurbanipal,0x12088,DUN4,model,13,0.05,2,0.5482,0,1,0,1.0,True
+Assurbanipal,0x120a0,ESH2,model,6,0.05,2,0.5093,0,1,0,1.0,True
+Assurbanipal,0x12164,KA TIMES GAN2 TENU,model,13,0.05,2,0.5386,0,1,0,1.0,True
+Assurbanipal,0x1217a,KA TIMES NE,model,16,0.05,2,0.6084,0,1,0,1.0,True
+Assurbanipal,0x1217e,KA TIMES SA,model,12,0.05,2,0.5104,0,2,0,1.0,True
+Assurbanipal,0x12180,KA TIMES SHA,model,13,0.05,2,0.5688,1,2,0,1.0,True
+Assurbanipal,0x12181,KA TIMES SHE,model,11,0.05,2,0.4967,1,2,0,1.0,True
+Assurbanipal,0x12182,KA TIMES SHID,model,13,0.05,2,0.5806,1,2,0,1.0,True
+Assurbanipal,0x12187,KA TIMES U,model,8,0.05,2,0.4839,1,2,0,1.0,True
+Assurbanipal,0x121c2,LAGAB TIMES DAR,model,12,0.05,2,0.5297,0,2,0,1.0,True
+Assurbanipal,0x121cf,LAGAB TIMES KI,model,10,0.05,2,0.5247,0,2,0,1.0,True
+Assurbanipal,0x121d6,LAGAB TIMES LU,model,11,0.05,2,0.5873,1,2,0,1.0,True
+Assurbanipal,0x121da,LAGAB TIMES MUSH,model,13,0.05,2,0.5293,0,1,0,1.0,True
+Assurbanipal,0x121e8,LAGAB TIMES U2 PLUS ASH,model,12,0.05,2,0.5287,1,2,0,1.0,True
+Assurbanipal,0x12215,LU2 SHESHIG,model,12,0.05,2,0.5925,0,1,0,1.0,True
+Assurbanipal,0x122e0,SIK2,model,12,0.0489,2,0.5533,0,0,0,1.0,True
+Esagil,0x121b8,LAGAB,model,4,0.05,2,0.3629,1,1,0,0.15551,True
+Esagil,0x12410,,model,5,0.0457,2,0.4791,0,0,0,0.15512,
+Assurbanipal,0x1200d,AB TIMES GAL,model,11,0.0505,1,0.6112,0,0,0,1.0,True
+Assurbanipal,0x1206e,DAM,model,8,0.0528,1,0.5655,0,0,0,1.0,True
+Assurbanipal,0x1207c,DU GUNU,model,8,0.0455,1,0.5494,0,0,0,1.0,True
+Assurbanipal,0x120a2,EZEN TIMES A,model,12,0.05,1,0.5537,0,1,0,1.0,True
+Assurbanipal,0x120cb,GA2 TIMES GAN2 TENU,model,11,0.05,1,0.6272,0,1,0,1.0,True
+Assurbanipal,0x120dc,GA2 TIMES KU3 PLUS AN,model,13,0.05,1,0.6304,0,1,0,1.0,True
+Assurbanipal,0x120e0,GA2 TIMES NUN,model,10,0.05,1,0.636,0,1,0,1.0,True
+Assurbanipal,0x1215e,KA TIMES BAR,model,9,0.05,1,0.5779,0,1,0,1.0,True
+Assurbanipal,0x12162,KA TIMES GA,model,14,0.05,1,0.6225,0,1,0,1.0,True
+Assurbanipal,0x12168,KA TIMES GIR2,model,13,0.05,1,0.5714,0,1,0,1.0,True
+Assurbanipal,0x12170,KA TIMES KI,model,13,0.05,1,0.5999,0,1,0,1.0,True
+Assurbanipal,0x12178,KA TIMES MI,model,12,0.05,1,0.534,0,1,0,1.0,True
+Assurbanipal,0x1217b,KA TIMES NUN,model,12,0.05,1,0.5399,0,1,0,1.0,True
+Assurbanipal,0x1217c,KA TIMES PI,model,11,0.05,1,0.6093,0,1,0,1.0,True
+Assurbanipal,0x12183,KA TIMES SHU,model,12,0.05,1,0.6026,0,1,0,1.0,True
+Assurbanipal,0x121bb,LAGAB TIMES A PLUS GAR,model,11,0.05,1,0.5663,0,1,0,1.0,True
+Assurbanipal,0x121bd,LAGAB TIMES AL,model,10,0.05,1,0.6422,0,1,0,1.0,True
+Assurbanipal,0x121c4,LAGAB TIMES GA,model,11,0.05,1,0.5946,0,1,0,1.0,True
+Assurbanipal,0x121d5,LAGAB TIMES LISH,model,6,0.05,1,0.5632,1,1,0,1.0,True
+Assurbanipal,0x12247,NAM2,model,6,0.05,1,0.5871,0,1,0,1.0,True
+Assurbanipal,0x1227b,PAD,model,5,0.05,1,0.4722,0,1,0,1.0,True
+Assurbanipal,0x122f2,TAB SQUARED,model,4,0.05,1,0.55,0,1,0,1.0,True
+Assurbanipal,0x12306,TUG2,model,6,0.05,1,0.5871,0,1,0,1.0,True
+Assurbanipal,0x12338,URU TIMES A,model,8,0.05,1,0.5771,0,1,0,1.0,True
+Assurbanipal,0x1233e,URU TIMES GAN2 TENU,model,11,0.05,1,0.6103,0,1,0,1.0,True
+Assurbanipal,0x1233f,URU TIMES GAR,model,9,0.05,1,0.6091,1,1,0,1.0,True
+Assurbanipal,0x12365,ZI3,model,6,0.05,1,0.5871,0,1,0,1.0,True
+Assurbanipal,0x12375,DISH PLUS SHU,model,6,0.05,1,0.5783,0,1,0,1.0,True
+Esagil,0x12087,DUN3 GUNU GUNU,model,11,0.05,1,0.6114,0,1,0,0.15672,True
+Esagil,0x120b7,GA2,model,5,0.05,1,0.4963,0,1,0,0.1562,True
+Esagil,0x120fd,GASHAN,model,5,0.05,1,0.4461,0,1,0,0.15704,True
+Esagil,0x12124,GUM TIMES SHE,model,9,0.0517,1,0.4978,0,0,0,0.15581,True
+Esagil,0x1214b,IL,model,8,0.05,1,0.5317,0,1,0,0.15578,True
+Esagil,0x1217e,KA TIMES SA,model,13,0.05,1,0.6066,0,1,0,0.156,True
+Esagil,0x121e5,LAGAB TIMES U,model,5,0.05,1,0.508,0,1,0,0.15579,True
+Esagil,0x121ec,LAGAR,model,4,0.05,1,0.4545,1,1,0,0.15612,True
+Esagil,0x121fb,LU,model,6,0.05,1,0.5638,0,1,0,0.15723,True
+Esagil,0x1224b,NE SHESHIG,model,11,0.0461,1,0.5869,0,0,0,0.15656,True
+Assurbanipal,0x1205f,DAG KISIM5 TIMES GUD,model,16,0.0624,4,0.5165,0,0,0,1.0,True
+Assurbanipal,0x1215c,KA TIMES BAD,model,9,0.0637,4,0.4479,1,0,0,1.0,True
+Esagil,0x122e9,SUR,model,4,0.0567,2,0.3311,0,0,0,0.15578,True
+Assurbanipal,0x120b4,EZEN TIMES UD,model,11,0.0623,1,0.5664,0,0,0,1.0,True
+Assurbanipal,0x12122,GUL,model,7,0.0626,1,0.5123,0,0,0,1.0,True
+Assurbanipal,0x12138,HUB2,model,6,0.0585,1,0.5335,0,0,0,1.0,True
+Assurbanipal,0x12227,MASH2,model,6,0.0567,1,0.5633,0,0,0,1.0,True
+Assurbanipal,0x12256,NINDA2 TIMES GUD,model,10,0.0562,1,0.5555,0,0,0,1.0,True
+Esagil,0x1202a,ALEPH,model,6,0.0579,1,0.484,0,0,0,0.15679,True
+Esagil,0x12053,BUR,model,7,0.0586,1,0.5152,0,0,0,0.15556,True
+Esagil,0x1209e,EREN,model,9,0.0635,1,0.6119,0,0,0,0.15589,True
+Esagil,0x121b3,KUR,model,3,0.0562,1,0.4135,0,0,0,0.15756,True
+Esagil,0x1236e,ZUM,model,8,0.0622,1,0.6271,0,0,0,0.15552,True
+Assurbanipal,0x12374,,model,8,0.0748,3,0.4483,0,0,0,1.0,True
+Assurbanipal,0x121eb,LAGAB SQUARED,model,6,0.0663,2,0.3588,0,0,0,1.0,True
+Esagil,0x12019,AB2 TIMES ME PLUS EN,model,10,0.0728,2,0.526,0,0,0,0.1567,True
+Esagil,0x12095,EGIR,model,12,0.0657,2,0.5659,0,0,1,0.15619,True
+Esagil,0x1219b,KAM4,model,12,0.0749,2,0.543,0,0,0,0.15677,True
+Assurbanipal,0x121a8,KISIM5,model,4,0.0666,1,0.4084,1,0,0,1.0,True
+Assurbanipal,0x122bb,SHE HU,model,7,0.0713,1,0.5576,0,0,0,1.0,True
+Esagil,0x12326,UN,model,6,0.0671,1,0.5178,0,0,0,0.15605,True
+Assurbanipal,0x120e7,GA2 TIMES SHID,model,11,0.0805,1,0.7072,0,0,0,1.0,True
+Assurbanipal,0x12296,SAG TIMES A,model,10,0.0824,1,0.6381,0,0,0,1.0,True
+Assurbanipal,0x1238d,,model,10,0.0831,1,0.5207,0,0,0,1.0,True
+Assurbanipal,0x12395,,model,4,0.0804,1,0.4489,0,0,0,1.0,True
+Assurbanipal,0x1225b,NINDA2 TIMES SHE PLUS A AN,model,15,0.0868,2,0.5851,0,0,0,1.0,True
+Assurbanipal,0x1206f,DAR,model,8,0.0862,1,0.5375,0,0,0,1.0,True
+Esagil,0x1240f,,model,4,0.0871,1,0.5515,0,0,0,0.15789,
+Assurbanipal,0x1201a,AB2 TIMES SHA3,model,8,0.1014,1,0.6311,0,0,0,1.0,True
+Assurbanipal,0x12193,KAD5,model,13,0.1,1,0.6202,0,0,0,1.0,True
+Esagil,0x121f7,LI,model,10,0.0965,1,0.5941,0,0,0,0.15601,True
+Esagil,0x1240a,,model,5,0.1007,1,0.4504,0,0,0,0.15738,
+Esagil,0x12419,,model,5,0.1007,1,0.4504,0,0,0,0.15738,
+Assurbanipal,0x120f1,GAD OVER GAD GAR OVER GAR,model,14,0.1124,3,0.5192,0,0,0,1.0,True
+Assurbanipal,0x120a7,,model,16,0.1099,1,0.6585,0,0,0,1.0,True
+Esagil,0x1217b,KA TIMES NUN,model,12,0.1082,1,0.608,0,0,0,0.156,True
+Esagil,0x122f3,TAG,model,5,0.1146,1,0.5674,0,0,0,0.15663,True
+Assurbanipal,0x12388,LAGAB TIMES GI,model,11,0.1209,2,0.5732,0,0,0,1.0,True
+Esagil,0x122da,SHUBUR,model,11,0.1176,2,0.5858,0,0,0,0.15658,True
+Assurbanipal,0x1228b,PIRIG TIMES KAL,model,11,0.1214,1,0.5542,0,0,0,1.0,True
+Assurbanipal,0x1234c,URU TIMES U PLUS GUD,model,11,0.1235,1,0.6231,0,0,0,1.0,True
+Assurbanipal,0x1234d,URU TIMES UD,model,8,0.1172,1,0.5474,0,0,0,1.0,True
+Assurbanipal,0x12342,URU TIMES IGI,model,8,0.1349,1,0.5633,0,0,0,1.0,True
+Assurbanipal,0x120e8,GA2 TIMES SUM,model,11,0.1427,1,0.6462,0,0,0,1.0,True
+Assurbanipal,0x1218f,KAB,model,6,0.1376,1,0.5533,0,0,0,1.0,True
+Assurbanipal,0x12244,NAGAR & ZA TENU,model,3,0.1378,1,0.3902,0,0,0,1.0,True
+Esagil,0x12103,GI CROSSING GI,model,8,0.1432,1,0.4807,1,0,0,0.156,True
+Esagil,0x122c6,SHIM,model,10,0.1466,2,0.4862,0,0,1,0.15586,True
+Assurbanipal,0x12001,A TIMES A,model,6,0.1529,1,0.5294,0,0,0,1.0,True
+Assurbanipal,0x12008,A TIMES SAG,model,10,0.1547,1,0.5839,0,0,0,1.0,True
+Assurbanipal,0x12087,DUN3 GUNU GUNU,model,11,0.1476,1,0.6119,0,0,0,1.0,True
+Esagil,0x12165,KA TIMES GAR,model,10,0.1543,1,0.5686,0,0,0,0.156,True
+Esagil,0x1222d,MU OVER MU,model,10,0.1485,1,0.5833,0,0,0,0.15603,True
+Esagil,0x12360,ZAG,model,8,0.148,1,0.4819,1,0,0,0.15677,True
+Assurbanipal,0x12265,NUN LAGAR TIMES USH,model,11,0.164,1,0.637,0,0,0,1.0,True
+Esagil,0x1213e,HUL2,model,8,0.1567,1,0.6384,0,0,1,0.15674,True
+Esagil,0x1223e,NAA,model,4,0.1634,1,0.555,0,0,0,0.15568,True
+Esagil,0x1238e,,model,5,0.1583,1,0.4916,0,0,1,0.15559,True
+Assurbanipal,0x1225d,NINDA2 TIMES SHE PLUS ASH PLUS ASH,model,11,0.17,3,0.4649,0,0,0,1.0,True
+Assurbanipal,0x12050,BU CROSSING BU,model,8,0.1713,2,0.5299,0,0,0,1.0,True
+Esagil,0x12408,,model,3,0.1712,1,0.5664,0,0,0,0.15616,
+Esagil,0x1240c,,model,7,0.1672,1,0.5846,0,0,0,0.15464,
+Esagil,0x1241b,,model,7,0.1672,1,0.5846,0,0,0,0.15464,
+Assurbanipal,0x1238e,,model,8,0.1757,2,0.5512,0,0,0,1.0,True
+Assurbanipal,0x1202c,AMAR TIMES SHE,model,8,0.1797,1,0.4441,0,0,0,1.0,True
+Assurbanipal,0x121ed,LAGAR TIMES SHE,model,8,0.181,1,0.5714,0,0,0,1.0,True
+Assurbanipal,0x12217,LUGAL & GAN,model,12,0.1826,1,0.6283,0,0,0,1.0,True
+Esagil,0x12123,GUM,model,6,0.1816,1,0.4324,1,0,0,0.15629,True
+Assurbanipal,0x120ae,EZEN TIMES KU3,model,14,0.201,1,0.6416,0,0,0,1.0,True
+Assurbanipal,0x1219b,KAM4,model,13,0.2047,1,0.5355,0,0,0,1.0,True
+Esagil,0x12134,HI TIMES NUN,model,9,0.1988,1,0.6408,0,0,0,0.15679,True
+Assurbanipal,0x1216e,KA TIMES IM,model,14,0.217,2,0.5623,0,0,0,1.0,True
+Esagil,0x1221d,LUM,model,6,0.216,1,0.5969,0,0,0,0.15559,True
+Assurbanipal,0x12056,DAG,model,7,0.2362,1,0.6605,0,0,0,1.0,True
+Assurbanipal,0x120eb,GA2 TIMES UD,model,8,0.2365,1,0.6132,0,0,0,1.0,True
+Assurbanipal,0x121c6,LAGAB TIMES GUD,model,9,0.2429,1,0.6219,0,0,0,1.0,True
+Assurbanipal,0x1231b,UD SHESHIG TIMES BAD,model,9,0.2358,1,0.561,0,0,0,1.0,True
+Assurbanipal,0x1233c,URU TIMES GA,model,12,0.244,1,0.6711,0,0,0,1.0,True
+Assurbanipal,0x120a3,EZEN TIMES A PLUS LAL,model,13,0.2553,2,0.6159,0,0,0,1.0,True
+Assurbanipal,0x122ff,,model,4,0.263,1,0.5425,1,0,0,1.0,True
+Esagil,0x12195,KAK,model,3,0.2557,1,0.567,0,0,0,0.15641,True
+Assurbanipal,0x12127,GURUN,model,8,0.2732,1,0.5904,0,0,0,1.0,True
+Assurbanipal,0x12005,A TIMES IGI,model,6,0.2798,1,0.589,0,0,0,1.0,True
+Assurbanipal,0x1207d,DU SHESHIG,model,9,0.2828,1,0.612,0,0,0,1.0,True
+Assurbanipal,0x1220c,LU2 TIMES NE,model,19,0.2792,1,0.6364,0,0,0,1.0,True
+Esagil,0x120a6,EZEN TIMES BAD,model,10,0.2838,1,0.5399,0,0,0,0.15627,True
+Esagil,0x12312,UB,model,4,0.284,1,0.5382,0,0,0,0.15652,True
+Assurbanipal,0x12380,KA TIMES GISH,model,10,0.2886,1,0.6229,0,0,0,1.0,True
+Assurbanipal,0x12392,NINDA2 TIMES GI,model,12,0.3045,0,0.6114,0,0,0,1.0,True
+Esagil,0x12119,GU2 TIMES KAK,model,10,0.3022,0,0.5599,0,0,0,0.15618,True
+Esagil,0x121a1,KI TIMES BAD,model,9,0.3042,0,0.6069,0,0,0,0.15668,True
+Esagil,0x122c3,SHID,model,6,0.3042,0,0.6151,0,0,0,0.15707,True
+Esagil,0x1231c,UDUG,model,12,0.3016,0,0.6438,0,0,0,0.15644,True
+Assurbanipal,0x120d8,GA2 TIMES KAK,model,8,0.3143,0,0.6295,0,0,0,1.0,True
+Esagil,0x12049,BI,model,2,0.308,0,0.3083,0,0,0,0.15556,True
+Esagil,0x12051,BULUG OVER BULUG,model,6,0.3122,0,0.4669,0,0,0,0.15564,True
+Assurbanipal,0x1200b,AB TIMES ASH2,model,6,0.3225,0,0.6175,0,0,0,1.0,True
+Assurbanipal,0x12153,IMIN,model,7,0.3174,0,0.5871,0,0,0,1.0,True
+Assurbanipal,0x12208,LU2 TIMES KI,model,16,0.321,0,0.6541,0,0,0,1.0,True
+Assurbanipal,0x12370,,model,11,0.3187,0,0.6418,0,0,0,1.0,True
+Esagil,0x12215,LU2 SHESHIG,model,6,0.3219,0,0.5202,0,0,0,0.15647,True
+Esagil,0x122ac,SAR,model,10,0.3221,0,0.5965,0,0,0,0.15642,True
+Esagil,0x12309,TUR,model,7,0.3168,0,0.5855,0,0,1,0.15621,True
+Assurbanipal,0x12094,EDIN,model,10,0.329,0,0.5827,0,0,0,1.0,True
+Assurbanipal,0x120e5,GA2 TIMES SHE,model,9,0.332,0,0.6838,0,0,0,1.0,True
+Esagil,0x12041,BAD,model,1,0.329,0,0.329,0,0,0,0.1556,True
+Esagil,0x12142,IDIM,model,1,0.329,0,0.329,0,0,0,0.1556,True
+Esagil,0x12300,TIL,model,1,0.329,0,0.329,0,0,0,0.1556,True
+Assurbanipal,0x12262,NU11,model,6,0.3429,0,0.5454,1,0,0,1.0,True
+Assurbanipal,0x122d3,SHIR,model,6,0.3429,0,0.5454,1,0,0,1.0,True
+Esagil,0x12056,DAG,model,7,0.3449,0,0.6397,0,0,0,0.15569,True
+Assurbanipal,0x122c2,SHESHLAM,model,6,0.3531,0,0.6395,0,0,0,1.0,True
+Esagil,0x1212e,HI TIMES ASH,model,5,0.3489,0,0.4939,0,0,0,0.15677,True
+Esagil,0x12174,KA TIMES ME,model,9,0.3482,0,0.515,0,0,0,0.156,True
+Esagil,0x122fb,TAR,model,2,0.3502,0,0.5408,0,0,0,0.15625,True
+Assurbanipal,0x12084,DUN,model,13,0.3591,0,0.6171,0,0,0,1.0,True
+Assurbanipal,0x12190,KAD2,model,4,0.3556,0,0.5626,0,0,0,1.0,True
+Esagil,0x1202e,AN OVER AN,model,6,0.3553,0,0.6451,0,0,0,0.1561,True
+Esagil,0x12342,URU TIMES IGI,model,8,0.3567,0,0.5158,0,0,0,0.15591,True
+Esagil,0x1240e,,model,9,0.3605,0,0.662,0,0,0,0.15441,
+Esagil,0x1241d,,model,9,0.3605,0,0.662,0,0,0,0.15441,
+Esagil,0x12446,,model,9,0.3605,0,0.662,0,0,0,0.15441,
+Esagil,0x12456,,model,2,0.3567,0,0.5918,0,0,0,0.15385,
+Assurbanipal,0x12048,BARA2,model,9,0.3741,0,0.5536,0,0,0,1.0,True
+Assurbanipal,0x120ce,GA2 TIMES GI4,model,12,0.3657,0,0.6041,0,0,0,1.0,True
+Assurbanipal,0x12143,IDIM OVER IDIM BUR,model,11,0.3666,0,0.528,0,0,0,1.0,True
+Assurbanipal,0x12254,NINDA2 TIMES ASH,model,6,0.3716,0,0.5922,0,0,0,1.0,True
+Assurbanipal,0x12349,,model,9,0.3736,0,0.5606,0,0,0,1.0,True
+Esagil,0x1227c,PAN,model,4,0.3727,0,0.5675,0,0,0,0.15718,True
+Esagil,0x122b7,SHA6 (bad!),model,9,0.3693,0,0.6794,0,0,0,0.15574,True
+Assurbanipal,0x12006,A TIMES LAGAR GUNU,model,10,0.3794,0,0.6689,0,0,0,1.0,True
+Assurbanipal,0x12255,NINDA2 TIMES ASH PLUS ASH,model,7,0.3805,0,0.5801,0,0,0,1.0,True
+Assurbanipal,0x1233a,URU TIMES BAR,model,7,0.3814,0,0.5613,0,0,0,1.0,True
+Assurbanipal,0x1237f,,model,13,0.3762,0,0.659,0,0,0,1.0,True
+Esagil,0x120ae,EZEN TIMES KU3,model,14,0.3828,0,0.6033,0,0,0,0.15627,True
+Esagil,0x12157,KA,model,7,0.3798,0,0.5638,0,0,0,0.15664,True
+Esagil,0x1222e,MUG,model,6,0.3759,0,0.5932,0,0,0,0.15615,True
+Esagil,0x1223f,NA2,model,10,0.3773,0,0.5994,0,0,0,0.15605,True
+Assurbanipal,0x12368,ZIG,model,8,0.3895,0,0.489,0,0,0,1.0,True
+Esagil,0x1237c,,model,11,0.3935,0,0.6041,0,0,0,0.156,True
+Assurbanipal,0x12041,BAD,model,1,0.3979,0,0.3979,0,0,0,1.0,True
+Assurbanipal,0x1212b,HA GUNU,model,8,0.4012,0,0.6176,0,0,0,1.0,True
+Assurbanipal,0x1212e,HI TIMES ASH,model,5,0.401,0,0.5603,0,0,0,1.0,True
+Assurbanipal,0x12142,IDIM,model,1,0.3979,0,0.3979,0,0,0,1.0,True
+Assurbanipal,0x12300,TIL,model,1,0.3979,0,0.3979,0,0,0,1.0,True
+Esagil,0x1201e,AK TIMES ERIN2,model,10,0.4029,0,0.6404,0,0,0,0.15611,True
+Esagil,0x12122,GUL,model,8,0.4012,0,0.5531,0,0,0,0.15638,True
+Assurbanipal,0x12052,,model,12,0.408,0,0.586,0,0,0,1.0,True
+Assurbanipal,0x1225a,NINDA2 TIMES SHE,model,9,0.4125,0,0.5723,0,0,0,1.0,True
+Esagil,0x1204d,BU,model,5,0.4062,0,0.6421,0,0,0,0.15644,True
+Esagil,0x12154,IN,model,8,0.409,0,0.6708,0,0,0,0.15635,True
+Assurbanipal,0x120cc,GA2 TIMES GAR,model,9,0.4158,0,0.7048,0,0,0,1.0,True
+Assurbanipal,0x122fd,TE GUNU,model,8,0.4232,0,0.6294,0,0,0,1.0,True
+Esagil,0x1209f,ERIN2,model,4,0.4237,0,0.6494,0,0,0,0.15728,True
+Esagil,0x12118,GU2 & UN,model,7,0.4199,0,0.5292,0,0,0,0.15584,True
+Esagil,0x12454,,model,6,0.4187,0,0.5702,0,0,0,0.15717,
+Assurbanipal,0x1202f,AN THREE TIMES,model,9,0.4297,0,0.6946,0,0,0,1.0,True
+Assurbanipal,0x122bf,SHEN,model,9,0.4285,0,0.6296,0,0,0,1.0,True
+Assurbanipal,0x1234b,URU TIMES TU,model,13,0.4266,0,0.655,0,0,0,1.0,True
+Esagil,0x121a0,KI,model,7,0.4309,0,0.6176,0,0,0,0.15603,True
+Assurbanipal,0x120f0,GAD & TAK4 & GISH,model,3,0.4441,0,0.5551,0,0,0,1.0,True
+Assurbanipal,0x121ad,KU4,model,8,0.4385,0,0.6233,0,0,0,1.0,True
+Assurbanipal,0x1221a,,model,12,0.4422,0,0.6488,0,0,0,1.0,True
+Esagil,0x12252,NINDA2,model,5,0.4361,0,0.548,0,0,0,0.15675,True
+Esagil,0x122c4,SHID TIMES A,model,9,0.4357,0,0.5962,0,0,0,0.15675,True
+Esagil,0x1202f,AN THREE TIMES,model,9,0.4477,0,0.6612,0,0,0,0.15613,True
+Esagil,0x12197,KAL,model,6,0.4516,0,0.7139,0,0,0,0.15517,True
+Esagil,0x1226a,NUN OVER NUN,model,10,0.4492,0,0.6283,0,0,0,0.15658,True
+Esagil,0x12411,,model,6,0.4513,0,0.5944,0,0,0,0.155,
+Assurbanipal,0x12051,BULUG OVER BULUG,model,6,0.463,0,0.5806,0,0,0,1.0,True
+Assurbanipal,0x12082,DUGUD,model,9,0.4649,0,0.6365,0,0,0,1.0,True
+Esagil,0x1208a,E,model,5,0.463,0,0.6126,0,0,0,0.15534,True
+Esagil,0x120cc,GA2 TIMES GAR,model,9,0.4586,0,0.7119,0,0,0,0.15663,True
+Esagil,0x121d1,LAGAB TIMES KU3,model,9,0.4649,0,0.6554,0,0,0,0.15677,True
+Esagil,0x1240b,,model,6,0.4554,0,0.6633,0,0,0,0.15655,
+Esagil,0x1241a,,model,6,0.4554,0,0.6633,0,0,0,0.15655,
+Assurbanipal,0x12089,DUR2,model,6,0.4707,0,0.6605,0,0,0,1.0,True
+Esagil,0x12071,DARA4,model,5,0.4654,0,0.6437,0,0,0,0.1562,True
+Esagil,0x12074,DIM,model,5,0.4712,0,0.6121,0,0,0,0.15648,True
+Esagil,0x12117,GU CROSSING GU,model,10,0.4722,0,0.6646,0,0,0,0.15575,True
+Esagil,0x12155,IR,model,4,0.4732,0,0.6365,0,0,0,0.15589,True
+Esagil,0x121c9,LAGAB TIMES HAL,model,6,0.4688,0,0.603,0,0,0,0.15591,True
+Esagil,0x1240d,,model,8,0.4693,0,0.6308,0,0,0,0.15709,
+Esagil,0x1241c,,model,8,0.4693,0,0.6308,0,0,0,0.15709,
+Esagil,0x1243d,,model,4,0.4698,0,0.5984,0,0,0,0.15625,
+Assurbanipal,0x1215b,KA TIMES ASH2,model,11,0.4776,0,0.6484,0,0,0,1.0,True
+Assurbanipal,0x122f1,TAB OVER TAB NI OVER NI DISH OVER DISH,model,14,0.479,0,0.6493,0,0,0,1.0,True
+Assurbanipal,0x12310,U OVER U U REVERSED OVER U REVERSED,model,2,0.4805,0,0.6011,0,0,0,1.0,True
+Assurbanipal,0x12347,URU TIMES MIN,model,7,0.4849,0,0.6006,0,0,0,1.0,True
+Esagil,0x12097,EN,model,5,0.4834,0,0.5886,0,0,0,0.1565,True
+Esagil,0x12111,GISH,model,3,0.4805,0,0.5524,0,0,0,0.15694,True
+Esagil,0x122bf,SHEN,model,9,0.479,0,0.6146,0,0,0,0.15637,True
+Esagil,0x12449,,model,3,0.4815,0,0.582,0,0,0,0.15924,
+Assurbanipal,0x1203c,CUNEIFORM SIGN ASH OVER ASH OVER ASH & TAB,model,3,0.4937,0,0.6036,0,0,0,1.0,True
+Assurbanipal,0x1219a,KAM2 (wrong!),model,6,0.4907,0,0.609,0,0,0,1.0,True
+Assurbanipal,0x121a2,KI TIMES U,model,8,0.4888,0,0.6173,0,0,0,1.0,True
+Assurbanipal,0x121e5,LAGAB TIMES U,model,5,0.4883,0,0.6422,0,0,0,1.0,True
+Esagil,0x12055,DA,model,6,0.4868,0,0.5994,0,0,0,0.15594,True
+Esagil,0x1207c,DU GUNU,model,8,0.4917,0,0.6195,0,0,0,0.15611,True
+Esagil,0x1224c,NI,model,4,0.4917,0,0.6377,0,0,0,0.15641,True
+Esagil,0x1228f,RA,model,7,0.4878,0,0.589,0,0,0,0.15593,True
+Assurbanipal,0x12021,AL TIMES AL,model,12,0.499,0,0.6548,0,0,0,1.0,True
+Assurbanipal,0x120c4,GA2 TIMES DI,model,10,0.5024,0,0.7157,0,0,0,1.0,True
+Assurbanipal,0x1222f,MUG GUNU,model,6,0.4985,0,0.72,0,0,0,1.0,True
+Assurbanipal,0x1227c,PAN,model,6,0.4976,0,0.6183,0,0,0,1.0,True
+Esagil,0x120f6,GAN,model,5,0.4951,0,0.5914,0,0,0,0.15566,True
+Esagil,0x12132,HI TIMES GAD,model,7,0.4966,0,0.5648,0,0,0,0.15657,True
+Esagil,0x1219a,KAM2 (wrong!),model,5,0.4951,0,0.5914,0,0,0,0.15566,True
+Esagil,0x121fd,LU2,model,4,0.4961,0,0.5939,0,0,0,0.15545,True
+Esagil,0x122bb,SHE HU,model,8,0.5024,0,0.6718,0,0,0,0.15663,True
+Esagil,0x12308,TUM,model,7,0.5049,0,0.6332,0,0,0,0.15575,True
+Assurbanipal,0x12024,AL TIMES HA,model,11,0.5063,0,0.659,0,0,0,1.0,True
+Assurbanipal,0x12371,AB2 TIMES A,model,6,0.5142,0,0.6313,0,0,0,1.0,True
+Esagil,0x120f2,GAL,model,6,0.5068,0,0.6178,0,0,0,0.15629,True
+Esagil,0x12220,MA,model,4,0.5132,0,0.6021,0,0,0,0.15631,True
+Esagil,0x1243c,,model,4,0.5127,0,0.5901,0,0,0,0.15528,
+Esagil,0x12457,,model,3,0.5063,0,0.6199,0,0,0,0.15522,
+Assurbanipal,0x12075,DIM TIMES SHE,model,9,0.522,0,0.6366,0,0,0,1.0,True
+Assurbanipal,0x12077,DIN,model,4,0.519,0,0.6302,0,0,0,1.0,True
+Assurbanipal,0x120ea,GA2 TIMES U,model,6,0.519,0,0.7137,0,0,0,1.0,True
+Assurbanipal,0x1211e,GUD,model,5,0.5215,0,0.594,0,0,0,1.0,True
+Assurbanipal,0x12319,UD GUNU,model,6,0.5215,0,0.6414,0,0,0,1.0,True
+Esagil,0x12295,SAG,model,7,0.52,0,0.6209,0,0,0,0.15625,True
+Esagil,0x122a8,SAG GUNU,model,8,0.5176,0,0.6018,0,0,0,0.156,True
+Assurbanipal,0x12131,HI TIMES DISH,model,5,0.5307,0,0.5784,0,0,0,1.0,True
+Assurbanipal,0x121f3,LAL TIMES LAL,model,4,0.5341,0,0.6017,0,0,0,1.0,True
+Assurbanipal,0x122a8,SAG GUNU,model,9,0.5341,0,0.6278,0,0,0,1.0,True
+Assurbanipal,0x1230c,U GUD,model,6,0.5302,0,0.6469,0,0,0,1.0,True
+Esagil,0x121aa,KU,model,6,0.5254,0,0.657,0,0,0,0.15652,True
+Esagil,0x12247,NAM2,model,6,0.5293,0,0.657,0,0,0,0.15686,True
+Esagil,0x12306,TUG2,model,6,0.5293,0,0.657,0,0,0,0.15686,True
+Esagil,0x1230b,U,model,1,0.5283,0,0.5283,0,0,0,0.15426,True
+Esagil,0x12365,ZI3,model,6,0.5293,0,0.657,0,0,0,0.15686,True
+Assurbanipal,0x12098,EN TIMES GAN2,model,11,0.5351,0,0.6665,0,0,0,1.0,True
+Assurbanipal,0x120f7,GAN2,model,6,0.5433,0,0.7068,0,0,0,1.0,True
+Assurbanipal,0x1216d,KA TIMES IGI,model,10,0.5375,0,0.6408,0,0,0,1.0,True
+Assurbanipal,0x121be,LAGAB TIMES AN,model,7,0.5433,0,0.6536,0,0,0,1.0,True
+Assurbanipal,0x12259,NINDA2 TIMES NUN,model,10,0.5438,0,0.7376,0,0,0,1.0,True
+Assurbanipal,0x12384,KA TIMES PA,model,10,0.5448,0,0.6452,0,0,0,1.0,True
+Esagil,0x12089,DUR2,model,6,0.539,0,0.6632,0,0,0,0.15721,True
+Esagil,0x120a0,ESH2,model,6,0.5395,0,0.6632,0,0,0,0.15721,True
+Esagil,0x122ba,SHE,model,4,0.5429,0,0.6438,0,0,0,0.15789,True
+Esagil,0x12452,,model,5,0.538,0,0.6133,0,0,0,0.15631,
+Assurbanipal,0x121a6,KISAL,model,7,0.5492,0,0.6874,0,0,0,1.0,True
+Assurbanipal,0x121a7,KISH,model,6,0.5463,0,0.5806,0,0,0,1.0,True
+Assurbanipal,0x1222e,MUG,model,4,0.553,0,0.6671,0,0,0,1.0,True
+Esagil,0x12190,KAD2,model,4,0.5545,0,0.6591,0,0,0,0.15517,True
+Esagil,0x12259,NINDA2 TIMES NUN,model,10,0.5506,0,0.7627,0,0,0,0.15602,True
+Esagil,0x12293,SA,model,6,0.5458,0,0.7024,0,0,0,0.15683,True
+Esagil,0x122db,SI,model,4,0.5521,0,0.6438,0,0,0,0.15556,True
+Esagil,0x122e0,SIK2,model,4,0.5482,0,0.6365,0,0,0,0.1557,True
+Assurbanipal,0x120a9,EZEN TIMES HA,model,13,0.5559,0,0.697,0,0,0,1.0,True
+Assurbanipal,0x121bf,LAGAB TIMES ASH ZIDA TENU,model,5,0.5617,0,0.6481,0,0,0,1.0,True
+Esagil,0x121c5,LAGAB TIMES GAR,model,7,0.5554,0,0.693,0,0,0,0.15551,True
+Esagil,0x12216,LU3,model,10,0.5603,0,0.7084,0,0,0,0.15668,True
+Esagil,0x12222,MA GUNU,model,7,0.5641,0,0.6187,0,0,0,0.15629,True
+Esagil,0x122e5,SUD2,model,4,0.5617,0,0.6557,0,0,0,0.15653,True
+Assurbanipal,0x120e2,GA2 TIMES PA,model,8,0.5722,0,0.7275,0,0,0,1.0,True
+Assurbanipal,0x12222,MA GUNU,model,6,0.5718,0,0.6536,0,0,0,1.0,True
+Esagil,0x120e2,GA2 TIMES PA,model,8,0.5694,0,0.7348,0,0,0,0.1562,True
+Esagil,0x121f2,LAL,model,2,0.566,0,0.6527,0,0,0,0.15619,True
+Esagil,0x12228,ME,model,2,0.5727,0,0.6549,0,0,0,0.15587,True
+Esagil,0x122dd,SIG,model,4,0.5699,0,0.6488,0,0,0,0.15556,True
+Esagil,0x12405,,model,7,0.5694,0,0.706,0,0,0,0.157,
+Esagil,0x12407,,model,9,0.5737,0,0.6887,0,0,0,0.15689,
+Esagil,0x12440,,model,6,0.567,0,0.6815,0,0,0,0.15657,
+Assurbanipal,0x120a1,EZEN TIMES AN,model,9,0.5832,0,0.6591,0,0,0,1.0,True
+Assurbanipal,0x120af,EZEN TIMES LA,model,14,0.5761,0,0.6624,0,0,0,1.0,True
+Assurbanipal,0x120f8,GAN2 TENU,model,6,0.5823,0,0.7173,0,0,0,1.0,True
+Assurbanipal,0x1219f,KESH2,model,9,0.5808,0,0.6741,0,0,0,1.0,True
+Esagil,0x12038,ASH,model,1,0.5789,0,0.5789,0,0,0,0.15572,True
+Esagil,0x121b7,LA,model,6,0.577,0,0.6362,0,0,0,0.15549,True
+Esagil,0x122fc,TE,model,5,0.5799,0,0.6811,0,0,0,0.15537,True
+Esagil,0x12402,,model,4,0.5842,0,0.6707,0,0,0,0.15698,
+Esagil,0x1243a,,model,3,0.5751,0,0.6255,0,0,0,0.15736,
+Assurbanipal,0x120a5,,model,12,0.5936,0,0.6805,0,0,0,1.0,True
+Assurbanipal,0x121ec,LAGAR,model,4,0.5922,0,0.656,0,0,0,1.0,True
+Assurbanipal,0x12307,TUK,model,4,0.5936,0,0.6496,0,0,0,1.0,True
+Assurbanipal,0x12316,UD TIMES MI,model,7,0.5856,0,0.652,0,0,0,1.0,True
+Esagil,0x120f5,GAM,model,2,0.5946,0,0.606,0,0,0,0.15571,True
+Esagil,0x121a6,KISAL,model,6,0.5913,0,0.6457,0,0,0,0.15625,True
+Esagil,0x121fa,LISH,model,2,0.5946,0,0.606,0,0,0,0.15571,True
+Esagil,0x12445,,model,8,0.5913,0,0.6748,0,0,0,0.15679,
+Esagil,0x12472,,model,2,0.5946,0,0.606,0,0,0,0.15571,
+Assurbanipal,0x121ef,LAGAR GUNU,model,7,0.5978,0,0.6656,0,0,0,1.0,True
+Esagil,0x120bc,GA2 TIMES AN,model,8,0.6016,0,0.7201,0,0,0,0.15549,True
+Esagil,0x121b9,LAGAB TIMES A,model,7,0.5993,0,0.6978,0,0,0,0.15565,True
+Esagil,0x122d6,SHITA & GISH,model,5,0.6039,0,0.6772,0,0,0,0.15686,True
+Esagil,0x1213f,I,model,5,0.61,0,0.6933,0,0,0,0.1567,True
+Esagil,0x12290,RAB,model,8,0.6086,0,0.6894,0,0,0,0.1561,True
+Esagil,0x122f0,TAB,model,2,0.6095,0,0.6109,0,0,0,0.15594,True
+Esagil,0x12404,,model,6,0.6081,0,0.6675,0,0,0,0.15636,
+Esagil,0x12447,,model,9,0.6077,0,0.6838,0,0,0,0.15591,
+Esagil,0x12448,,model,3,0.6063,0,0.6447,0,0,0,0.15538,
+Esagil,0x12473,,model,3,0.6063,0,0.6447,0,0,0,0.15538,
+Assurbanipal,0x1237a,,model,9,0.6165,0,0.7375,0,0,0,1.0,True
+Esagil,0x12039,ASH ZIDA TENU,model,1,0.616,0,0.616,0,0,0,0.15833,True
+Esagil,0x1203e,ASH2,model,4,0.6202,0,0.6803,0,0,0,0.15584,True
+Esagil,0x120f7,GAN2,model,6,0.622,0,0.7315,0,0,0,0.15619,True
+Esagil,0x12441,,model,7,0.6243,0,0.6911,0,0,0,0.15698,
+Esagil,0x12451,,model,4,0.6202,0,0.6803,0,0,0,0.15584,
+Assurbanipal,0x12039,ASH ZIDA TENU,model,1,0.633,0,0.633,0,0,0,1.0,True
+Assurbanipal,0x1221c,LUL,model,7,0.6343,0,0.707,0,0,0,1.0,True
+Esagil,0x1221b,LUH,model,6,0.6257,0,0.6546,0,0,0,0.15579,True
+Esagil,0x12328,UR,model,5,0.6325,0,0.6734,0,0,0,0.1568,True
+Esagil,0x12403,,model,5,0.6311,0,0.7303,0,0,0,0.15678,
+Esagil,0x12406,,model,8,0.6343,0,0.7007,0,0,0,0.15556,
+Esagil,0x12471,,model,2,0.6293,0,0.6383,0,0,0,0.15734,
+Assurbanipal,0x121d1,LAGAB TIMES KU3,model,9,0.637,0,0.7261,0,0,0,1.0,True
+Assurbanipal,0x121f2,LAL,model,2,0.6388,0,0.6564,0,0,0,1.0,True
+Esagil,0x1212c,HAL,model,2,0.6384,0,0.6538,0,0,0,0.15644,True
+Esagil,0x12141,IB,model,5,0.6361,0,0.6901,0,0,0,0.15717,True
+Esagil,0x122d7,SHU,model,5,0.6366,0,0.6687,0,0,0,0.15587,True
+Esagil,0x12400,,model,2,0.6384,0,0.6473,0,0,0,0.15644,
+Assurbanipal,0x122d6,SHITA & GISH,model,5,0.6465,0,0.7544,0,0,0,1.0,True
+Esagil,0x1208d,E2,model,5,0.6465,0,0.7402,0,0,0,0.15699,True
+Esagil,0x121a4,KID,model,5,0.6496,0,0.7416,0,0,0,0.15652,True
+Esagil,0x1241e,,model,2,0.6536,0,0.667,0,0,0,0.15649,
+Esagil,0x1243b,,model,3,0.6527,0,0.6853,0,0,0,0.15702,
+Assurbanipal,0x1203a,ASH KABA TENU,model,1,0.6632,0,0.6632,0,0,0,1.0,True
+Esagil,0x1227a,PA,model,3,0.668,0,0.6752,0,0,0,0.15696,True
+Assurbanipal,0x120b7,GA2,model,5,0.698,0,0.7778,0,0,0,1.0,True
+Esagil,0x12313,UD & SAL & HUB2,model,3,0.7025,0,0.7758,0,0,0,0.15646,True
+Esagil,0x12079,DISH,model,1,0.7134,0,0.7134,0,0,0,0.15736,True
+Assurbanipal,0x12086,DUN3 GUNU,copied_human:Assurbanipal/0x12085,8,1.0,,,,,,1.0,True
+Assurbanipal,0x120ee,GABA,copied_human:Assurbanipal/0x12083,6,1.0,,,,,,1.0,True
+Assurbanipal,0x12109,GIR2 GUNU,copied_human:Assurbanipal/0x12108,6,1.0,,,,,,1.0,True
+Assurbanipal,0x1224e,NI2,copied_human:Assurbanipal/0x1214e,7,1.0,,,,,,1.0,True
+Assurbanipal,0x1228a,PIRIG,copied_human:Assurbanipal/0x1210a,5,1.0,,,,,,1.0,True
+Assurbanipal,0x1231a,UD SHESHIG,copied_human:Assurbanipal/0x12317,7,1.0,,,,,,1.0,True
+Santakku,0x12015,AB GUNU,copied_human:Santakku/0x12014,7,1.0,,,,,,1.0,True
+Santakku,0x12109,GIR2 GUNU,copied_human:Santakku/0x12108,6,1.0,,,,,,1.0,True
+Santakku,0x1212d,HI,copied_human:Santakku/0x12077,4,1.0,,,,,,1.0,True
+Santakku,0x1218f,KAB,copied_human:Santakku/0x12138,6,1.0,,,,,,1.0,True
+Santakku,0x121aa,KU,copied_human:Santakku/0x12089,5,1.0,,,,,,1.0,True
+Santakku,0x122b9,SHAR2,copied_human:Santakku/0x12077,4,1.0,,,,,,1.0,True
+Santakku,0x12305,TU,copied_human:Santakku/0x121ad,8,1.0,,,,,,1.0,True
+Assurbanipal,0x12003,,blank,0,,,,,,,,True
+Assurbanipal,0x12025,AL TIMES KAD3,blank,0,,,,,,,,True
+Assurbanipal,0x12030,AN PLUS NAGA OPPOSING AN PLUS NAGA,blank,0,,,,,,,,True
+Assurbanipal,0x12031,AN PLUS NAGA SQUARED,blank,0,,,,,,,,True
+Assurbanipal,0x12036,,blank,0,,,,,,,,True
+Assurbanipal,0x12037,ASAL2,blank,0,,,,,,,,True
+Assurbanipal,0x1203b,ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP,blank,0,,,,,,,,True
+Assurbanipal,0x12042,,blank,0,,,,,,,,True
+Assurbanipal,0x12043,,blank,0,,,,,,,,True
+Assurbanipal,0x12045,,blank,0,,,,,,,,True
+Assurbanipal,0x1204a,BI TIMES A,blank,0,,,,,,,,True
+Assurbanipal,0x1204f,,blank,0,,,,,,,,True
+Assurbanipal,0x1205c,,blank,0,,,,,,,,True
+Assurbanipal,0x12078,CUNEIFORM SIGN DIN KASKAL U GUNU DISH,blank,0,,,,,,,,True
+Assurbanipal,0x1207f,,blank,0,,,,,,,,True
+Assurbanipal,0x1208b,E TIMES PAP,blank,0,,,,,,,,True
+Assurbanipal,0x1208c,E OVER E NUN OVER NUN,blank,0,,,,,,,,True
+Assurbanipal,0x1208f,E2 TIMES GAR,blank,0,,,,,,,,True
+Assurbanipal,0x12090,E2 TIMES MI,blank,0,,,,,,,,True
+Assurbanipal,0x12091,E2 TIMES SAL,blank,0,,,,,,,,True
+Assurbanipal,0x12092,E2 TIMES SCHE(standard),blank,0,,,,,,,,True
+Assurbanipal,0x12093,,blank,0,,,,,,,,True
+Assurbanipal,0x1209a,EN TIMES ME,blank,0,,,,,,,,True
+Assurbanipal,0x1209b,EN CROSSING EN,blank,0,,,,,,,,True
+Assurbanipal,0x1209c,,blank,0,,,,,,,,True
+Assurbanipal,0x1209d,EN SQUARED,blank,0,,,,,,,,True
+Assurbanipal,0x120a8,,blank,0,,,,,,,,True
+Assurbanipal,0x120aa,,blank,0,,,,,,,,True
+Assurbanipal,0x120b9,,blank,0,,,,,,,,True
+Assurbanipal,0x120bb,,blank,0,,,,,,,,True
+Assurbanipal,0x120c0,,blank,0,,,,,,,,True
+Assurbanipal,0x120c1,,blank,0,,,,,,,,True
+Assurbanipal,0x120c7,,blank,0,,,,,,,,True
+Assurbanipal,0x120cf,,blank,0,,,,,,,,True
+Assurbanipal,0x120d2,,blank,0,,,,,,,,True
+Assurbanipal,0x120da,,blank,0,,,,,,,,True
+Assurbanipal,0x120dd,,blank,0,,,,,,,,True
+Assurbanipal,0x120ec,,blank,0,,,,,,,,True
+Assurbanipal,0x120ed,,blank,0,,,,,,,,True
+Assurbanipal,0x120ef,,blank,0,,,,,,,,True
+Assurbanipal,0x120f3,GAL GAD OVER GAD GAR OVER GAR,blank,0,,,,,,,,True
+Assurbanipal,0x120fa,GAN2 CROSSING GAN2,blank,0,,,,,,,,True
+Assurbanipal,0x12101,GI TIMES E,blank,0,,,,,,,,True
+Assurbanipal,0x12102,,blank,0,,,,,,,,True
+Assurbanipal,0x12106,GI4 CROSSING GI4,blank,0,,,,,,,,True
+Assurbanipal,0x1210d,GIR3 TIMES IGI,blank,0,,,,,,,,True
+Assurbanipal,0x1210f,GIR3 TIMES PA,blank,0,,,,,,,,True
+Assurbanipal,0x12114,,blank,0,,,,,,,,True
+Assurbanipal,0x1211a,,blank,0,,,,,,,,True
+Assurbanipal,0x1211c,,blank,0,,,,,,,,True
+Assurbanipal,0x12128,GURUSH,blank,0,,,,,,,,True
+Assurbanipal,0x12139,,blank,0,,,,,,,,True
+Assurbanipal,0x1213a,,blank,0,,,,,,,,True
+Assurbanipal,0x1213b,,blank,0,,,,,,,,True
+Assurbanipal,0x1213c,,blank,0,,,,,,,,True
+Assurbanipal,0x12144,,blank,0,,,,,,,,True
+Assurbanipal,0x12149,IGI OVER IGI SHIR OVER SHIR UD OVER UD,blank,0,,,,,,,,True
+Assurbanipal,0x12151,,blank,0,,,,,,,,True
+Assurbanipal,0x12152,IM SQUARED,blank,0,,,,,,,,True
+Assurbanipal,0x12159,,blank,0,,,,,,,,True
+Assurbanipal,0x1215f,,blank,0,,,,,,,,True
+Assurbanipal,0x12163,,blank,0,,,,,,,,True
+Assurbanipal,0x12167,,blank,0,,,,,,,,True
+Assurbanipal,0x12169,,blank,0,,,,,,,,True
+Assurbanipal,0x1216f,KA TIMES KAK,blank,0,,,,,,,,True
+Assurbanipal,0x12171,,blank,0,,,,,,,,True
+Assurbanipal,0x12173,,blank,0,,,,,,,,True
+Assurbanipal,0x12175,KA TIMES ME PLUS DU,blank,0,,,,,,,,True
+Assurbanipal,0x12176,KA TIMES ME PLUS GI,blank,0,,,,,,,,True
+Assurbanipal,0x12177,KA TIMES ME PLUS TE,blank,0,,,,,,,,True
+Assurbanipal,0x12179,,blank,0,,,,,,,,True
+Assurbanipal,0x12185,,blank,0,,,,,,,,True
+Assurbanipal,0x12186,,blank,0,,,,,,,,True
+Assurbanipal,0x1218a,,blank,0,,,,,,,,True
+Assurbanipal,0x1218c,,blank,0,,,,,,,,True
+Assurbanipal,0x1218e,,blank,0,,,,,,,,True
+Assurbanipal,0x12194,,blank,0,,,,,,,,True
+Assurbanipal,0x12196,,blank,0,,,,,,,,True
+Assurbanipal,0x12199,KAL CROSSING KAL,blank,0,,,,,,,,True
+Assurbanipal,0x121ab,KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2,blank,0,,,,,,,,True
+Assurbanipal,0x121ae,,blank,0,,,,,,,,True
+Assurbanipal,0x121b1,KUL GUNU,blank,0,,,,,,,,True
+Assurbanipal,0x121b4,KUR OPPOSING KUR,blank,0,,,,,,,,True
+Assurbanipal,0x121b6,,blank,0,,,,,,,,True
+Assurbanipal,0x121cd,,blank,0,,,,,,,,True
+Assurbanipal,0x121ce,,blank,0,,,,,,,,True
+Assurbanipal,0x121d4,LAGAB TIMES LAGAB,blank,0,,,,,,,,True
+Assurbanipal,0x121dd,LAGAB TIMES SHITA PLUS GISH PLUS ERIN2,blank,0,,,,,,,,True
+Assurbanipal,0x121e2,,blank,0,,,,,,,,True
+Assurbanipal,0x121f1,,blank,0,,,,,,,,True
+Assurbanipal,0x121f6,,blank,0,,,,,,,,True
+Assurbanipal,0x12200,LU2 TIMES ESH2,blank,0,,,,,,,,True
+Assurbanipal,0x12201,LU2 TIMES ESH2 TENU,blank,0,,,,,,,,True
+Assurbanipal,0x12206,LU2 TIMES KAD3,blank,0,,,,,,,,True
+Assurbanipal,0x12207,,blank,0,,,,,,,,True
+Assurbanipal,0x12209,,blank,0,,,,,,,,True
+Assurbanipal,0x1220b,LU2 TIMES ME PLUS EN,blank,0,,,,,,,,True
+Assurbanipal,0x1220d,,blank,0,,,,,,,,True
+Assurbanipal,0x1220e,,blank,0,,,,,,,,True
+Assurbanipal,0x12212,LU2 CROSSING LU2,blank,0,,,,,,,,True
+Assurbanipal,0x12214,LU2 SQUARED,blank,0,,,,,,,,True
+Assurbanipal,0x12218,LUGAL OVER LUGAL,blank,0,,,,,,,,True
+Assurbanipal,0x12221,,blank,0,,,,,,,,True
+Assurbanipal,0x12233,,blank,0,,,,,,,,True
+Assurbanipal,0x12234,,blank,0,,,,,,,,True
+Assurbanipal,0x12235,,blank,0,,,,,,,,True
+Assurbanipal,0x12237,MUSH OVER MUSH TIMES A PLUS NA,blank,0,,,,,,,,True
+Assurbanipal,0x12238,MUSH CROSSING MUSH,blank,0,,,,,,,,True
+Assurbanipal,0x1223c,,blank,0,,,,,,,,True
+Assurbanipal,0x12245,,blank,0,,,,,,,,True
+Assurbanipal,0x1224d,NI TIMES E,blank,0,,,,,,,,True
+Assurbanipal,0x12257,NINDA2 TIMES ME PLUS GAN2 TENU,blank,0,,,,,,,,True
+Assurbanipal,0x1225f,,blank,0,,,,,,,,True
+Assurbanipal,0x1226c,NUN CROSSING NUN LAGAR OVER LAGAR,blank,0,,,,,,,,True
+Assurbanipal,0x12277,,blank,0,,,,,,,,True
+Assurbanipal,0x12280,PI TIMES A,blank,0,,,,,,,,True
+Assurbanipal,0x12281,PI TIMES AB,blank,0,,,,,,,,True
+Assurbanipal,0x12282,PI TIMES BI,blank,0,,,,,,,,True
+Assurbanipal,0x12283,PI TIMES BU,blank,0,,,,,,,,True
+Assurbanipal,0x12284,PI TIMES E,blank,0,,,,,,,,True
+Assurbanipal,0x12285,PI TIMES I,blank,0,,,,,,,,True
+Assurbanipal,0x12286,PI TIMES IB,blank,0,,,,,,,,True
+Assurbanipal,0x12287,PI TIMES U,blank,0,,,,,,,,True
+Assurbanipal,0x12288,,blank,0,,,,,,,,True
+Assurbanipal,0x12289,PI TIMES U2,blank,0,,,,,,,,True
+Assurbanipal,0x1228e,PIRIG OPPOSING PIRIG,blank,0,,,,,,,,True
+Assurbanipal,0x12298,,blank,0,,,,,,,,True
+Assurbanipal,0x1229b,,blank,0,,,,,,,,True
+Assurbanipal,0x122a1,,blank,0,,,,,,,,True
+Assurbanipal,0x122a7,SAG OVER SAG,blank,0,,,,,,,,True
+Assurbanipal,0x122ab,,blank,0,,,,,,,,True
+Assurbanipal,0x122b8,,blank,0,,,,,,,,True
+Assurbanipal,0x122d5,,blank,0,,,,,,,,True
+Assurbanipal,0x122d8,,blank,0,,,,,,,,True
+Assurbanipal,0x122e3,,blank,0,,,,,,,,True
+Assurbanipal,0x122f4,,blank,0,,,,,,,,True
+Assurbanipal,0x122f5,TAG TIMES GUD,blank,0,,,,,,,,True
+Assurbanipal,0x122f6,,blank,0,,,,,,,,True
+Assurbanipal,0x122f7,TAG TIMES SHU,blank,0,,,,,,,,True
+Assurbanipal,0x122f8,TAG TIMES TUG2,blank,0,,,,,,,,True
+Assurbanipal,0x122f9,TAG TIMES UD,blank,0,,,,,,,,True
+Assurbanipal,0x12302,,blank,0,,,,,,,,True
+Assurbanipal,0x1230e,U OVER U PA OVER PA GAR OVER GAR,blank,0,,,,,,,,True
+Assurbanipal,0x1230f,U OVER U SUR OVER SUR,blank,0,,,,,,,,True
+Assurbanipal,0x12315,,blank,0,,,,,,,,True
+Assurbanipal,0x12323,UMUM,blank,0,,,,,,,,True
+Assurbanipal,0x12325,UMUM TIMES PA,blank,0,,,,,,,,True
+Assurbanipal,0x12327,,blank,0,,,,,,,,True
+Assurbanipal,0x12329,UR CROSSING UR,blank,0,,,,,,,,True
+Assurbanipal,0x1232d,,blank,0,,,,,,,,True
+Assurbanipal,0x12333,,blank,0,,,,,,,,True
+Assurbanipal,0x12339,,blank,0,,,,,,,,True
+Assurbanipal,0x1233b,,blank,0,,,,,,,,True
+Assurbanipal,0x1233d,,blank,0,,,,,,,,True
+Assurbanipal,0x12343,,blank,0,,,,,,,,True
+Assurbanipal,0x12344,,blank,0,,,,,,,,True
+Assurbanipal,0x12345,,blank,0,,,,,,,,True
+Assurbanipal,0x12346,,blank,0,,,,,,,,True
+Assurbanipal,0x12348,,blank,0,,,,,,,,True
+Assurbanipal,0x1234a,,blank,0,,,,,,,,True
+Assurbanipal,0x12350,URUDA TIMES U,blank,0,,,,,,,,True
+Assurbanipal,0x12354,,blank,0,,,,,,,,True
+Assurbanipal,0x12356,,blank,0,,,,,,,,True
+Assurbanipal,0x12357,USH2,blank,0,,,,,,,,True
+Assurbanipal,0x12358,,blank,0,,,,,,,,True
+Assurbanipal,0x12359,UTUKI,blank,0,,,,,,,,True
+Assurbanipal,0x12361,,blank,0,,,,,,,,True
+Assurbanipal,0x12367,ZIB KABA TENU,blank,0,,,,,,,,True
+Assurbanipal,0x12369,ZIZ2,blank,0,,,,,,,,True
+Assurbanipal,0x1236b,ZU5,blank,0,,,,,,,,True
+Assurbanipal,0x1236c,ZU5 TIMES A,blank,0,,,,,,,,True
+Assurbanipal,0x1236f,,blank,0,,,,,,,,True
+Assurbanipal,0x1237e,,blank,0,,,,,,,,True
+Assurbanipal,0x12381,,blank,0,,,,,,,,True
+Assurbanipal,0x12382,,blank,0,,,,,,,,True
+Assurbanipal,0x12385,,blank,0,,,,,,,,True
+Assurbanipal,0x12398,UM TIMES ME,blank,0,,,,,,,,True
+Santakku,0x12001,A TIMES A,blank,0,,,,,,,,False
+Santakku,0x12002,A TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x12003,,blank,0,,,,,,,,False
+Santakku,0x12004,A TIMES HA,blank,0,,,,,,,,False
+Santakku,0x12005,A TIMES IGI,blank,0,,,,,,,,False
+Santakku,0x12006,A TIMES LAGAR GUNU,blank,0,,,,,,,,False
+Santakku,0x12007,A TIMES MUSH,blank,0,,,,,,,,False
+Santakku,0x12008,A TIMES SAG,blank,0,,,,,,,,False
+Santakku,0x1200b,AB TIMES ASH2,blank,0,,,,,,,,False
+Santakku,0x1200c,AB TIMES DUN3 GUNU,blank,0,,,,,,,,False
+Santakku,0x1200d,AB TIMES GAL,blank,0,,,,,,,,False
+Santakku,0x1200e,AB TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x12010,AB TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x12011,AB TIMES IMIN,blank,0,,,,,,,,False
+Santakku,0x12012,AB TIMES LAGAB,blank,0,,,,,,,,False
+Santakku,0x12013,AB TIMES SHESH,blank,0,,,,,,,,False
+Santakku,0x12017,AB2 TIMES BALAG,blank,0,,,,,,,,False
+Santakku,0x12018,AB2 TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x12019,AB2 TIMES ME PLUS EN,blank,0,,,,,,,,False
+Santakku,0x1201a,AB2 TIMES SHA3,blank,0,,,,,,,,False
+Santakku,0x1201b,AB2 TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x1201e,AK TIMES ERIN2,blank,0,,,,,,,,False
+Santakku,0x1201f,AK TIMES SHITA PLUS GISH,blank,0,,,,,,,,False
+Santakku,0x12021,AL TIMES AL,blank,0,,,,,,,,False
+Santakku,0x12022,AL TIMES DIM2,blank,0,,,,,,,,False
+Santakku,0x12023,AL TIMES GISH,blank,0,,,,,,,,False
+Santakku,0x12024,AL TIMES HA,blank,0,,,,,,,,False
+Santakku,0x12025,AL TIMES KAD3,blank,0,,,,,,,,False
+Santakku,0x12026,AL TIMES KI,blank,0,,,,,,,,False
+Santakku,0x12027,AL TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x12028,AL TIMES USH,blank,0,,,,,,,,False
+Santakku,0x1202e,AN OVER AN,blank,0,,,,,,,,False
+Santakku,0x12030,AN PLUS NAGA OPPOSING AN PLUS NAGA,blank,0,,,,,,,,False
+Santakku,0x12031,AN PLUS NAGA SQUARED,blank,0,,,,,,,,False
+Santakku,0x12035,ARAD TIMES KUR,blank,0,,,,,,,,False
+Santakku,0x12036,,blank,0,,,,,,,,False
+Santakku,0x12037,ASAL2,blank,0,,,,,,,,False
+Santakku,0x1203a,ASH KABA TENU,blank,0,,,,,,,,False
+Santakku,0x1203b,ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP,blank,0,,,,,,,,False
+Santakku,0x1203c,CUNEIFORM SIGN ASH OVER ASH OVER ASH & TAB,blank,0,,,,,,,,False
+Santakku,0x1203d,ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH,blank,0,,,,,,,,False
+Santakku,0x12042,,blank,0,,,,,,,,False
+Santakku,0x12043,,blank,0,,,,,,,,False
+Santakku,0x12045,,blank,0,,,,,,,,False
+Santakku,0x1204a,BI TIMES A,blank,0,,,,,,,,False
+Santakku,0x1204b,BI TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x1204c,BI TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x1204e,BU OVER BU AB,blank,0,,,,,,,,False
+Santakku,0x1204f,,blank,0,,,,,,,,False
+Santakku,0x12050,BU CROSSING BU,blank,0,,,,,,,,False
+Santakku,0x12051,BULUG OVER BULUG,blank,0,,,,,,,,False
+Santakku,0x12052,,blank,0,,,,,,,,False
+Santakku,0x12054,BUR2,blank,0,,,,,,,,False
+Santakku,0x12057,DAG KISIM5 TIMES A PLUS MASH,blank,0,,,,,,,,False
+Santakku,0x12058,DAG KISIM5 TIMES AMAR,blank,0,,,,,,,,False
+Santakku,0x12059,DAG KISIM5 TIMES BALAG,blank,0,,,,,,,,False
+Santakku,0x1205a,DAG KISIM5 TIMES BI,blank,0,,,,,,,,False
+Santakku,0x1205b,DAG KISIM5 TIMES GA,blank,0,,,,,,,,False
+Santakku,0x1205c,,blank,0,,,,,,,,False
+Santakku,0x1205d,DAG KISIM5 TIMES GI,blank,0,,,,,,,,False
+Santakku,0x1205e,DAG KISIM5 TIMES GIR2,blank,0,,,,,,,,False
+Santakku,0x1205f,DAG KISIM5 TIMES GUD,blank,0,,,,,,,,False
+Santakku,0x12060,DAG KISIM5 TIMES HA,blank,0,,,,,,,,False
+Santakku,0x12061,DAG KISIM5 TIMES IR,blank,0,,,,,,,,False
+Santakku,0x12062,DAG KISIM5 TIMES IR PLUS LU,blank,0,,,,,,,,False
+Santakku,0x12063,DAG KISIM5 TIMES KAK,blank,0,,,,,,,,False
+Santakku,0x12064,DAG KISIM5 TIMES LA,blank,0,,,,,,,,False
+Santakku,0x12065,DAG KISIM5 TIMES LU,blank,0,,,,,,,,False
+Santakku,0x12066,DAG KISIM5 TIMES LU PLUS MASH2,blank,0,,,,,,,,False
+Santakku,0x12067,DAG KISIM5 TIMES LUM,blank,0,,,,,,,,False
+Santakku,0x12068,DAG KISIM5 TIMES NE,blank,0,,,,,,,,False
+Santakku,0x12069,DAG KISIM5 TIMES PAP PLUS PAP,blank,0,,,,,,,,False
+Santakku,0x1206a,DAG KISIM5 TIMES SI,blank,0,,,,,,,,False
+Santakku,0x1206b,DAG KISIM5 TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x1206c,DAG KISIM5 TIMES U2 PLUS GIR2,blank,0,,,,,,,,False
+Santakku,0x1206d,DAG KISIM5 TIMES USH,blank,0,,,,,,,,False
+Santakku,0x12071,DARA4,blank,0,,,,,,,,False
+Santakku,0x12078,CUNEIFORM SIGN DIN KASKAL U GUNU DISH,blank,0,,,,,,,,False
+Santakku,0x1207f,,blank,0,,,,,,,,False
+Santakku,0x12080,DUB2,blank,0,,,,,,,,False
+Santakku,0x12082,DUGUD,blank,0,,,,,,,,False
+Santakku,0x12083,DUH,blank,0,,,,,,,,False
+Santakku,0x12085,DUN3,blank,0,,,,,,,,False
+Santakku,0x1208b,E TIMES PAP,blank,0,,,,,,,,False
+Santakku,0x1208c,E OVER E NUN OVER NUN,blank,0,,,,,,,,False
+Santakku,0x1208e,,blank,0,,,,,,,,False
+Santakku,0x1208f,E2 TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x12090,E2 TIMES MI,blank,0,,,,,,,,False
+Santakku,0x12091,E2 TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x12092,E2 TIMES SCHE(standard),blank,0,,,,,,,,False
+Santakku,0x12093,,blank,0,,,,,,,,False
+Santakku,0x12098,EN TIMES GAN2,blank,0,,,,,,,,False
+Santakku,0x1209a,EN TIMES ME,blank,0,,,,,,,,False
+Santakku,0x1209b,EN CROSSING EN,blank,0,,,,,,,,False
+Santakku,0x1209c,,blank,0,,,,,,,,False
+Santakku,0x1209d,EN SQUARED,blank,0,,,,,,,,False
+Santakku,0x120a2,EZEN TIMES A,blank,0,,,,,,,,False
+Santakku,0x120a3,EZEN TIMES A PLUS LAL,blank,0,,,,,,,,False
+Santakku,0x120a4,EZEN TIMES A PLUS LAL TIMES LAL,blank,0,,,,,,,,False
+Santakku,0x120a5,,blank,0,,,,,,,,False
+Santakku,0x120a7,,blank,0,,,,,,,,False
+Santakku,0x120a8,,blank,0,,,,,,,,False
+Santakku,0x120a9,EZEN TIMES HA,blank,0,,,,,,,,False
+Santakku,0x120aa,,blank,0,,,,,,,,False
+Santakku,0x120ab,EZEN TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x120ac,EZEN TIMES KASKAL,blank,0,,,,,,,,False
+Santakku,0x120ad,EZEN TIMES KASKAL SQUARED,blank,0,,,,,,,,False
+Santakku,0x120ae,EZEN TIMES KU3,blank,0,,,,,,,,False
+Santakku,0x120af,EZEN TIMES LA,blank,0,,,,,,,,False
+Santakku,0x120b0,EZEN TIMES LAL TIMES LAL,blank,0,,,,,,,,False
+Santakku,0x120b1,EZEN TIMES LI,blank,0,,,,,,,,False
+Santakku,0x120b2,EZEN TIMES LU,blank,0,,,,,,,,False
+Santakku,0x120b3,EZEN TIMES U2,blank,0,,,,,,,,False
+Santakku,0x120b4,EZEN TIMES UD,blank,0,,,,,,,,False
+Santakku,0x120b6,GA GUNU,blank,0,,,,,,,,False
+Santakku,0x120b8,GA2 TIMES A PLUS DA PLUS HA,blank,0,,,,,,,,False
+Santakku,0x120b9,,blank,0,,,,,,,,False
+Santakku,0x120ba,GA2 TIMES A PLUS IGI,blank,0,,,,,,,,False
+Santakku,0x120bb,,blank,0,,,,,,,,False
+Santakku,0x120bd,GÁ×A,blank,0,,,,,,,,False
+Santakku,0x120be,E2 TIMES A PLUS HA PLUS DA(sic!),blank,0,,,,,,,,False
+Santakku,0x120bf,GA2 TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x120c0,,blank,0,,,,,,,,False
+Santakku,0x120c1,,blank,0,,,,,,,,False
+Santakku,0x120c2,GA2 TIMES BUR PLUS RA,blank,0,,,,,,,,False
+Santakku,0x120c3,GA2 TIMES DA,blank,0,,,,,,,,False
+Santakku,0x120c4,GA2 TIMES DI,blank,0,,,,,,,,False
+Santakku,0x120c5,GA2 TIMES DIM TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x120c6,GA2 TIMES DUB,blank,0,,,,,,,,False
+Santakku,0x120c7,,blank,0,,,,,,,,False
+Santakku,0x120c8,GA2 TIMES EL PLUS LA,blank,0,,,,,,,,False
+Santakku,0x120c9,GA2 TIMES EN,blank,0,,,,,,,,False
+Santakku,0x120ca,GA2 TIMES EN TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x120cb,GA2 TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x120cc,GA2 TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x120cd,GA2 TIMES GI,blank,0,,,,,,,,False
+Santakku,0x120ce,GA2 TIMES GI4,blank,0,,,,,,,,False
+Santakku,0x120cf,,blank,0,,,,,,,,False
+Santakku,0x120d0,GA2 TIMES GIR2 PLUS SU,blank,0,,,,,,,,False
+Santakku,0x120d1,GA2 TIMES HA PLUS LU PLUS ESH2,blank,0,,,,,,,,False
+Santakku,0x120d2,,blank,0,,,,,,,,False
+Santakku,0x120d3,GA2 TIMES HAL PLUS LA,blank,0,,,,,,,,False
+Santakku,0x120d4,GA2 TIMES HI PLUS LI,blank,0,,,,,,,,False
+Santakku,0x120d5,GA2 TIMES HUB2,blank,0,,,,,,,,False
+Santakku,0x120d6,GA2 TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x120d7,GA2 TIMES ISH PLUS HU PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x120d8,GA2 TIMES KAK,blank,0,,,,,,,,False
+Santakku,0x120d9,GA2 TIMES KASKAL,blank,0,,,,,,,,False
+Santakku,0x120da,,blank,0,,,,,,,,False
+Santakku,0x120db,GA2 TIMES KID PLUS LAL,blank,0,,,,,,,,False
+Santakku,0x120dc,GA2 TIMES KU3 PLUS AN,blank,0,,,,,,,,False
+Santakku,0x120dd,,blank,0,,,,,,,,False
+Santakku,0x120de,GA2 TIMES ME PLUS EN,blank,0,,,,,,,,False
+Santakku,0x120df,GA2 TIMES MI(standard),blank,0,,,,,,,,False
+Santakku,0x120e0,GA2 TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x120e3,GA2 TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x120e4,GA2 TIMES SAR,blank,0,,,,,,,,False
+Santakku,0x120e5,GA2 TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x120e6,GA2 TIMES SHE PLUS TUR,blank,0,,,,,,,,False
+Santakku,0x120e7,GA2 TIMES SHID,blank,0,,,,,,,,False
+Santakku,0x120e8,GA2 TIMES SUM,blank,0,,,,,,,,False
+Santakku,0x120e9,GA2 TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x120ea,GA2 TIMES U,blank,0,,,,,,,,False
+Santakku,0x120eb,GA2 TIMES UD,blank,0,,,,,,,,False
+Santakku,0x120ec,,blank,0,,,,,,,,False
+Santakku,0x120ed,,blank,0,,,,,,,,False
+Santakku,0x120ef,,blank,0,,,,,,,,False
+Santakku,0x120f1,GAD OVER GAD GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x120f3,GAL GAD OVER GAD GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x120f4,GALAM,blank,0,,,,,,,,False
+Santakku,0x120f8,GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x120f9,GAN2 OVER GAN2,blank,0,,,,,,,,False
+Santakku,0x120fa,GAN2 CROSSING GAN2,blank,0,,,,,,,,False
+Santakku,0x120fd,GASHAN,blank,0,,,,,,,,False
+Santakku,0x120ff,GESHTIN TIMES KUR,blank,0,,,,,,,,False
+Santakku,0x12101,GI TIMES E,blank,0,,,,,,,,False
+Santakku,0x12102,,blank,0,,,,,,,,False
+Santakku,0x12105,GI4 OVER GI4,blank,0,,,,,,,,False
+Santakku,0x12106,GI4 CROSSING GI4,blank,0,,,,,,,,False
+Santakku,0x12107,GIDIM,blank,0,,,,,,,,False
+Santakku,0x1210b,GIR3 TIMES A PLUS IGI,blank,0,,,,,,,,False
+Santakku,0x1210c,GIR3 TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x1210d,GIR3 TIMES IGI,blank,0,,,,,,,,False
+Santakku,0x1210e,GIR3 TIMES LU PLUS IGI,blank,0,,,,,,,,False
+Santakku,0x1210f,GIR3 TIMES PA,blank,0,,,,,,,,False
+Santakku,0x12110,GISAL,blank,0,,,,,,,,False
+Santakku,0x12113,GISH TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x12114,,blank,0,,,,,,,,False
+Santakku,0x12115,GISH TENU,blank,0,,,,,,,,False
+Santakku,0x12117,GU CROSSING GU,blank,0,,,,,,,,False
+Santakku,0x1211a,,blank,0,,,,,,,,False
+Santakku,0x1211b,GU2 TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x1211c,,blank,0,,,,,,,,False
+Santakku,0x1211d,GU2 GUNU & KAK,blank,0,,,,,,,,False
+Santakku,0x1211f,GUD TIMES A PLUS KUR,blank,0,,,,,,,,False
+Santakku,0x12121,GUD OVER GUD LUGAL,blank,0,,,,,,,,False
+Santakku,0x12126,GUR7,blank,0,,,,,,,,False
+Santakku,0x12127,GURUN,blank,0,,,,,,,,False
+Santakku,0x12128,GURUSH,blank,0,,,,,,,,False
+Santakku,0x1212a,HA TENU,blank,0,,,,,,,,False
+Santakku,0x1212e,HI TIMES ASH,blank,0,,,,,,,,False
+Santakku,0x12131,HI TIMES DISH,blank,0,,,,,,,,False
+Santakku,0x12133,HI TIMES KIN,blank,0,,,,,,,,False
+Santakku,0x12135,HI TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x12136,HI TIMES U,blank,0,,,,,,,,False
+Santakku,0x12139,,blank,0,,,,,,,,False
+Santakku,0x1213a,,blank,0,,,,,,,,False
+Santakku,0x1213b,,blank,0,,,,,,,,False
+Santakku,0x1213c,,blank,0,,,,,,,,False
+Santakku,0x12142,IDIM,blank,0,,,,,,,,False
+Santakku,0x12143,IDIM OVER IDIM BUR,blank,0,,,,,,,,False
+Santakku,0x12144,,blank,0,,,,,,,,False
+Santakku,0x12149,IGI OVER IGI SHIR OVER SHIR UD OVER UD,blank,0,,,,,,,,False
+Santakku,0x1214c,IL TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x1214f,IM TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x12150,IM CROSSING IM,blank,0,,,,,,,,False
+Santakku,0x12151,,blank,0,,,,,,,,False
+Santakku,0x12152,IM SQUARED,blank,0,,,,,,,,False
+Santakku,0x12153,IMIN,blank,0,,,,,,,,False
+Santakku,0x12158,KA TIMES A,blank,0,,,,,,,,False
+Santakku,0x12159,,blank,0,,,,,,,,False
+Santakku,0x1215a,KA TIMES AD PLUS KU3,blank,0,,,,,,,,False
+Santakku,0x1215b,KA TIMES ASH2,blank,0,,,,,,,,False
+Santakku,0x1215c,KA TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x1215d,KA TIMES BALAG,blank,0,,,,,,,,False
+Santakku,0x1215e,KA TIMES BAR,blank,0,,,,,,,,False
+Santakku,0x1215f,,blank,0,,,,,,,,False
+Santakku,0x12160,KA TIMES ERIN2,blank,0,,,,,,,,False
+Santakku,0x12161,KA TIMES ESH2,blank,0,,,,,,,,False
+Santakku,0x12162,KA TIMES GA,blank,0,,,,,,,,False
+Santakku,0x12163,,blank,0,,,,,,,,False
+Santakku,0x12166,KA TIMES GAR PLUS SHA3 PLUS A,blank,0,,,,,,,,False
+Santakku,0x12167,,blank,0,,,,,,,,False
+Santakku,0x12168,KA TIMES GIR2,blank,0,,,,,,,,False
+Santakku,0x12169,,blank,0,,,,,,,,False
+Santakku,0x1216a,KA TIMES GISH CROSSING GISH,blank,0,,,,,,,,False
+Santakku,0x1216b,KA TIMES GU,blank,0,,,,,,,,False
+Santakku,0x1216c,KA TIMES GUR7,blank,0,,,,,,,,False
+Santakku,0x1216d,KA TIMES IGI,blank,0,,,,,,,,False
+Santakku,0x1216e,KA TIMES IM,blank,0,,,,,,,,False
+Santakku,0x1216f,KA TIMES KAK,blank,0,,,,,,,,False
+Santakku,0x12170,KA TIMES KI,blank,0,,,,,,,,False
+Santakku,0x12171,,blank,0,,,,,,,,False
+Santakku,0x12172,KA TIMES LI,blank,0,,,,,,,,False
+Santakku,0x12173,,blank,0,,,,,,,,False
+Santakku,0x12174,KA TIMES ME,blank,0,,,,,,,,False
+Santakku,0x12175,KA TIMES ME PLUS DU,blank,0,,,,,,,,False
+Santakku,0x12176,KA TIMES ME PLUS GI,blank,0,,,,,,,,False
+Santakku,0x12177,KA TIMES ME PLUS TE,blank,0,,,,,,,,False
+Santakku,0x12178,KA TIMES MI,blank,0,,,,,,,,False
+Santakku,0x12179,,blank,0,,,,,,,,False
+Santakku,0x1217a,KA TIMES NE,blank,0,,,,,,,,False
+Santakku,0x1217b,KA TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x1217c,KA TIMES PI,blank,0,,,,,,,,False
+Santakku,0x1217d,KA TIMES RU,blank,0,,,,,,,,False
+Santakku,0x1217e,KA TIMES SA,blank,0,,,,,,,,False
+Santakku,0x1217f,KA TIMES SAR,blank,0,,,,,,,,False
+Santakku,0x12180,KA TIMES SHA,blank,0,,,,,,,,False
+Santakku,0x12181,KA TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x12182,KA TIMES SHID,blank,0,,,,,,,,False
+Santakku,0x12183,KA TIMES SHU,blank,0,,,,,,,,False
+Santakku,0x12184,KA TIMES SIG,blank,0,,,,,,,,False
+Santakku,0x12185,,blank,0,,,,,,,,False
+Santakku,0x12186,,blank,0,,,,,,,,False
+Santakku,0x12187,KA TIMES U,blank,0,,,,,,,,False
+Santakku,0x12188,KA TIMES U2,blank,0,,,,,,,,False
+Santakku,0x12189,KA TIMES UD,blank,0,,,,,,,,False
+Santakku,0x1218a,,blank,0,,,,,,,,False
+Santakku,0x1218b,KA TIMES USH,blank,0,,,,,,,,False
+Santakku,0x1218c,,blank,0,,,,,,,,False
+Santakku,0x1218e,,blank,0,,,,,,,,False
+Santakku,0x12190,KAD2,blank,0,,,,,,,,False
+Santakku,0x12191,KAD3,blank,0,,,,,,,,False
+Santakku,0x12193,KAD5,blank,0,,,,,,,,False
+Santakku,0x12194,,blank,0,,,,,,,,False
+Santakku,0x12196,,blank,0,,,,,,,,False
+Santakku,0x12198,KAL TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x12199,KAL CROSSING KAL,blank,0,,,,,,,,False
+Santakku,0x1219a,KAM2 (wrong!),blank,0,,,,,,,,False
+Santakku,0x1219b,KAM4,blank,0,,,,,,,,False
+Santakku,0x1219d,KASKAL LAGAB TIMES U OVER LAGAB TIMES U,blank,0,,,,,,,,False
+Santakku,0x1219e,KASKAL OVER KASKAL LAGAB TIMES U OVER LAGAB TIMES U,blank,0,,,,,,,,False
+Santakku,0x121a1,KI TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x121a2,KI TIMES U,blank,0,,,,,,,,False
+Santakku,0x121a3,KI TIMES UD,blank,0,,,,,,,,False
+Santakku,0x121a8,KISIM5,blank,0,,,,,,,,False
+Santakku,0x121a9,KISIM5 OVER KISIM5,blank,0,,,,,,,,False
+Santakku,0x121ab,KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2,blank,0,,,,,,,,False
+Santakku,0x121ae,,blank,0,,,,,,,,False
+Santakku,0x121b1,KUL GUNU,blank,0,,,,,,,,False
+Santakku,0x121b4,KUR OPPOSING KUR,blank,0,,,,,,,,False
+Santakku,0x121b6,,blank,0,,,,,,,,False
+Santakku,0x121ba,LAGAB TIMES A PLUS DA PLUS HA,blank,0,,,,,,,,False
+Santakku,0x121bb,LAGAB TIMES A PLUS GAR,blank,0,,,,,,,,False
+Santakku,0x121bc,LAGAB TIMES A PLUS LAL,blank,0,,,,,,,,False
+Santakku,0x121bd,LAGAB TIMES AL,blank,0,,,,,,,,False
+Santakku,0x121be,LAGAB TIMES AN,blank,0,,,,,,,,False
+Santakku,0x121bf,LAGAB TIMES ASH ZIDA TENU,blank,0,,,,,,,,False
+Santakku,0x121c1,LAGAB TIMES BI,blank,0,,,,,,,,False
+Santakku,0x121c2,LAGAB TIMES DAR,blank,0,,,,,,,,False
+Santakku,0x121c3,LAGAB TIMES EN,blank,0,,,,,,,,False
+Santakku,0x121c4,LAGAB TIMES GA,blank,0,,,,,,,,False
+Santakku,0x121c5,LAGAB TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x121c6,LAGAB TIMES GUD,blank,0,,,,,,,,False
+Santakku,0x121c8,LAGAB TIMES HA,blank,0,,,,,,,,False
+Santakku,0x121ca,LAGAB TIMES HI TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x121cb,LAGAB TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x121cc,LAGAB TIMES IM,blank,0,,,,,,,,False
+Santakku,0x121cd,,blank,0,,,,,,,,False
+Santakku,0x121ce,,blank,0,,,,,,,,False
+Santakku,0x121cf,LAGAB TIMES KI,blank,0,,,,,,,,False
+Santakku,0x121d0,LAGAB TIMES KIN,blank,0,,,,,,,,False
+Santakku,0x121d1,LAGAB TIMES KU3,blank,0,,,,,,,,False
+Santakku,0x121d3,LAGAB TIMES KUL PLUS HI PLUS A,blank,0,,,,,,,,False
+Santakku,0x121d4,LAGAB TIMES LAGAB,blank,0,,,,,,,,False
+Santakku,0x121d5,LAGAB TIMES LISH,blank,0,,,,,,,,False
+Santakku,0x121d6,LAGAB TIMES LU,blank,0,,,,,,,,False
+Santakku,0x121d7,LAGAB TIMES LUL,blank,0,,,,,,,,False
+Santakku,0x121d8,LAGAB TIMES ME,blank,0,,,,,,,,False
+Santakku,0x121d9,LAGAB TIMES ME PLUS EN,blank,0,,,,,,,,False
+Santakku,0x121da,LAGAB TIMES MUSH,blank,0,,,,,,,,False
+Santakku,0x121db,LAGAB TIMES NE,blank,0,,,,,,,,False
+Santakku,0x121dc,LAGAB TIMES SHE PLUS SUM,blank,0,,,,,,,,False
+Santakku,0x121dd,LAGAB TIMES SHITA PLUS GISH PLUS ERIN2,blank,0,,,,,,,,False
+Santakku,0x121de,LAGAB TIMES SHITA PLUS GISH TENU,blank,0,,,,,,,,False
+Santakku,0x121df,LAGAB TIMES SHU2,blank,0,,,,,,,,False
+Santakku,0x121e0,LAGAB TIMES SHU2 PLUS SHU2,blank,0,,,,,,,,False
+Santakku,0x121e2,,blank,0,,,,,,,,False
+Santakku,0x121e3,LAGAB TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x121e4,LAGAB TIMES TE PLUS A PLUS SU PLUS NA,blank,0,,,,,,,,False
+Santakku,0x121e6,LAGAB TIMES U PLUS A,blank,0,,,,,,,,False
+Santakku,0x121e7,LAGAB TIMES U PLUS U PLUS U,blank,0,,,,,,,,False
+Santakku,0x121e8,LAGAB TIMES U2 PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x121e9,LAGAB TIMES UD,blank,0,,,,,,,,False
+Santakku,0x121ea,LAGAB TIMES USH,blank,0,,,,,,,,False
+Santakku,0x121eb,LAGAB SQUARED,blank,0,,,,,,,,False
+Santakku,0x121ed,LAGAR TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x121ee,LAGAR TIMES SHE PLUS SUM,blank,0,,,,,,,,False
+Santakku,0x121f0,LAGAR GUNU OVER LAGAR GUNU SHE,blank,0,,,,,,,,False
+Santakku,0x121f1,,blank,0,,,,,,,,False
+Santakku,0x121f5,LAM TIMES KUR,blank,0,,,,,,,,False
+Santakku,0x121f6,,blank,0,,,,,,,,False
+Santakku,0x121f8,LIL,blank,0,,,,,,,,False
+Santakku,0x121f9,LIMMU2,blank,0,,,,,,,,False
+Santakku,0x121fc,LU TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x121fe,LU2 TIMES AL,blank,0,,,,,,,,False
+Santakku,0x121ff,LU2 TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x12200,LU2 TIMES ESH2,blank,0,,,,,,,,False
+Santakku,0x12201,LU2 TIMES ESH2 TENU,blank,0,,,,,,,,False
+Santakku,0x12202,LU2 TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x12203,LU2 TIMES HI TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x12204,LU2 TIMES IM,blank,0,,,,,,,,False
+Santakku,0x12205,LU2 TIMES KAD2,blank,0,,,,,,,,False
+Santakku,0x12206,LU2 TIMES KAD3,blank,0,,,,,,,,False
+Santakku,0x12207,,blank,0,,,,,,,,False
+Santakku,0x12208,LU2 TIMES KI,blank,0,,,,,,,,False
+Santakku,0x12209,,blank,0,,,,,,,,False
+Santakku,0x1220a,LU2 TIMES LAGAB,blank,0,,,,,,,,False
+Santakku,0x1220b,LU2 TIMES ME PLUS EN,blank,0,,,,,,,,False
+Santakku,0x1220c,LU2 TIMES NE,blank,0,,,,,,,,False
+Santakku,0x1220d,,blank,0,,,,,,,,False
+Santakku,0x1220e,,blank,0,,,,,,,,False
+Santakku,0x1220f,LU2 TIMES SIK2 PLUS BU,blank,0,,,,,,,,False
+Santakku,0x12210,LU2 TIMES TUG2,blank,0,,,,,,,,False
+Santakku,0x12211,LU2 TENU,blank,0,,,,,,,,False
+Santakku,0x12212,LU2 CROSSING LU2,blank,0,,,,,,,,False
+Santakku,0x12213,LU2 OPPOSING LU2,blank,0,,,,,,,,False
+Santakku,0x12214,LU2 SQUARED,blank,0,,,,,,,,False
+Santakku,0x12215,LU2 SHESHIG,blank,0,,,,,,,,False
+Santakku,0x12216,LU3,blank,0,,,,,,,,False
+Santakku,0x12218,LUGAL OVER LUGAL,blank,0,,,,,,,,False
+Santakku,0x12219,LUGAL OPPOSING LUGAL,blank,0,,,,,,,,False
+Santakku,0x1221a,,blank,0,,,,,,,,False
+Santakku,0x1221e,LUM OVER LUM & SHU2,blank,0,,,,,,,,False
+Santakku,0x1221f,LUM OVER LUM GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x12221,,blank,0,,,,,,,,False
+Santakku,0x12222,MA GUNU,blank,0,,,,,,,,False
+Santakku,0x1222f,MUG GUNU,blank,0,,,,,,,,False
+Santakku,0x12230,MUNSUB,blank,0,,,,,,,,False
+Santakku,0x12231,MURGU2,blank,0,,,,,,,,False
+Santakku,0x12233,,blank,0,,,,,,,,False
+Santakku,0x12234,,blank,0,,,,,,,,False
+Santakku,0x12235,,blank,0,,,,,,,,False
+Santakku,0x12236,MUSH OVER MUSH,blank,0,,,,,,,,False
+Santakku,0x12237,MUSH OVER MUSH TIMES A PLUS NA,blank,0,,,,,,,,False
+Santakku,0x12238,MUSH CROSSING MUSH,blank,0,,,,,,,,False
+Santakku,0x1223a,MUSH3 TIMES A,blank,0,,,,,,,,False
+Santakku,0x1223b,MUSH3 TIMES A PLUS DI,blank,0,,,,,,,,False
+Santakku,0x1223c,,blank,0,,,,,,,,False
+Santakku,0x12241,NAGA INVERTED,blank,0,,,,,,,,False
+Santakku,0x12242,NAGA TIMES SHU TENU,blank,0,,,,,,,,False
+Santakku,0x12243,NAGA OPPOSING NAGA,blank,0,,,,,,,,False
+Santakku,0x12245,,blank,0,,,,,,,,False
+Santakku,0x12247,NAM2,blank,0,,,,,,,,False
+Santakku,0x12249,NE TIMES A,blank,0,,,,,,,,False
+Santakku,0x1224a,NE TIMES UD,blank,0,,,,,,,,False
+Santakku,0x1224d,NI TIMES E,blank,0,,,,,,,,False
+Santakku,0x1224e,NI2,blank,0,,,,,,,,False
+Santakku,0x12251,NIM TIMES GAR PLUS GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x12252,NINDA2,blank,0,,,,,,,,False
+Santakku,0x12254,NINDA2 TIMES ASH,blank,0,,,,,,,,False
+Santakku,0x12255,NINDA2 TIMES ASH PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x12256,NINDA2 TIMES GUD,blank,0,,,,,,,,False
+Santakku,0x12257,NINDA2 TIMES ME PLUS GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x12259,NINDA2 TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x1225a,NINDA2 TIMES SHE,blank,0,,,,,,,,False
+Santakku,0x1225b,NINDA2 TIMES SHE PLUS A AN,blank,0,,,,,,,,False
+Santakku,0x1225c,NINDA2 TIMES SHE PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x1225d,NINDA2 TIMES SHE PLUS ASH PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x1225e,NINDA2 TIMES U2 PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x1225f,,blank,0,,,,,,,,False
+Santakku,0x12260,NISAG (read NISAG2),blank,0,,,,,,,,False
+Santakku,0x12262,NU11,blank,0,,,,,,,,False
+Santakku,0x12264,NUN LAGAR TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x12265,NUN LAGAR TIMES USH,blank,0,,,,,,,,False
+Santakku,0x12266,NUN LAGAR TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x12267,NUN LAGAR TIMES SAL OVER NUN LAGAR TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x12268,,blank,0,,,,,,,,False
+Santakku,0x12269,NUN TENU,blank,0,,,,,,,,False
+Santakku,0x1226b,NUN CROSSING NUN,blank,0,,,,,,,,False
+Santakku,0x1226c,NUN CROSSING NUN LAGAR OVER LAGAR,blank,0,,,,,,,,False
+Santakku,0x1226e,NUNUZ AB2 TIMES ASHGAB,blank,0,,,,,,,,False
+Santakku,0x1226f,NUNUZ AB2 TIMES BI,blank,0,,,,,,,,False
+Santakku,0x12270,NUNUZ AB2 TIMES DUG,blank,0,,,,,,,,False
+Santakku,0x12271,NUNUZ AB2 TIMES GUD,blank,0,,,,,,,,False
+Santakku,0x12272,NUNUZ AB2 TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x12273,NUNUZ AB2 TIMES KAD3,blank,0,,,,,,,,False
+Santakku,0x12274,NUNUZ AB2 TIMES LA,blank,0,,,,,,,,False
+Santakku,0x12275,NUNUZ AB2 TIMES NE,blank,0,,,,,,,,False
+Santakku,0x12276,NUNUZ AB2 TIMES SILA3,blank,0,,,,,,,,False
+Santakku,0x12277,,blank,0,,,,,,,,False
+Santakku,0x12278,NUNUZ KISIM5 TIMES BI,blank,0,,,,,,,,False
+Santakku,0x12279,NUNUZ KISIM5 TIMES BI U,blank,0,,,,,,,,False
+Santakku,0x12280,PI TIMES A,blank,0,,,,,,,,False
+Santakku,0x12281,PI TIMES AB,blank,0,,,,,,,,False
+Santakku,0x12282,PI TIMES BI,blank,0,,,,,,,,False
+Santakku,0x12283,PI TIMES BU,blank,0,,,,,,,,False
+Santakku,0x12284,PI TIMES E,blank,0,,,,,,,,False
+Santakku,0x12285,PI TIMES I,blank,0,,,,,,,,False
+Santakku,0x12286,PI TIMES IB,blank,0,,,,,,,,False
+Santakku,0x12287,PI TIMES U,blank,0,,,,,,,,False
+Santakku,0x12288,,blank,0,,,,,,,,False
+Santakku,0x12289,PI TIMES U2,blank,0,,,,,,,,False
+Santakku,0x1228a,PIRIG,blank,0,,,,,,,,False
+Santakku,0x1228b,PIRIG TIMES KAL,blank,0,,,,,,,,False
+Santakku,0x1228e,PIRIG OPPOSING PIRIG,blank,0,,,,,,,,False
+Santakku,0x12290,RAB,blank,0,,,,,,,,False
+Santakku,0x12294,SAG NUTILLU,blank,0,,,,,,,,False
+Santakku,0x12296,SAG TIMES A,blank,0,,,,,,,,False
+Santakku,0x12297,SAG TIMES DU,blank,0,,,,,,,,False
+Santakku,0x12298,,blank,0,,,,,,,,False
+Santakku,0x12299,SAG TIMES HA,blank,0,,,,,,,,False
+Santakku,0x1229a,SAG TIMES KAK,blank,0,,,,,,,,False
+Santakku,0x1229b,,blank,0,,,,,,,,False
+Santakku,0x1229c,SAG TIMES LUM,blank,0,,,,,,,,False
+Santakku,0x1229d,SAG TIMES MI,blank,0,,,,,,,,False
+Santakku,0x1229e,SAG TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x1229f,SAG TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x122a0,SAG TIMES SHID,blank,0,,,,,,,,False
+Santakku,0x122a1,,blank,0,,,,,,,,False
+Santakku,0x122a2,SAG TIMES U2,blank,0,,,,,,,,False
+Santakku,0x122a3,SAG TIMES UB,blank,0,,,,,,,,False
+Santakku,0x122a4,SAG TIMES UM,blank,0,,,,,,,,False
+Santakku,0x122a5,SAG TIMES UR,blank,0,,,,,,,,False
+Santakku,0x122a6,SAG TIMES USH,blank,0,,,,,,,,False
+Santakku,0x122a7,SAG OVER SAG,blank,0,,,,,,,,False
+Santakku,0x122aa,SAL LAGAB TIMES ASH2,blank,0,,,,,,,,False
+Santakku,0x122ab,,blank,0,,,,,,,,False
+Santakku,0x122af,SHA3 TIMES A,blank,0,,,,,,,,False
+Santakku,0x122b0,SHA3 TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x122b1,SHA3 TIMES GISH,blank,0,,,,,,,,False
+Santakku,0x122b2,SHA3 TIMES NE,blank,0,,,,,,,,False
+Santakku,0x122b3,SHA3 TIMES SHU2,blank,0,,,,,,,,False
+Santakku,0x122b4,SHA3 TIMES TUR,blank,0,,,,,,,,False
+Santakku,0x122b5,SHA3 TIMES U,blank,0,,,,,,,,False
+Santakku,0x122b6,SHA3 TIMES U PLUS A,blank,0,,,,,,,,False
+Santakku,0x122b8,,blank,0,,,,,,,,False
+Santakku,0x122bc,SHE OVER SHE GAD OVER GAD GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x122bd,SHE OVER SHE TAB OVER TAB GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x122be,SHEG9,blank,0,,,,,,,,False
+Santakku,0x122c1,SHESH2 & SUHUR,blank,0,,,,,,,,False
+Santakku,0x122c2,SHESHLAM,blank,0,,,,,,,,False
+Santakku,0x122c4,SHID TIMES A,blank,0,,,,,,,,False
+Santakku,0x122c5,SHID TIMES IM,blank,0,,,,,,,,False
+Santakku,0x122c7,SHIM TIMES A,blank,0,,,,,,,,False
+Santakku,0x122c8,SHIM TIMES BAL,blank,0,,,,,,,,False
+Santakku,0x122c9,SHIM TIMES BULUG,blank,0,,,,,,,,False
+Santakku,0x122ca,SHIM TIMES DIN,blank,0,,,,,,,,False
+Santakku,0x122cc,SHIM TIMES IGI,blank,0,,,,,,,,False
+Santakku,0x122cd,SHIM TIMES IGI GUNU,blank,0,,,,,,,,False
+Santakku,0x122ce,SHIM TIMES KUSHU2,blank,0,,,,,,,,False
+Santakku,0x122cf,SHIM TIMES LUL,blank,0,,,,,,,,False
+Santakku,0x122d0,SHIM TIMES MUG,blank,0,,,,,,,,False
+Santakku,0x122d1,SHIM TIMES SAL,blank,0,,,,,,,,False
+Santakku,0x122d4,SHIR TENU,blank,0,,,,,,,,False
+Santakku,0x122d5,,blank,0,,,,,,,,False
+Santakku,0x122d8,,blank,0,,,,,,,,False
+Santakku,0x122df,SIG4 OVER SIG4 SHU2,blank,0,,,,,,,,False
+Santakku,0x122e3,,blank,0,,,,,,,,False
+Santakku,0x122e5,SUD2,blank,0,,,,,,,,False
+Santakku,0x122e6,SUHUR,blank,0,,,,,,,,False
+Santakku,0x122e8,SUMASH,blank,0,,,,,,,,False
+Santakku,0x122ea,SUR9,blank,0,,,,,,,,False
+Santakku,0x122ec,TA ASTERISK,blank,0,,,,,,,,False
+Santakku,0x122ee,TA TIMES MI,blank,0,,,,,,,,False
+Santakku,0x122ef,TA GUNU,blank,0,,,,,,,,False
+Santakku,0x122f1,TAB OVER TAB NI OVER NI DISH OVER DISH,blank,0,,,,,,,,False
+Santakku,0x122f2,TAB SQUARED,blank,0,,,,,,,,False
+Santakku,0x122f4,,blank,0,,,,,,,,False
+Santakku,0x122f5,TAG TIMES GUD,blank,0,,,,,,,,False
+Santakku,0x122f6,,blank,0,,,,,,,,False
+Santakku,0x122f7,TAG TIMES SHU,blank,0,,,,,,,,False
+Santakku,0x122f8,TAG TIMES TUG2,blank,0,,,,,,,,False
+Santakku,0x122f9,TAG TIMES UD,blank,0,,,,,,,,False
+Santakku,0x122fd,TE GUNU,blank,0,,,,,,,,False
+Santakku,0x122ff,,blank,0,,,,,,,,False
+Santakku,0x12300,TIL,blank,0,,,,,,,,False
+Santakku,0x12302,,blank,0,,,,,,,,False
+Santakku,0x12303,TIR OVER TIR,blank,0,,,,,,,,False
+Santakku,0x12304,TIR OVER TIR GAD OVER GAD GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x1230a,TUR OVER TUR ZA OVER ZA,blank,0,,,,,,,,False
+Santakku,0x1230e,U OVER U PA OVER PA GAR OVER GAR,blank,0,,,,,,,,False
+Santakku,0x1230f,U OVER U SUR OVER SUR,blank,0,,,,,,,,False
+Santakku,0x12310,U OVER U U REVERSED OVER U REVERSED,blank,0,,,,,,,,False
+Santakku,0x12315,,blank,0,,,,,,,,False
+Santakku,0x12316,UD TIMES MI,blank,0,,,,,,,,False
+Santakku,0x12317,UD TIMES U PLUS U PLUS U,blank,0,,,,,,,,False
+Santakku,0x12319,UD GUNU,blank,0,,,,,,,,False
+Santakku,0x1231b,UD SHESHIG TIMES BAD,blank,0,,,,,,,,False
+Santakku,0x1231c,UDUG,blank,0,,,,,,,,False
+Santakku,0x1231e,,blank,0,,,,,,,,False
+Santakku,0x1231f,UM TIMES ME PLUS DA,blank,0,,,,,,,,False
+Santakku,0x12320,,blank,0,,,,,,,,False
+Santakku,0x12321,UM TIMES U,blank,0,,,,,,,,False
+Santakku,0x12323,UMUM,blank,0,,,,,,,,False
+Santakku,0x12325,UMUM TIMES PA,blank,0,,,,,,,,False
+Santakku,0x12327,,blank,0,,,,,,,,False
+Santakku,0x12329,UR CROSSING UR,blank,0,,,,,,,,False
+Santakku,0x1232a,UR SHESHIG,blank,0,,,,,,,,False
+Santakku,0x1232c,UR2 TIMES A PLUS HA,blank,0,,,,,,,,False
+Santakku,0x1232d,,blank,0,,,,,,,,False
+Santakku,0x1232e,UR2 TIMES AL,blank,0,,,,,,,,False
+Santakku,0x1232f,UR2 TIMES HA,blank,0,,,,,,,,False
+Santakku,0x12330,UR2 TIMES NUN,blank,0,,,,,,,,False
+Santakku,0x12331,UR2 TIMES U2,blank,0,,,,,,,,False
+Santakku,0x12332,UR2 TIMES U2 PLUS ASH,blank,0,,,,,,,,False
+Santakku,0x12333,,blank,0,,,,,,,,False
+Santakku,0x12336,URI3,blank,0,,,,,,,,False
+Santakku,0x12338,URU TIMES A,blank,0,,,,,,,,False
+Santakku,0x12339,,blank,0,,,,,,,,False
+Santakku,0x1233b,,blank,0,,,,,,,,False
+Santakku,0x1233c,URU TIMES GA,blank,0,,,,,,,,False
+Santakku,0x1233d,,blank,0,,,,,,,,False
+Santakku,0x1233e,URU TIMES GAN2 TENU,blank,0,,,,,,,,False
+Santakku,0x1233f,URU TIMES GAR,blank,0,,,,,,,,False
+Santakku,0x12340,URU TIMES GU,blank,0,,,,,,,,False
+Santakku,0x12341,URU TIMES HA,blank,0,,,,,,,,False
+Santakku,0x12343,,blank,0,,,,,,,,False
+Santakku,0x12344,,blank,0,,,,,,,,False
+Santakku,0x12345,,blank,0,,,,,,,,False
+Santakku,0x12346,,blank,0,,,,,,,,False
+Santakku,0x12348,,blank,0,,,,,,,,False
+Santakku,0x12349,,blank,0,,,,,,,,False
+Santakku,0x1234a,,blank,0,,,,,,,,False
+Santakku,0x1234b,URU TIMES TU,blank,0,,,,,,,,False
+Santakku,0x1234c,URU TIMES U PLUS GUD,blank,0,,,,,,,,False
+Santakku,0x1234d,URU TIMES UD,blank,0,,,,,,,,False
+Santakku,0x12350,URUDA TIMES U,blank,0,,,,,,,,False
+Santakku,0x12352,USH TIMES A,blank,0,,,,,,,,False
+Santakku,0x12353,USH TIMES KU,blank,0,,,,,,,,False
+Santakku,0x12354,,blank,0,,,,,,,,False
+Santakku,0x12355,USH TIMES TAK4,blank,0,,,,,,,,False
+Santakku,0x12356,,blank,0,,,,,,,,False
+Santakku,0x12357,USH2,blank,0,,,,,,,,False
+Santakku,0x12358,,blank,0,,,,,,,,False
+Santakku,0x12359,UTUKI,blank,0,,,,,,,,False
+Santakku,0x1235b,UZ3 TIMES KASKAL,blank,0,,,,,,,,False
+Santakku,0x1235e,ZA TENU,blank,0,,,,,,,,False
+Santakku,0x1235f,ZA SQUARED TIMES KUR,blank,0,,,,,,,,False
+Santakku,0x12361,,blank,0,,,,,,,,False
+Santakku,0x12365,ZI3,blank,0,,,,,,,,False
+Santakku,0x12366,ZIB,blank,0,,,,,,,,False
+Santakku,0x12367,ZIB KABA TENU,blank,0,,,,,,,,False
+Santakku,0x12368,ZIG,blank,0,,,,,,,,False
+Santakku,0x12369,ZIZ2,blank,0,,,,,,,,False
+Santakku,0x1236b,ZU5,blank,0,,,,,,,,False
+Santakku,0x1236c,ZU5 TIMES A,blank,0,,,,,,,,False
+Santakku,0x1236d,ZUBUR,blank,0,,,,,,,,False
+Santakku,0x1236f,,blank,0,,,,,,,,False
+Santakku,0x12370,,blank,0,,,,,,,,False
+Santakku,0x12371,AB2 TIMES A,blank,0,,,,,,,,False
+Santakku,0x12372,,blank,0,,,,,,,,False
+Santakku,0x12373,,blank,0,,,,,,,,False
+Santakku,0x12374,,blank,0,,,,,,,,False
+Santakku,0x12375,DISH PLUS SHU,blank,0,,,,,,,,False
+Santakku,0x12376,,blank,0,,,,,,,,False
+Santakku,0x12377,,blank,0,,,,,,,,False
+Santakku,0x12378,,blank,0,,,,,,,,False
+Santakku,0x12379,,blank,0,,,,,,,,False
+Santakku,0x1237a,,blank,0,,,,,,,,False
+Santakku,0x1237b,GE22,blank,0,,,,,,,,False
+Santakku,0x1237d,SIGN HUSH,blank,0,,,,,,,,False
+Santakku,0x1237e,,blank,0,,,,,,,,False
+Santakku,0x1237f,,blank,0,,,,,,,,False
+Santakku,0x12380,KA TIMES GISH,blank,0,,,,,,,,False
+Santakku,0x12381,,blank,0,,,,,,,,False
+Santakku,0x12382,,blank,0,,,,,,,,False
+Santakku,0x12383,,blank,0,,,,,,,,False
+Santakku,0x12384,KA TIMES PA,blank,0,,,,,,,,False
+Santakku,0x12385,,blank,0,,,,,,,,False
+Santakku,0x12386,KA TIMES TU,blank,0,,,,,,,,False
+Santakku,0x12387,KA TIMES UR2,blank,0,,,,,,,,False
+Santakku,0x12388,LAGAB TIMES GI,blank,0,,,,,,,,False
+Santakku,0x12389,,blank,0,,,,,,,,False
+Santakku,0x1238a,,blank,0,,,,,,,,False
+Santakku,0x1238b,,blank,0,,,,,,,,False
+Santakku,0x1238d,,blank,0,,,,,,,,False
+Santakku,0x12390,,blank,0,,,,,,,,False
+Santakku,0x12391,NINDA2 TIMES BAL,blank,0,,,,,,,,False
+Santakku,0x12392,NINDA2 TIMES GI,blank,0,,,,,,,,False
+Santakku,0x12393,,blank,0,,,,,,,,False
+Santakku,0x12394,,blank,0,,,,,,,,False
+Santakku,0x12395,,blank,0,,,,,,,,False
+Santakku,0x12396,,blank,0,,,,,,,,False
+Santakku,0x12397,SIGN TI2,blank,0,,,,,,,,False
+Santakku,0x12398,UM TIMES ME,blank,0,,,,,,,,False
+Santakku,0x12399,U U,blank,0,,,,,,,,False

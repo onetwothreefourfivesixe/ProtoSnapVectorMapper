@@ -1,0 +1,76 @@
+{
+ "verify": {
+  "checked": 919,
+  "failed": [],
+  "max_roundtrip_error_px": 1.1368683772161603e-13
+ },
+ "packs": {
+  "assurbanipal_santakku_lowest": {
+   "csv": "reports/stage5/review/review_assurbanipal_santakku_lowest.csv",
+   "pages": [
+    "reports/stage5/review/assurbanipal_santakku_lowest_01.png",
+    "reports/stage5/review/assurbanipal_santakku_lowest_02.png",
+    "reports/stage5/review/assurbanipal_santakku_lowest_03.png",
+    "reports/stage5/review/assurbanipal_santakku_lowest_04.png"
+   ],
+   "glyphs": 48,
+   "mean_confidence": 0.0008583333333333333
+  },
+  "assurbanipal_santakku_random": {
+   "csv": "reports/stage5/review/review_assurbanipal_santakku_random.csv",
+   "pages": [
+    "reports/stage5/review/assurbanipal_santakku_random_01.png",
+    "reports/stage5/review/assurbanipal_santakku_random_02.png",
+    "reports/stage5/review/assurbanipal_santakku_random_03.png",
+    "reports/stage5/review/assurbanipal_santakku_random_04.png"
+   ],
+   "glyphs": 48,
+   "mean_confidence": 0.19664791666666667
+  },
+  "esagil_lowest": {
+   "csv": "reports/stage5/review/review_esagil_lowest.csv",
+   "pages": [
+    "reports/stage5/review/esagil_lowest_01.png",
+    "reports/stage5/review/esagil_lowest_02.png",
+    "reports/stage5/review/esagil_lowest_03.png",
+    "reports/stage5/review/esagil_lowest_04.png"
+   ],
+   "glyphs": 48,
+   "mean_confidence": 0.0006291666666666667
+  },
+  "esagil_random": {
+   "csv": "reports/stage5/review/review_esagil_random.csv",
+   "pages": [
+    "reports/stage5/review/esagil_random_01.png",
+    "reports/stage5/review/esagil_random_02.png",
+    "reports/stage5/review/esagil_random_03.png",
+    "reports/stage5/review/esagil_random_04.png"
+   ],
+   "glyphs": 48,
+   "mean_confidence": 0.4643458333333334
+  }
+ },
+ "calibration": {
+  "glyphs": 90,
+  "bands": [
+   {
+    "lo": 0.0,
+    "hi": 0.3,
+    "glyphs": 40,
+    "fully_correct_rate": 0.2
+   },
+   {
+    "lo": 0.3,
+    "hi": 0.6,
+    "glyphs": 9,
+    "fully_correct_rate": 0.6666666666666666
+   },
+   {
+    "lo": 0.6,
+    "hi": 1.0,
+    "glyphs": 41,
+    "fully_correct_rate": 0.7317073170731707
+   }
+  ]
+ }
+}
