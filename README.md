@@ -513,20 +513,6 @@ Those are the Stage 2 and Stage 4 reported scores to the digit, and the clone's 
 
 Two things to decide before the first commit. `annotations_11.09.2026/` holds a single 99.8 MB file, just under GitHub's 100 MB limit for a file and unused by this pipeline; it probably belongs in Git LFS or outside the repository. And `generated_round1/` is an archive of superseded output that may not be worth tracking.
 
-## Review schedule
-
-| Stage | Main artifact for review | Rough effort |
-|---|---|---|
-| 0 (done) | Contact sheet, split files, wedge canonicalization | 2 days |
-| 1 (done) | Metric spec, null and oracle scores | 1 day |
-| 2 (done) | Baseline score, failure gallery | 3 days |
-| 3 (done) | Learned model score, curves, gallery | 5 days |
-| 4 (done) | Ablation table, ship decision | 3 days |
-| 5 (round 1 closed, round 2 awaiting review) | Generated skeletons, acceptance rate | 3 days plus annotation time |
-| 6 (done) | Reproduced score from clean clone | 2 days |
-
-Effort assumes one person and no GPU queueing delays. Stages 0 and 1 are worth doing carefully because every later stage is judged through them.
-
 ## Risks and open questions
 
 - **Point semantics** are settled. ProtoSnap's paper defines the skeleton as a four-keypoint scheme per stroke, three keypoints for the triangular head and one for the tail, which is the structure Stage 0 inferred from connectivity. The loader still identifies the apex by topology, since annotators did not use a consistent point order.
