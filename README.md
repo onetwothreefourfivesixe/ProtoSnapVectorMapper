@@ -8,13 +8,13 @@ Extends the sign coverage of [ProtoSnap](https://tau-vailab.github.io/ProtoSnap/
 
 A prototype is two things: a rendered font image of the sign, and a **skeleton** that encodes its strokes. ProtoSnap's skeleton uses a four-keypoint scheme per stroke, three keypoints for the corners of the wedge's triangular head and a fourth for the end of its tail, together with the edges that connect them.
 
-That skeleton is the bottleneck. ProtoSnap can only be applied to a sign that has one, and the skeletons are made by hand: keypoints annotated on each font image and then connected into strokes by experts. Font images are cheap, since a font renders every sign it contains. Skeletons are not. In the data this project started from, three fonts render 2,262 glyph images, but only 449 of them, covering 301 distinct signs in two fonts, have a skeleton. Every other sign is out of ProtoSnap's reach, and the rare signs, where ProtoSnap helps recognition most, are the ones least likely to have been annotated.
+For ProtoSnap to run, a sign must already have a vector skeleton, and the skeletons are made by hand: keypoints annotated on each font image and then connected into strokes by experts. In the data this project started from, three fonts render 2,262 glyph images, but only 449 of them, covering 301 distinct signs in two fonts, have a skeleton. Every other sign is out of ProtoSnap's reach, and the rare signs, where ProtoSnap helps recognition most, are the ones least likely to have been annotated.
 
 Coverage matters in a second direction too. ProtoSnap's authors note that alignment fails when the photographed sign is a structurally different variant from the prototype. Cuneiform changed across two millennia, so a prototype drawn in one period's script is a poor match for a tablet from another. Prototypes in more fonts mean more periods ProtoSnap can work on. The three fonts here are Santakku (Old Babylonian), Assurbanipal (Neo-Assyrian) and Esagil (Neo-Babylonian), and Esagil began with no skeletons at all.
 
 ## What this project does
 
-It learns the mapping ProtoSnap's annotators performed by hand: **font glyph image in, prototype skeleton out**. A model trained on the 449 hand-annotated pairs produces skeletons for the glyphs that have none, in the same CSV format as the hand-made ones, so the output drops into ProtoSnap as additional prototypes with no change on that side.
+This project has developed a model that learns the mapping ProtoSnap's annotators performed by hand: **font glyph image in, prototype skeleton out**. A model trained on the 449 hand-annotated pairs produces skeletons for the glyphs that have none, in the same CSV format as the hand-made ones, so the output drops into ProtoSnap as additional prototypes with no change on that side.
 
 Because a wrong prototype would silently corrupt every alignment made with it, the project does not stop at prediction. Each generated skeleton carries a confidence, a reviewer accepts or corrects it in a drag-and-drop editor, and only reviewed skeletons are promoted to the labelled set, which then retrains the model for the next round.
 
